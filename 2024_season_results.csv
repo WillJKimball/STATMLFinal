@@ -1,0 +1,5203 @@
+home_team,away_team,home_score,away_score,neutral
+Providence,Boston College,57,62,0
+Boston College,Fairfield,89,70,0
+The Citadel,Boston College,71,75,0
+Boston College,Richmond,68,61,0
+Boston College,Harvard,73,64,0
+Boston College,Colorado State,74,86,1
+Boston College,Loyola-Chicago,68,71,1
+Vanderbilt,Boston College,62,80,0
+Boston College,NC State,78,84,0
+Boston College,Cent Conn St,82,68,0
+Boston College,Holy Cross,95,64,0
+Boston College,St John's,86,80,1
+Boston College,Lehigh,85,69,0
+Boston College,Wake Forest,78,84,0
+Georgia Tech,Boston College,87,95,0
+Syracuse,Boston College,69,59,0
+Clemson,Boston College,89,78,0
+Boston College,Notre Dame,63,59,0
+Boston College,UNC,66,76,0
+Virginia Tech,Boston College,76,71,0
+Notre Dame,Boston College,58,61,0
+Boston College,Syracuse,80,75,0
+Boston College,FSU,62,63,0
+Duke,Boston College,80,65,0
+Boston College,Louisville,89,77,0
+Boston College,Miami,85,77,0
+FSU,Boston College,84,76,0
+NC State,Boston College,81,70,0
+Boston College,UVA,68,72,0
+Boston College,Pitt,65,90,0
+Miami,Boston College,57,67,0
+Louisville,Boston College,61,67,0
+Boston College,Miami,81,65,1
+Boston College,Clemson,76,55,1
+Boston College,UVA,60,66,1
+Clemson,Winthrop,78,56,0
+Clemson,UAB,77,76,1
+Davidson,Clemson,65,68,1
+Clemson,Boise State,85,68,0
+Clemson,Alcorn State,90,69,0
+Alabama,Clemson,77,85,0
+Pitt,Clemson,70,79,0
+Clemson,South Carolina,72,67,0
+Clemson,TCU,74,66,1
+Memphis,Clemson,79,77,0
+Clemson,Radford,93,58,0
+Miami,Clemson,95,82,0
+Clemson,UNC,55,65,0
+Virginia Tech,Clemson,87,72,0
+Clemson,Georgia Tech,90,93,0
+FSU,Clemson,67,78,0
+Duke,Clemson,72,71,0
+Clemson,Louisville,70,64,0
+Clemson,UVA,65,66,0
+UNC,Clemson,76,80,0
+Syracuse,Clemson,68,77,0
+Clemson,Miami,77,60,0
+Clemson,NC State,77,78,0
+Georgia Tech,Clemson,57,81,0
+Clemson,FSU,74,63,0
+Clemson,Pitt,69,62,0
+Notre Dame,Clemson,69,62,0
+Clemson,Syracuse,90,75,0
+Wake Forest,Clemson,81,76,0
+Duke,Dartmouth,92,54,0
+Duke,Arizona,73,78,0
+Michigan State,Duke,65,74,1
+Duke,Bucknell,90,60,0
+Duke,La Salle,95,66,0
+Arkansas,Duke,80,75,0
+Georgia Tech,Duke,72,68,0
+Duke,Charlotte,80,56,0
+Duke,Hofstra,89,68,0
+Duke,Baylor,78,70,1
+Duke,Syracuse,86,66,0
+Notre Dame,Duke,59,67,0
+Pitt,Duke,53,75,0
+Duke,Georgia Tech,84,79,0
+Duke,Pitt,76,80,0
+Louisville,Duke,69,83,0
+Virginia Tech,Duke,67,77,0
+UNC,Duke,93,84,0
+Duke,Notre Dame,71,53,0
+Duke,Wake Forest,77,69,0
+FSU,Duke,67,76,0
+Miami,Duke,55,84,0
+Wake Forest,Duke,83,79,0
+Duke,Louisville,84,59,0
+Duke,UVA,73,48,0
+NC State,Duke,64,79,0
+Duke,UNC,79,84,0
+Duke,NC State,69,74,1
+FSU,Kennesaw St,94,67,0
+FSU,Cent Michigan,94,67,0
+Florida,FSU,89,68,0
+UNLV,FSU,75,83,1
+Colorado,FSU,71,77,1
+FSU,Georgia,66,68,0
+UNC,FSU,78,70,0
+FSU,USF,72,88,1
+FSU,SMU,57,68,0
+FSU,North Florida,91,75,0
+FSU,Winthrop,67,61,0
+FSU,Lipscomb,75,78,0
+FSU,Georgia Tech,82,71,0
+FSU,Virginia Tech,77,74,0
+FSU,Wake Forest,87,82,0
+Notre Dame,FSU,58,67,0
+Miami,FSU,75,84,0
+Syracuse,FSU,69,85,0
+FSU,UNC,68,75,0
+Louisville,FSU,101,92,0
+FSU,UVA,76,80,0
+Virginia Tech,FSU,83,75,0
+FSU,NC State,90,83,0
+Georgia Tech,FSU,85,76,0
+Pitt,FSU,88,73,0
+FSU,Miami,83,75,0
+Virginia Tech,FSU,76,86,1
+UNC,FSU,92,67,1
+Georgia Tech,Ga Southern,84,62,0
+Georgia Tech,Howard,88,85,0
+Georgia Tech,UMass Lowell,71,74,0
+Cincinnati,Georgia Tech,89,54,0
+Georgia Tech,Miss St,67,59,0
+Georgia,Georgia Tech,76,62,0
+Georgia Tech,Alabama A&M,70,49,0
+Penn State,Georgia Tech,81,82,1
+UMass,Georgia Tech,70,73,1
+Hawai'i,Georgia Tech,68,73,0
+Nevada,Georgia Tech,72,64,1
+Georgia Tech,Notre Dame,68,75,0
+Georgia Tech,UVA,66,75,0
+Georgia Tech,Pitt,64,72,0
+Virginia Tech,Georgia Tech,91,67,0
+Georgia Tech,UNC,74,73,0
+NC State,Georgia Tech,82,76,0
+Georgia Tech,Wake Forest,51,80,0
+Louisville,Georgia Tech,79,67,0
+Notre Dame,Georgia Tech,58,55,0
+Georgia Tech,Syracuse,65,60,0
+Miami,Georgia Tech,76,80,0
+Wake Forest,Georgia Tech,69,70,0
+UVA,Georgia Tech,72,57,0
+Georgia Tech,Notre Dame,80,84,1
+Louisville,UMBC,94,93,0
+Louisville,Chattanooga,71,81,0
+Louisville,Coppin State,61,41,0
+Texas,Louisville,81,80,1
+Indiana,Louisville,74,66,1
+Louisville,New Mexico St,90,84,0
+Virginia Tech,Louisville,75,68,0
+DePaul,Louisville,75,68,0
+Louisville,Arkansas State,63,75,0
+Louisville,Pepperdine,85,63,0
+Louisville,Kentucky,76,95,0
+UVA,Louisville,77,53,0
+Louisville,Pitt,70,83,0
+Miami,Louisville,71,80,0
+Louisville,NC State,83,89,0
+UNC,Louisville,86,70,0
+Wake Forest,Louisville,90,65,0
+Louisville,UVA,52,69,0
+Syracuse,Louisville,94,92,0
+Pitt,Louisville,86,59,0
+Louisville,Notre Dame,50,72,0
+Louisville,Syracuse,76,82,0
+Louisville,Virginia Tech,64,80,0
+NC State,Louisville,94,85,1
+Miami,NJIT,101,60,0
+Miami,UCF,88,72,0
+Miami,FIU,86,80,0
+Miami,Georgia,79,68,1
+Kansas State,Miami,83,91,1
+Kentucky,Miami,95,73,0
+Miami,Notre Dame,62,49,0
+Miami,Colorado,63,90,1
+Miami,La Salle,84,77,0
+Miami,North Florida,95,55,0
+Wake Forest,Miami,86,82,0
+Virginia Tech,Miami,71,75,0
+Syracuse,Miami,72,69,0
+Notre Dame,Miami,61,73,0
+Miami,Pitt,72,68,0
+NC State,Miami,74,68,0
+Miami,Virginia Tech,82,74,0
+UVA,Miami,60,38,0
+Miami,UNC,72,75,0
+UNC,Miami,75,71,0
+NC State,The Citadel,72,59,0
+NC State,Abil Christian,84,64,0
+NC State,Charleston So,87,53,0
+NC State,Vanderbilt,84,78,1
+NC State,BYU,86,95,1
+Ole Miss,NC State,72,52,0
+NC State,MD-E Shore,93,61,0
+NC State,UT Martin,81,67,0
+NC State,Tennessee,70,79,1
+NC State,Saint Louis,82,70,0
+NC State,Detroit Mercy,83,66,0
+Notre Dame,NC State,52,54,0
+NC State,UVA,76,60,0
+NC State,UNC,54,67,0
+NC State,Wake Forest,83,76,0
+NC State,Virginia Tech,78,84,0
+UVA,NC State,59,53,0
+Syracuse,NC State,77,65,0
+NC State,Pitt,64,67,0
+Wake Forest,NC State,83,79,0
+NC State,Syracuse,83,87,0
+UNC,NC State,79,70,0
+Pitt,NC State,81,73,0
+NC State,Syracuse,83,65,1
+NC State,UVA,73,65,1
+NC State,UNC,84,76,1
+UNC,Radford,86,70,0
+UNC,Lehigh,90,68,0
+UNC,UC Riverside,77,52,0
+UNC,Northern Iowa,91,69,1
+UNC,Villanova,81,83,1
+UNC,Arkansas,87,72,1
+UNC,Tennessee,100,92,0
+UNC,UConn,76,87,1
+UNC,Kentucky,83,87,1
+UNC,Oklahoma,81,69,1
+UNC,Charleston So,105,60,0
+Pitt,UNC,57,70,0
+UNC,Syracuse,103,67,0
+UNC,Wake Forest,85,64,0
+Syracuse,UNC,86,79,0
+UNC,Virginia Tech,96,81,0
+UVA,UNC,44,54,0
+UNC,Notre Dame,84,51,0
+UNC,Pitt,72,65,1
+Notre Dame,Niagara,70,63,0
+Notre Dame,W Carolina,61,71,0
+Auburn,Notre Dame,83,59,1
+Oklahoma State,Notre Dame,64,66,1
+Notre Dame,MD-E Shore,75,55,0
+South Carolina,Notre Dame,65,53,0
+Notre Dame,W Michigan,86,65,0
+Marquette,Notre Dame,78,59,0
+Notre Dame,Georgetown,68,72,0
+Notre Dame,The Citadel,45,65,0
+Notre Dame,Marist,60,56,0
+Notre Dame,UVA,76,54,0
+UVA,Notre Dame,65,53,0
+Pitt,Notre Dame,70,60,0
+Notre Dame,Virginia Tech,74,66,0
+Syracuse,Notre Dame,88,85,0
+Notre Dame,Wake Forest,70,65,0
+Virginia Tech,Notre Dame,82,76,0
+Wake Forest,Notre Dame,72,59,1
+Pitt,NC A&T,100,52,0
+Pitt,Binghamton,89,60,0
+Pitt,FGCU,86,74,0
+Pitt,Jacksonville,107,56,0
+Pitt,Florida,71,86,1
+Oregon State,Pitt,51,76,1
+Pitt,Missouri,64,71,0
+West Virginia,Pitt,63,80,0
+Pitt,Canisius,82,71,0
+Pitt,S Carolina St,86,50,0
+Pitt,Fort Wayne,62,48,0
+Syracuse,Pitt,81,73,0
+Pitt,Syracuse,58,69,0
+Pitt,Wake Forest,77,72,0
+UVA,Pitt,63,74,0
+Wake Forest,Pitt,91,58,0
+Pitt,Virginia Tech,79,64,0
+Wake Forest,Pitt,69,81,1
+Syracuse,UNH,83,72,0
+Syracuse,Canisius,89,77,0
+Syracuse,Colgate,79,75,0
+Syracuse,Tennessee,56,73,1
+Syracuse,Gonzaga,57,76,1
+Syracuse,LSU,80,57,0
+UVA,Syracuse,84,62,0
+Syracuse,Cornell,81,70,0
+Georgetown,Syracuse,68,80,0
+Syracuse,Oregon,83,63,1
+Syracuse,Niagara,83,71,0
+Wake Forest,Syracuse,99,70,0
+Syracuse,Virginia Tech,84,71,0
+UVA,Colorado State,42,67,1
+UVA,Florida,73,70,1
+UVA,NC A&T,80,51,0
+UVA,Texas Southern,62,33,0
+UVA,Wisconsin,41,65,1
+UVA,West Virginia,56,54,1
+UVA,Texas A&M,59,47,0
+UVA,NC Central,77,47,0
+UVA,Northeastern,56,54,0
+Memphis,UVA,77,54,0
+UVA,Morgan State,79,44,0
+Wake Forest,UVA,66,47,0
+UVA,Virginia Tech,65,57,0
+UVA,Wake Forest,49,47,0
+Virginia Tech,UVA,75,41,0
+Virginia Tech,Richmond,74,58,0
+Virginia Tech,Coppin State,100,55,0
+South Carolina,Virginia Tech,79,77,1
+Virginia Tech,Campbell,60,44,0
+Virginia Tech,Wofford,98,76,0
+Virginia Tech,Boise State,82,75,1
+Virginia Tech,Iowa State,71,62,1
+FAU,Virginia Tech,84,50,1
+Auburn,Virginia Tech,74,57,0
+Virginia Tech,Valparaiso,71,50,0
+Virginia Tech,Vermont,73,51,0
+Virginia Tech,American U,77,55,0
+Wake Forest,Virginia Tech,86,63,0
+Virginia Tech,Wake Forest,87,76,0
+Wake Forest,Elon,101,78,0
+Georgia,Wake Forest,80,77,0
+Wake Forest,Utah,70,77,1
+Towson,Wake Forest,61,71,1
+Wake Forest,LSU,80,86,1
+Wake Forest,Charleston So,71,56,0
+Wake Forest,Florida,82,71,0
+Wake Forest,Rutgers,76,57,0
+Wake Forest,NJIT,83,59,0
+Wake Forest,Delaware State,88,59,0
+Wake Forest,Presbyterian,91,68,0
+George Mason,Austin Peay,67,45,0
+UTEP,Austin Peay,71,63,0
+Sacramento St,Austin Peay,71,74,1
+Appalachian St,Austin Peay,78,58,0
+Austin Peay,Morehead State,50,61,0
+Tennessee St,Austin Peay,69,65,0
+Austin Peay,Murray State,53,49,0
+S Illinois,Austin Peay,68,70,0
+W Kentucky,Austin Peay,65,64,0
+Austin Peay,Ohio,71,67,0
+Memphis,Austin Peay,81,70,0
+E Kentucky,Austin Peay,69,59,0
+Lipscomb,Austin Peay,91,77,0
+Austin Peay,Cent Arkansas,94,71,0
+Stetson,Austin Peay,83,82,0
+FGCU,Austin Peay,73,67,0
+Jacksonville,Austin Peay,63,43,0
+Austin Peay,North Florida,95,91,0
+Austin Peay,Kennesaw St,85,69,0
+Cent Arkansas,Austin Peay,67,77,0
+Austin Peay,Lipscomb,85,90,0
+Austin Peay,E Kentucky,83,79,0
+Austin Peay,North Florida,101,98,0
+Stetson,Austin Peay,94,91,0
+Tulsa,Cent Arkansas,70,53,0
+Cent Arkansas,AR-Pine Bluff,83,85,0
+Vanderbilt,Cent Arkansas,75,71,0
+SE Missouri St,Cent Arkansas,70,68,0
+Kansas State,Cent Arkansas,100,56,0
+Cent Arkansas,E Michigan,71,74,0
+Cent Arkansas,New Orleans,74,79,0
+Loyola Mary,Cent Arkansas,90,63,0
+Hawai'i,Cent Arkansas,95,76,0
+Cent Arkansas,Little Rock,75,71,0
+E Illinois,Cent Arkansas,70,73,0
+Cent Arkansas,W Illinois,54,65,0
+Oklahoma,Cent Arkansas,88,72,0
+Missouri,Cent Arkansas,92,59,0
+Cent Arkansas,E Kentucky,63,86,0
+Lipscomb,Cent Arkansas,86,96,0
+Cent Arkansas,Kennesaw St,92,87,0
+Cent Arkansas,FGCU,59,82,0
+Cent Arkansas,Stetson,62,73,0
+Jacksonville,Cent Arkansas,59,55,0
+North Florida,Cent Arkansas,77,79,0
+Cent Arkansas,Lipscomb,68,85,0
+E Kentucky,Cent Arkansas,95,82,0
+E Kentucky,UT Martin,74,80,0
+E Kentucky,PV A&M,64,76,0
+E Kentucky,Troy,77,76,0
+W Kentucky,E Kentucky,79,69,0
+UNCG,E Kentucky,87,85,0
+UL Lafayette,E Kentucky,73,62,0
+E Kentucky,N Kentucky,75,85,0
+Troy,E Kentucky,88,81,0
+Alabama,E Kentucky,111,67,0
+Purdue,E Kentucky,80,53,0
+E Kentucky,Lipscomb,80,72,0
+E Kentucky,Jacksonville,75,59,0
+E Kentucky,North Florida,89,76,0
+Kennesaw St,E Kentucky,76,86,0
+E Kentucky,FGCU,90,82,0
+Stetson,E Kentucky,87,79,0
+E Kentucky,Chicago State,86,73,0
+Lipscomb,E Kentucky,81,67,0
+E Kentucky,Jacksonville,65,67,0
+Indiana,FGCU,69,63,0
+Missouri State,FGCU,70,61,1
+Hampton,FGCU,92,85,1
+Norfolk State,FGCU,69,66,1
+FGCU,UNC Wilmington,55,71,0
+FIU,FGCU,65,68,0
+Cincinnati,FGCU,99,62,0
+Minnesota,FGCU,77,57,0
+Mercer,FGCU,70,65,0
+Ga Southern,FGCU,42,53,0
+FGCU,FAU,72,68,0
+FGCU,Jacksonville,80,70,0
+FGCU,North Florida,58,78,0
+Kennesaw St,FGCU,78,75,0
+FGCU,Stetson,80,56,0
+FGCU,Lipscomb,72,98,0
+Stetson,FGCU,61,60,0
+FGCU,Kennesaw St,67,74,0
+North Florida,FGCU,60,79,0
+Jacksonville,FGCU,57,59,0
+Xavier,Jacksonville,79,56,0
+Jacksonville,Ga Southern,85,68,0
+Robert Morris,Jacksonville,65,74,0
+Fair Dickinson,Jacksonville,90,91,1
+Jacksonville,Campbell,62,48,0
+Ga Southern,Jacksonville,79,81,0
+UCF,Jacksonville,94,52,0
+S Carolina St,Jacksonville,86,85,0
+Jacksonville,UL Monroe,75,65,0
+Purdue,Jacksonville,100,57,0
+Stetson,Jacksonville,71,55,0
+North Florida,Jacksonville,82,74,0
+Jacksonville,Kennesaw St,79,83,0
+Lipscomb,Jacksonville,84,82,0
+Kennesaw St,Jacksonville,66,61,0
+Jacksonville,North Florida,62,50,0
+Jacksonville,Stetson,73,86,0
+Kennesaw St,Jacksonville,86,92,0
+Stetson,Jacksonville,88,87,0
+Ga Southern,Kennesaw St,92,96,1
+Northeastern,Kennesaw St,77,79,1
+ECU,Kennesaw St,85,84,0
+FIU,Kennesaw St,91,84,0
+Kennesaw St,Georgia State,88,77,0
+Kennesaw St,UNC Asheville,79,76,0
+USC Upstate,Kennesaw St,77,84,0
+Presbyterian,Kennesaw St,84,94,0
+UNC Asheville,Kennesaw St,79,70,0
+Indiana,Kennesaw St,100,87,0
+Kennesaw St,Stetson,88,70,0
+North Florida,Kennesaw St,84,75,0
+Lipscomb,Kennesaw St,101,95,0
+Kennesaw St,North Florida,81,82,0
+Stetson,Kennesaw St,84,72,0
+Wichita State,Lipscomb,76,59,0
+Drake,Lipscomb,85,70,0
+Tenn Tech,Lipscomb,65,96,0
+Lipscomb,Alabama A&M,106,81,0
+UNC Asheville,Lipscomb,75,86,1
+Bowling Green,Lipscomb,82,61,1
+Wofford,Lipscomb,78,85,1
+Lipscomb,Chattanooga,82,68,0
+UCF,Lipscomb,72,57,0
+Belmont,Lipscomb,72,71,0
+Lipscomb,Tennessee St,78,71,0
+Lipscomb,Arkansas,66,69,1
+Stetson,Lipscomb,80,59,0
+North Florida,Lipscomb,85,76,0
+Charleston So,North Florida,70,81,0
+S Carolina St,North Florida,87,77,0
+North Florida,Presbyterian,69,81,0
+North Florida,Northwestern St,80,74,0
+North Florida,Maine,67,58,0
+LSU,North Florida,75,63,0
+Iowa,North Florida,103,78,0
+North Florida,High Point,79,86,0
+North Florida,Ga Southern,64,56,0
+Georgia,North Florida,78,60,0
+Stetson,North Florida,75,74,0
+North Florida,Stetson,78,59,0
+UNLV,Stetson,71,55,0
+Houston,Stetson,79,48,0
+Milwaukee,Stetson,67,85,1
+Cent Michigan,Stetson,61,71,1
+UCF,Stetson,82,85,0
+Chicago State,Stetson,77,54,0
+Charlotte,Stetson,85,62,0
+Omaha,Stetson,88,80,0
+FIU,Stetson,68,80,0
+Cincinnati,Stetson,83,75,0
+Stetson,Charlotte,79,75,0
+Stetson,Chicago State,70,77,0
+Northwestern,Binghamton,72,61,0
+Loyola (MD),Binghamton,57,63,0
+Binghamton,Marist,82,59,0
+Sacred Heart,Binghamton,89,75,0
+Binghamton,Army,75,68,0
+Colgate,Binghamton,84,49,0
+Binghamton,Niagara,74,69,0
+St Bonaventure,Binghamton,90,64,0
+Bryant,Binghamton,77,69,0
+Albany,Binghamton,95,75,0
+Binghamton,Vermont,62,82,0
+Binghamton,UMass Lowell,60,80,0
+UNH,Binghamton,79,73,0
+Maine,Binghamton,50,51,0
+Binghamton,NJIT,75,66,0
+Vermont,Binghamton,62,49,0
+Binghamton,Albany,69,57,0
+Binghamton,Bryant,69,70,0
+Binghamton,UMBC,78,89,0
+NJIT,Binghamton,55,69,0
+UMass Lowell,Binghamton,87,80,0
+Binghamton,Maine,76,74,0
+Binghamton,UNH,87,74,0
+UMBC,Binghamton,71,72,0
+UNH,Binghamton,77,64,0
+Bryant,Manhattan,59,61,0
+Rutgers,Bryant,66,57,0
+Boston U,Bryant,95,79,0
+FAU,Bryant,52,61,0
+Bryant,Howard,67,61,0
+Xavier,Bryant,100,75,0
+Brown,Bryant,66,69,0
+Siena,Bryant,51,67,0
+Stony Brook,Bryant,86,75,0
+Cincinnati,Bryant,85,53,0
+Towson,Bryant,93,101,1
+Bryant,Drexel,104,86,0
+Ole Miss,Bryant,95,78,0
+UMBC,Bryant,67,81,0
+UNH,Bryant,74,89,0
+Albany,Bryant,89,98,0
+NJIT,Bryant,55,70,0
+Bryant,Vermont,57,67,0
+Bryant,UMBC,99,95,0
+Maine,Bryant,79,72,0
+Bryant,UNH,85,66,0
+Bryant,Maine,77,72,0
+Bryant,UMass Lowell,77,86,0
+Vermont,Bryant,65,48,0
+UMass Lowell,Bryant,89,67,0
+Bryant,NJIT,101,82,0
+Bryant,Albany,83,79,0
+Bryant,Maine,84,58,0
+UMass Lowell,Bryant,77,70,0
+Charlotte,Maine,69,52,0
+Northwestern St,Maine,65,78,1
+Presbyterian,Maine,66,80,1
+USF,Maine,59,70,0
+Columbia,Maine,75,56,0
+Holy Cross,Maine,57,72,0
+Maine,Brown,60,49,0
+Boston U,Maine,65,74,0
+Maine,Cent Conn St,69,56,0
+UCF,Maine,74,51,0
+FIU,Maine,82,74,0
+Minnesota,Maine,80,62,0
+Vermont,Maine,65,58,0
+Maine,UNH,74,79,0
+UMBC,Maine,70,65,0
+NJIT,Maine,64,70,0
+Maine,Albany,81,73,0
+UMass Lowell,Maine,76,62,0
+UNH,Maine,60,57,0
+Maine,Vermont,57,68,0
+Maine,UMBC,62,56,0
+Maine,NJIT,68,58,0
+Albany,Maine,71,74,0
+Maine,UMass Lowell,71,65,0
+NJIT,St Peter's,48,75,0
+American U,NJIT,87,73,0
+NJIT,Delaware State,81,72,0
+Wagner,NJIT,64,51,0
+George Mason,NJIT,86,68,0
+NJIT,Fair Dickinson,68,71,0
+Fordham,NJIT,77,80,0
+Niagara,NJIT,89,81,0
+NJIT,Morgan State,69,53,0
+NJIT,Albany,73,79,0
+UMass Lowell,NJIT,70,62,0
+Vermont,NJIT,76,55,0
+NJIT,UNH,62,70,0
+UMBC,NJIT,74,75,0
+NJIT,Vermont,63,61,0
+NJIT,UMass Lowell,71,64,0
+Albany,NJIT,83,58,0
+UNH,NJIT,83,78,0
+NJIT,UMBC,60,79,0
+UNH,Brown,82,64,0
+G Washington,UNH,79,67,0
+UNH,Marist,74,71,0
+Fairfield,UNH,80,83,0
+UConn,UNH,84,64,0
+Sacred Heart,UNH,84,90,0
+UNH,Columbia,80,71,0
+Dartmouth,UNH,76,64,0
+URI,UNH,71,81,0
+Iowa State,UNH,85,70,0
+UNH,UMass Lowell,75,82,0
+UMBC,UNH,58,64,0
+UNH,Albany,79,86,0
+UMass Lowell,UNH,73,89,0
+Vermont,UNH,70,54,0
+UNH,UMBC,68,86,0
+Albany,UNH,91,67,0
+UNH,Vermont,64,68,0
+Vermont,UNH,66,59,0
+UMass,Albany,92,71,0
+Columbia,Albany,75,78,0
+Seton Hall,Albany,96,71,0
+Quinnipiac,Albany,85,82,0
+Army,Albany,59,62,1
+Siena,Albany,51,86,0
+Albany,Boston U,86,72,0
+Albany,Dartmouth,73,68,0
+Temple,Albany,78,73,1
+Drexel,Albany,71,52,0
+Albany,Sacred Heart,93,79,0
+USF,Albany,89,73,0
+Harvard,Albany,76,71,0
+Albany,UMass Lowell,76,97,0
+Vermont,Albany,81,59,0
+Albany,UMBC,102,114,0
+UMBC,Albany,80,75,0
+Albany,Vermont,80,94,0
+UMass Lowell,Albany,104,95,0
+Vermont,Albany,75,72,0
+UMBC,Marist,59,65,0
+UMBC,Sacred Heart,85,80,0
+UMBC,Loyola (MD),94,79,0
+Maryland,UMBC,92,68,0
+William & Mary,UMBC,96,81,0
+Hampton,UMBC,76,80,0
+Coppin State,UMBC,89,70,0
+UMBC,Lehigh,92,87,0
+Morgan State,UMBC,92,80,0
+UMBC,Towson,73,89,0
+St Peter's,UMBC,66,60,0
+Iowa,UMBC,103,81,0
+UMBC,American U,85,87,0
+Vermont,UMBC,77,72,0
+UMass Lowell,UMBC,86,82,0
+UMBC,UMass Lowell,80,93,0
+UMBC,Vermont,70,72,0
+UMass Lowell,UMBC,94,89,0
+Dartmouth,UMass Lowell,48,81,0
+Arizona State,UMass Lowell,71,69,0
+St Peter's,UMass Lowell,61,69,0
+UMass,UMass Lowell,91,77,0
+UMass Lowell,Cent Conn St,54,57,0
+Boston U,UMass Lowell,63,71,0
+UMass Lowell,Vermont,65,72,0
+Vermont,UMass Lowell,74,62,0
+Vermont,UMass Lowell,66,61,0
+Charleston,Vermont,64,73,1
+Saint Louis,Vermont,68,78,1
+Liberty,Vermont,71,61,1
+Bradley,Vermont,79,70,0
+Vermont,Dartmouth,64,53,0
+Vermont,Yale,66,65,0
+Northeastern,Vermont,71,73,0
+Vermont,Colgate,71,77,0
+Toledo,Vermont,60,86,0
+Miami (OH),Vermont,70,69,0
+Brown,Vermont,70,71,0
+Liberty,Charlotte,71,59,1
+Charlotte,Utah Valley,62,45,0
+George Mason,Charlotte,49,54,1
+UCF,Charlotte,74,71,1
+Charlotte,Georgia State,65,57,0
+Charlotte,Davidson,81,85,0
+Richmond,Charlotte,64,56,0
+SMU,Charlotte,66,54,0
+Charlotte,FAU,70,68,0
+Charlotte,Tulsa,84,76,0
+UTSA,Charlotte,58,66,0
+Rice,Charlotte,79,81,0
+Charlotte,North Texas,56,44,0
+Charlotte,UAB,76,70,0
+Tulane,Charlotte,71,75,0
+Charlotte,ECU,67,52,0
+USF,Charlotte,72,69,0
+Temple,Charlotte,70,73,0
+Charlotte,UTSA,79,70,0
+Charlotte,Wichita State,72,61,0
+Memphis,Charlotte,76,52,0
+Tulsa,Charlotte,69,67,0
+Charlotte,USF,61,76,0
+Charlotte,Rice,69,64,0
+ECU,Charlotte,72,82,0
+Temple,Charlotte,58,54,1
+ECU,Campbell,77,63,0
+ECU,USC Upstate,81,83,0
+ECU,Northeastern,76,82,0
+ECU,Ga Southern,82,64,0
+George Mason,ECU,81,59,0
+ECU,UNC Wilmington,74,66,0
+ECU,MD-E Shore,63,52,0
+ECU,South Carolina,62,68,0
+ECU,Florida,65,70,1
+ECU,Delaware State,79,50,0
+ECU,ETSU,70,86,0
+FAU,ECU,79,64,0
+ECU,Tulsa,62,57,0
+Temple,ECU,62,73,0
+ECU,SMU,64,75,0
+ECU,North Texas,59,60,0
+UAB,ECU,69,61,0
+Wichita State,ECU,52,54,0
+ECU,Temple,70,64,0
+ECU,USF,60,71,0
+UTSA,ECU,73,84,0
+ECU,Wichita State,68,55,0
+ECU,Tulane,81,67,0
+Rice,ECU,70,52,0
+ECU,Memphis,58,82,0
+North Texas,ECU,84,69,0
+SMU,ECU,80,77,0
+ECU,Tulsa,84,79,1
+ECU,USF,59,81,1
+FAU,Loyola-Chicago,75,62,1
+FAU,E Michigan,100,57,0
+Butler,FAU,86,91,1
+FAU,Texas A&M,96,89,1
+FAU,Liberty,83,58,0
+FAU,Charleston,90,74,0
+FAU,Illinois,89,98,1
+FAU,FIU,94,60,0
+St Bonaventure,FAU,54,64,1
+Arizona,FAU,95,96,1
+Tulane,FAU,84,85,0
+FAU,UAB,86,73,0
+FAU,Wichita State,86,77,0
+UTSA,FAU,103,112,0
+Rice,FAU,56,69,0
+FAU,North Texas,66,63,0
+FAU,Tulsa,102,70,0
+UAB,FAU,76,73,0
+Wichita State,FAU,82,95,0
+FAU,Temple,80,68,0
+USF,FAU,90,86,0
+FAU,SMU,80,70,0
+Memphis,FAU,78,74,0
+FAU,Tulane,79,73,0
+North Texas,FAU,76,80,0
+FAU,Memphis,92,84,0
+FAU,North Texas,77,71,1
+Temple,FAU,74,73,1
+Memphis,Jackson State,94,77,0
+Missouri,Memphis,55,70,0
+Memphis,Alabama State,92,75,0
+Michigan,Memphis,67,71,1
+Memphis,Arkansas,84,79,1
+Villanova,Memphis,79,63,1
+Ole Miss,Memphis,80,77,0
+VCU,Memphis,80,85,0
+Texas A&M,Memphis,75,81,0
+Memphis,Vanderbilt,77,75,0
+Tulsa,Memphis,75,78,0
+Memphis,SMU,62,59,0
+Memphis,UTSA,107,101,0
+Wichita State,Memphis,86,112,0
+Memphis,USF,73,74,0
+Tulane,Memphis,81,79,0
+UAB,Memphis,97,88,0
+Memphis,Rice,71,74,0
+Memphis,Wichita State,65,63,0
+Temple,Memphis,77,84,0
+Memphis,Tulane,90,78,0
+North Texas,Memphis,76,66,0
+SMU,Memphis,106,79,0
+Memphis,UAB,106,87,0
+Memphis,Wichita State,65,71,1
+LSU,North Texas,77,84,0
+North Texas,Northern Iowa,83,77,0
+North Texas,Omaha,75,64,0
+North Texas,St John's,52,53,1
+North Texas,LSU,62,66,1
+Towson,North Texas,39,65,1
+North Texas,Miss Valley St,79,48,0
+Boise State,North Texas,69,64,0
+Fordham,North Texas,60,59,1
+North Texas,Miss St,54,72,1
+North Texas,UT Arlington,78,52,0
+Wichita State,North Texas,62,74,0
+North Texas,Tulane,70,56,0
+North Texas,Temple,69,51,0
+North Texas,SMU,68,66,0
+North Texas,UAB,79,82,0
+North Texas,USF,55,60,0
+Tulsa,North Texas,55,68,0
+SMU,North Texas,71,68,0
+UAB,North Texas,71,62,0
+North Texas,UTSA,62,64,0
+Tulane,North Texas,76,80,0
+Rice,North Texas,55,71,0
+North Texas,Tulane,81,71,1
+Rice,Harvard,76,89,0
+Texas,Rice,80,64,0
+Rice,Indiana State,88,103,1
+New Mexico,Rice,90,56,1
+Rice,UC Irvine,68,83,1
+Rice,UT Martin,98,78,0
+Rice,Houston Baptist,65,56,0
+Houston,Rice,75,39,0
+Rice,Incarnate Word,80,57,0
+Northwestern St,Rice,51,76,0
+Rice,PV A&M,82,56,0
+Rice,UL Lafayette,67,84,0
+Tulane,Rice,84,59,0
+Rice,UTSA,82,89,0
+USF,Rice,81,73,0
+Temple,Rice,66,69,0
+Rice,Tulsa,83,85,0
+UTSA,Rice,76,80,0
+Rice,SMU,69,95,0
+Rice,USF,65,69,0
+Tulsa,Rice,93,82,0
+UAB,Rice,71,94,0
+Rice,Temple,43,65,0
+Wichita State,Rice,87,66,0
+Rice,Wichita State,81,88,1
+SMU,W Illinois,90,53,0
+SMU,Lamar,78,67,0
+SMU,Texas A&M,66,79,0
+SMU,West Virginia,70,58,1
+SMU,Wisconsin,61,69,1
+SMU,UL Monroe,70,57,0
+SMU,Dayton,63,65,0
+Arizona State,SMU,76,74,0
+SMU,Houston Baptist,89,53,0
+Murray State,SMU,65,92,0
+SMU,Temple,77,64,0
+SMU,Tulsa,103,70,0
+Wichita State,SMU,77,72,0
+SMU,Tulane,80,76,0
+SMU,UAB,72,69,0
+Tulane,SMU,79,87,0
+USF,SMU,79,68,0
+SMU,UTSA,73,77,0
+UAB,SMU,74,70,0
+Temple,SMU,75,60,1
+UCF,USF,77,83,0
+USF,S Carolina St,96,52,0
+USF,Cent Michigan,63,68,0
+USF,Northern Iowa,74,65,0
+Hofstra,USF,82,63,0
+UMass,USF,66,56,0
+USF,AR-Pine Bluff,104,86,0
+USF,Loyola-Chicago,77,64,0
+USF,Alabama State,73,70,0
+USF,Temple,76,68,0
+UAB,USF,75,71,0
+USF,Wichita State,72,68,0
+Temple,USF,69,75,0
+USF,UTSA,89,72,0
+USF,Tulsa,69,50,0
+UTSA,USF,61,66,0
+USF,Tulane,85,72,0
+Tulsa,USF,76,70,0
+UAB,USF,93,83,1
+Temple,MD-E Shore,85,65,0
+Navy,Temple,68,75,0
+Drexel,Temple,64,66,0
+Temple,Columbia,73,78,0
+Temple,Ole Miss,76,77,0
+Temple,La Salle,106,99,0
+Temple,Saint Joe's,65,74,1
+VCU,Temple,87,78,0
+Temple,Nevada,56,80,1
+Temple,Old Dominion,63,78,1
+Temple,Portland,55,54,1
+Temple,Wichita State,68,61,0
+Tulane,Temple,92,80,0
+Temple,UTSA,83,77,0
+Wichita State,Temple,66,72,0
+Temple,Tulsa,67,72,0
+Temple,UAB,72,100,0
+UTSA,Temple,82,84,0
+Temple,UTSA,64,61,1
+Temple,UAB,69,85,1
+Tulane,Nicholls,91,81,0
+Tulane,Northwestern St,88,71,0
+Tulane,Sacramento St,92,57,0
+Tulane,Bradley,77,80,1
+Cal,Tulane,81,84,1
+Tulane,PV A&M,98,77,0
+Fordham,Tulane,81,89,0
+Tulane,Miss St,76,106,1
+Tulane,Furman,117,110,0
+Tulane,Southern,105,81,0
+Tulane,George Mason,66,69,0
+Tulsa,Tulane,87,94,0
+UAB,Tulane,83,69,0
+UTSA,Tulane,89,88,0
+Tulane,UAB,67,78,0
+Tulane,Wichita State,85,75,0
+Tulsa,Incarnate Word,85,71,0
+Tulsa,Jackson State,72,52,0
+Tulsa,S Carolina St,90,70,0
+Little Rock,Tulsa,84,82,0
+Oral Roberts,Tulsa,79,70,0
+Tulsa,Loyola-Chicago,88,77,0
+Oklahoma State,Tulsa,72,57,1
+Tulsa,Missouri State,73,72,0
+Tulsa,Miss Valley St,79,50,0
+Tulsa,New Mexico St,65,59,0
+Tulsa,UTSA,107,78,0
+Tulsa,Wichita State,79,68,0
+Tulsa,UAB,63,70,0
+Wichita State,Tulsa,79,63,0
+UTSA,Tulsa,89,73,0
+UAB,Bradley,71,73,0
+Maryland,UAB,63,66,1
+UAB,Alcorn State,80,77,0
+Mid Tennessee,UAB,57,58,0
+UAB,Furman,92,86,0
+UAB,McNeese,60,81,0
+UAB,Southern Miss,82,85,0
+Arkansas State,UAB,87,68,0
+Alabama A&M,UAB,82,93,0
+UAB,Drake,79,78,0
+UAB,UNC Asheville,90,85,0
+UTSA,UAB,76,78,0
+UAB,Wichita State,66,74,0
+Wichita State,UAB,60,72,1
+UTSA,W Illinois,78,68,0
+Minnesota,UTSA,102,76,0
+Lamar,UTSA,90,82,0
+Texas State,UTSA,72,62,0
+Houston Baptist,UTSA,87,89,0
+UTSA,Jacksonville St,62,77,0
+UTSA,Incarnate Word,90,80,0
+UTSA,Lamar,86,83,0
+Little Rock,UTSA,93,84,0
+Oregon State,UTSA,66,65,0
+UTSA,Army,53,63,0
+UTSA,PV A&M,103,89,0
+Wichita State,UTSA,84,64,0
+Wichita State,W Kentucky,71,61,0
+C. Carolina,Wichita State,77,86,0
+Liberty,Wichita State,83,66,1
+Saint Louis,Wichita State,69,88,1
+Wichita State,Norfolk State,80,67,0
+Wichita State,Richmond,80,68,0
+Missouri,Wichita State,82,72,0
+South Dakota St,Wichita State,79,69,1
+Wichita State,S Illinois,69,68,0
+Kansas State,Wichita State,69,60,1
+Kansas,Wichita State,86,67,1
+Maryland,Davidson,61,64,1
+ETSU,Davidson,70,68,0
+Davidson,Boston U,69,45,0
+Saint Mary's,Davidson,89,55,0
+Davidson,Wright State,82,73,0
+Davidson,Campbell,62,50,0
+Davidson,Miami (OH),79,61,0
+Davidson,USC Upstate,62,59,0
+Ohio,Davidson,69,72,1
+Davidson,Dayton,59,72,0
+Davidson,URI,74,79,0
+G Washington,Davidson,83,79,0
+Fordham,Davidson,69,79,0
+Davidson,Richmond,64,69,0
+Saint Louis,Davidson,61,84,0
+Davidson,VCU,58,63,0
+Loyola-Chicago,Davidson,76,63,0
+Duquesne,Davidson,59,72,0
+Davidson,George Mason,55,57,0
+Davidson,La Salle,71,56,0
+St Bonaventure,Davidson,81,80,0
+Davidson,Fordham,68,53,0
+Richmond,Davidson,66,63,0
+Dayton,Davidson,80,66,0
+Davidson,UMass,67,69,0
+Davidson,Loyola-Chicago,59,69,0
+Saint Joe's,Davidson,89,71,0
+Davidson,Fordham,63,71,1
+Dayton,SIU ED,63,47,0
+Northwestern,Dayton,71,66,0
+Dayton,LSU,70,67,1
+Dayton,St John's,88,81,1
+Dayton,Houston,55,69,1
+Dayton,Youngstown St,77,69,0
+Dayton,Grambling,76,46,0
+Dayton,Troy,82,70,0
+Cincinnati,Dayton,68,82,1
+Dayton,Oakland,91,67,0
+Dayton,Longwood,78,69,0
+Dayton,UMass,64,60,0
+Duquesne,Dayton,62,72,0
+Dayton,Saint Louis,70,65,0
+Dayton,URI,96,62,0
+La Salle,Dayton,54,66,0
+Richmond,Dayton,69,64,0
+Dayton,G Washington,83,61,0
+Dayton,St Bonaventure,76,71,0
+Saint Joe's,Dayton,79,94,0
+VCU,Dayton,49,47,0
+Dayton,Duquesne,75,59,0
+Dayton,Fordham,78,70,0
+George Mason,Dayton,71,67,0
+Loyola-Chicago,Dayton,77,72,0
+Saint Louis,Dayton,83,100,0
+Dayton,VCU,91,86,0
+Dayton,Duquesne,57,65,1
+Duquesne,Cleveland State,79,77,0
+Duquesne,Charleston,90,72,1
+Duquesne,Stony Brook,85,63,0
+Duquesne,Princeton,67,70,0
+Duquesne,Rider,77,58,0
+Nebraska,Duquesne,89,79,0
+Duquesne,UC Irvine,66,62,0
+Marshall,Duquesne,72,85,0
+Duquesne,St Peter's,68,59,0
+Duquesne,Bradley,69,67,1
+Duquesne,Santa Clara,73,81,1
+UMass,Duquesne,80,61,0
+Loyola-Chicago,Duquesne,72,67,0
+Duquesne,Richmond,61,63,0
+Saint Joe's,Duquesne,71,69,0
+Duquesne,St Bonaventure,54,50,0
+Duquesne,Fordham,68,59,0
+Duquesne,Chicago State,65,60,0
+URI,Duquesne,71,85,0
+St Bonaventure,Duquesne,69,75,0
+Duquesne,Saint Joe's,66,56,0
+Duquesne,Saint Louis,81,66,0
+Fordham,Duquesne,79,67,0
+Duquesne,La Salle,75,63,0
+George Mason,Duquesne,51,59,0
+VCU,Duquesne,59,69,0
+Duquesne,G Washington,67,65,0
+Saint Louis,Duquesne,73,83,1
+St Bonaventure,Duquesne,60,70,1
+Duquesne,VCU,57,51,1
+Fordham,Wagner,68,64,0
+Fordham,Cornell,73,78,0
+Fordham,Norfolk State,77,64,1
+Abil Christian,Fordham,59,45,1
+Fordham,Kent State,72,79,1
+Fordham,Manhattan,93,61,0
+Fordham,Fair Dickinson,80,52,0
+St John's,Fordham,77,55,0
+Fordham,Cent Conn St,80,82,0
+Fordham,Columbia,87,78,0
+G Washington,Fordham,113,119,0
+Fordham,La Salle,76,81,0
+St Bonaventure,Fordham,74,80,0
+Fordham,Loyola-Chicago,61,65,0
+URI,Fordham,68,71,0
+Fordham,Richmond,69,83,0
+Saint Louis,Fordham,65,67,0
+Fordham,VCU,60,75,0
+Fordham,St Bonaventure,67,85,0
+Fordham,George Mason,61,60,0
+Saint Joe's,Fordham,82,69,0
+UMass,Fordham,66,64,0
+Fordham,URI,50,58,0
+Fordham,VCU,62,69,1
+George Mason,Monmouth,72,61,0
+George Mason,Cornell,90,83,0
+George Mason,South Dakota St,73,71,1
+Toledo,George Mason,77,86,0
+Tennessee,George Mason,87,66,0
+George Mason,Loyola (MD),62,54,0
+George Mason,NC A&T,94,69,0
+La Salle,George Mason,62,77,0
+George Mason,Saint Louis,79,67,0
+George Mason,VCU,50,54,0
+Richmond,George Mason,77,70,0
+G Washington,George Mason,75,62,0
+George Mason,St Bonaventure,69,60,0
+George Mason,URI,92,84,0
+Saint Joe's,George Mason,75,73,0
+UMass,George Mason,66,65,0
+George Mason,Loyola-Chicago,79,85,0
+George Mason,G Washington,90,67,0
+Loyola-Chicago,George Mason,80,59,0
+URI,George Mason,51,69,0
+George Mason,Richmond,64,46,0
+George Mason,Saint Joe's,57,64,1
+G Washington,William & Mary,95,89,0
+G Washington,Hofstra,71,60,0
+Ohio,G Washington,94,99,1
+G Washington,UIC,79,89,1
+G Washington,Delaware,81,71,1
+South Carolina,G Washington,89,67,0
+G Washington,Navy,79,77,0
+G Washington,Coppin State,76,45,0
+G Washington,Alcorn State,79,75,0
+G Washington,MD-E Shore,69,63,0
+VCU,G Washington,82,84,0
+UMass,G Washington,81,67,0
+Richmond,G Washington,82,74,0
+G Washington,La Salle,70,80,0
+G Washington,URI,65,88,0
+G Washington,Loyola-Chicago,73,81,0
+G Washington,Richmond,74,90,0
+Saint Joe's,G Washington,79,75,0
+Saint Louis,G Washington,96,91,0
+G Washington,UMass,57,69,0
+La Salle,G Washington,72,66,0
+G Washington,St Bonaventure,86,75,0
+La Salle,G Washington,61,60,1
+La Salle,Drexel,67,61,0
+La Salle,Northeastern,79,74,0
+La Salle,Bucknell,69,57,0
+La Salle,Coppin State,81,62,0
+Penn,La Salle,92,93,1
+La Salle,Loyola (MD),62,61,0
+Lafayette,La Salle,51,67,0
+La Salle,Howard,66,71,0
+UMass,La Salle,81,65,0
+La Salle,VCU,65,71,0
+Saint Joe's,La Salle,82,62,0
+URI,La Salle,71,69,0
+La Salle,Saint Joe's,82,88,0
+La Salle,Saint Louis,84,102,0
+Richmond,La Salle,82,65,0
+La Salle,UMass,82,81,0
+La Salle,St Bonaventure,72,59,0
+La Salle,URI,84,61,0
+Loyola-Chicago,La Salle,64,54,0
+St Bonaventure,La Salle,75,73,1
+Loyola-Chicago,E Illinois,89,65,0
+Loyola-Chicago,UIC,67,72,0
+Loyola-Chicago,New Orleans,73,70,0
+Creighton,Loyola-Chicago,88,65,1
+Loyola-Chicago,Chicago State,62,53,0
+Loyola-Chicago,Harvard,75,53,0
+Loyola-Chicago,Charleston So,72,59,0
+Loyola-Chicago,Cent Michigan,73,35,0
+Saint Louis,Loyola-Chicago,73,80,0
+Loyola-Chicago,Richmond,56,58,0
+Saint Joe's,Loyola-Chicago,75,78,0
+Loyola-Chicago,UMass,79,78,0
+VCU,Loyola-Chicago,74,67,0
+Loyola-Chicago,Saint Louis,77,62,0
+Loyola-Chicago,Saint Joe's,64,59,0
+URI,Loyola-Chicago,67,77,0
+St Bonaventure,Loyola-Chicago,79,64,0
+St Bonaventure,Loyola-Chicago,75,74,1
+UMass,Quinnipiac,102,81,0
+UMass,Harvard,75,78,0
+UMass,Cent Conn St,89,60,0
+Towson,UMass,81,71,0
+UMass,West Virginia,87,79,1
+UMass,Portland,100,78,1
+UMass,Old Dominion,87,65,1
+UMass,Siena,79,66,0
+URI,UMass,89,77,0
+UMass,Saint Joe's,77,78,0
+Saint Louis,UMass,73,84,0
+St Bonaventure,UMass,79,73,0
+UMass,URI,81,79,0
+Richmond,UMass,59,69,0
+UMass,VCU,74,52,0
+UMass,St Bonaventure,67,75,0
+UMass,VCU,59,73,1
+URI,Cent Conn St,81,70,0
+URI,Fairfield,93,80,0
+URI,Wagner,69,53,0
+URI,Northwestern,61,72,1
+URI,Washington St,57,78,1
+URI,Yale,76,72,0
+Providence,URI,84,69,0
+URI,Brown,64,67,0
+Charleston,URI,85,70,0
+URI,Delaware,56,67,1
+URI,Northeastern,82,71,0
+URI,Saint Joe's,78,74,0
+St Bonaventure,URI,99,64,0
+URI,Richmond,77,85,0
+VCU,URI,88,67,0
+URI,Saint Louis,91,94,0
+Saint Louis,URI,74,71,1
+Richmond,VMI,93,75,0
+Richmond,Siena,90,48,0
+Richmond,Colorado,59,64,1
+UNLV,Richmond,65,82,1
+Richmond,William & Mary,88,69,0
+Northern Iowa,Richmond,78,73,0
+Richmond,Florida,76,87,1
+Richmond,Buffalo,72,66,0
+Richmond,Lafayette,59,38,0
+Richmond,St Bonaventure,65,54,0
+VCU,Richmond,63,52,0
+Saint Louis,Richmond,64,80,0
+Richmond,VCU,79,76,0
+Richmond,Saint Joe's,73,66,0
+Richmond,Saint Joe's,61,66,1
+Saint Joe's,Lafayette,81,60,0
+Saint Joe's,Penn,69,61,0
+Kentucky,Saint Joe's,96,88,0
+Saint Joe's,Sacred Heart,64,55,0
+Villanova,Saint Joe's,65,78,0
+Saint Joe's,American U,69,53,0
+Saint Joe's,Princeton,74,70,0
+Saint Joe's,Iona,83,58,1
+Charleston,Saint Joe's,89,82,0
+Saint Joe's,Loyola (MD),97,56,0
+Saint Louis,Saint Joe's,88,85,0
+St Bonaventure,Saint Joe's,91,72,0
+Saint Joe's,Saint Louis,87,86,0
+VCU,Saint Joe's,73,69,0
+Saint Joe's,VCU,60,66,1
+Saint Louis,Illinois State,80,71,0
+Saint Louis,Wyoming,79,69,1
+Saint Louis,Dartmouth,66,65,0
+Saint Louis,Utah State,76,81,0
+S Illinois,Saint Louis,101,62,0
+Drake,Saint Louis,75,69,0
+Saint Louis,Hofstra,71,68,0
+Saint Louis,LA Tech,75,74,0
+VCU,Saint Louis,85,61,0
+Saint Louis,VCU,85,95,0
+St Bonaventure,Saint Louis,65,73,0
+St Bonaventure,Longwood,73,69,0
+St Bonaventure,Canisius,67,70,0
+St Bonaventure,Oklahoma State,66,64,1
+St Bonaventure,Auburn,60,77,1
+St Bonaventure,Bucknell,67,61,0
+St Bonaventure,Miami (OH),90,60,0
+Buffalo,St Bonaventure,65,80,0
+Niagara,St Bonaventure,60,94,0
+St Bonaventure,Siena,89,56,0
+St Bonaventure,Akron,62,61,1
+VCU,St Bonaventure,78,89,0
+St Bonaventure,VCU,67,62,0
+VCU,McNeese,65,76,0
+VCU,Samford,75,65,0
+VCU,Radford,73,50,0
+VCU,Seattle,60,56,0
+VCU,Iowa State,64,68,1
+VCU,Boise State,61,65,1
+Penn State,VCU,74,86,1
+VCU,Norfolk State,60,63,0
+VCU,Alcorn State,86,58,0
+VCU,MD-E Shore,75,51,0
+VCU,Gardner-Webb,87,73,0
+BYU,Houston Baptist,110,63,0
+BYU,San Diego State,74,65,0
+BYU,SE Louisiana,105,48,0
+BYU,Morgan State,93,50,0
+BYU,Arizona State,77,49,1
+BYU,Fresno State,85,56,1
+BYU,Evansville,96,55,0
+Utah,BYU,73,69,0
+BYU,Denver,90,74,0
+BYU,Georgia State,86,54,0
+BYU,Wyoming,94,68,0
+BYU,Cincinnati,60,71,0
+Baylor,BYU,81,72,0
+UCF,BYU,58,63,0
+BYU,Iowa State,87,72,0
+Texas Tech,BYU,85,78,0
+BYU,Houston,68,75,0
+BYU,Texas,84,72,0
+West Virginia,BYU,73,86,0
+Oklahoma,BYU,82,66,0
+BYU,Kansas State,72,66,0
+BYU,UCF,90,88,0
+Oklahoma State,BYU,93,83,0
+BYU,Baylor,78,71,0
+Kansas State,BYU,84,74,0
+Kansas,BYU,68,76,0
+BYU,TCU,87,75,0
+Iowa State,BYU,68,63,0
+BYU,Oklahoma State,85,71,0
+UCF,BYU,73,87,1
+BYU,Texas Tech,67,81,1
+Auburn,Baylor,82,88,1
+Baylor,Gardner-Webb,77,62,0
+Baylor,UMKC,99,61,0
+Oregon State,Baylor,72,88,1
+Baylor,Florida,95,91,1
+Baylor,Nicholls,108,70,0
+Baylor,Northwestern St,91,40,0
+Baylor,Seton Hall,78,60,0
+Michigan State,Baylor,88,64,1
+Baylor,Miss Valley St,107,48,0
+Baylor,Cornell,98,79,0
+Oklahoma State,Baylor,70,75,0
+Baylor,Cincinnati,62,59,0
+Kansas State,Baylor,68,64,0
+Texas,Baylor,75,73,0
+Baylor,TCU,102,105,0
+UCF,Baylor,69,77,0
+Baylor,Iowa State,70,68,0
+Baylor,Texas Tech,79,73,0
+Kansas,Baylor,64,61,0
+Baylor,Oklahoma,79,62,0
+West Virginia,Baylor,81,94,0
+Baylor,Houston,76,82,0
+TCU,Baylor,54,62,0
+Baylor,Kansas,82,74,0
+Baylor,Texas,93,85,0
+Texas Tech,Baylor,78,68,0
+Cincinnati,Baylor,56,68,1
+Baylor,Iowa State,62,76,1
+Cincinnati,UIC,69,58,0
+Cincinnati,Detroit Mercy,93,61,0
+Cincinnati,E Washington,85,73,0
+Cincinnati,N Kentucky,90,66,0
+Howard,Cincinnati,81,86,0
+Xavier,Cincinnati,84,79,0
+Cincinnati,Evansville,76,58,0
+Cincinnati,Texas,73,74,0
+Cincinnati,TCU,81,77,0
+Cincinnati,Oklahoma,65,69,0
+Kansas,Cincinnati,74,69,0
+Cincinnati,UCF,68,57,0
+West Virginia,Cincinnati,69,65,0
+Texas Tech,Cincinnati,72,75,0
+Cincinnati,Houston,62,67,0
+Cincinnati,Iowa State,59,68,0
+UCF,Cincinnati,74,76,0
+Cincinnati,Oklahoma State,76,80,0
+TCU,Cincinnati,75,57,0
+Houston,Cincinnati,67,59,0
+Cincinnati,Kansas State,74,72,0
+Oklahoma,Cincinnati,74,71,0
+Cincinnati,West Virginia,92,56,0
+Cincinnati,West Virginia,90,85,1
+Cincinnati,Kansas,72,52,1
+Houston,UL Monroe,84,31,0
+Houston,Texas A&M-CC,82,50,0
+Towson,Houston,49,65,1
+Houston,Utah,76,66,1
+Houston,Montana,79,44,0
+Xavier,Houston,60,66,0
+Houston,Jackson State,89,55,0
+Texas A&M,Houston,66,70,1
+Houston,Texas State,72,37,0
+Houston,Penn,81,42,0
+Houston,West Virginia,89,55,0
+Iowa State,Houston,57,53,0
+TCU,Houston,68,67,0
+Houston,Texas Tech,77,54,0
+Houston,UCF,57,42,0
+Houston,Kansas State,74,52,0
+Texas,Houston,72,76,0
+Kansas,Houston,78,65,0
+Houston,Oklahoma State,79,63,0
+Houston,Texas,82,61,0
+Houston,Iowa State,73,65,0
+Oklahoma,Houston,85,87,0
+UCF,Houston,59,67,0
+Houston,Kansas,76,46,0
+Houston,TCU,60,45,1
+Houston,Texas Tech,82,59,1
+Houston,Iowa State,41,69,1
+Iowa State,Green Bay,85,44,0
+Iowa State,Idaho State,86,55,0
+Iowa State,Grambling,92,37,0
+Texas A&M,Iowa State,73,69,1
+DePaul,Iowa State,80,99,0
+Iowa State,Iowa,90,65,0
+Iowa State,PV A&M,107,56,0
+Iowa State,Florida A&M,96,58,0
+Iowa State,E Illinois,80,48,0
+Oklahoma,Iowa State,71,63,0
+Iowa State,Oklahoma State,66,42,0
+TCU,Iowa State,72,73,0
+Iowa State,Kansas State,78,67,0
+Iowa State,Kansas,79,75,0
+Texas,Iowa State,65,70,0
+Iowa State,TCU,71,59,0
+Iowa State,Texas Tech,82,74,0
+Iowa State,West Virginia,71,64,0
+Iowa State,Oklahoma,58,45,0
+UCF,Iowa State,52,60,0
+Kansas State,Iowa State,65,58,0
+Kansas State,Iowa State,57,76,1
+Kansas,NC Central,99,56,0
+Kansas,Manhattan,99,61,0
+Kansas,Kentucky,89,84,1
+Kansas,Marquette,59,73,1
+Kansas,Tennessee,69,60,1
+Kansas,E Illinois,71,63,0
+Kansas,UConn,69,65,0
+Kansas,UMKC,88,69,0
+Kansas,Missouri,73,64,0
+Indiana,Kansas,71,75,0
+Kansas,Yale,75,60,0
+Kansas,TCU,83,81,0
+UCF,Kansas,65,60,0
+Kansas,Oklahoma,78,66,0
+Oklahoma State,Kansas,66,90,0
+West Virginia,Kansas,91,85,0
+Kansas,Oklahoma State,83,54,0
+Kansas State,Kansas,75,70,0
+Texas Tech,Kansas,79,50,0
+Oklahoma,Kansas,57,67,0
+Kansas,Texas,86,67,0
+Kansas,Kansas State,90,68,0
+Iowa,Kansas State,91,82,0
+Kansas State,USC,69,82,1
+Kansas State,South Dakota St,91,68,0
+Kansas State,Providence,73,70,1
+Kansas State,Oral Roberts,88,78,0
+Kansas State,Villanova,72,71,0
+LSU,Kansas State,60,75,0
+Kansas State,Nebraska,46,62,0
+Kansas State,Chicago State,62,55,0
+Kansas State,UCF,77,52,0
+West Virginia,Kansas State,67,81,0
+Texas Tech,Kansas State,60,59,0
+Kansas State,Oklahoma State,70,66,0
+Kansas State,Oklahoma,53,73,0
+Oklahoma State,Kansas State,75,72,0
+Kansas State,TCU,72,75,0
+Texas,Kansas State,62,56,0
+Kansas State,West Virginia,94,90,0
+Kansas State,Texas,78,74,1
+Oklahoma,Cent Michigan,89,59,0
+Oklahoma,Miss Valley St,82,43,0
+Oklahoma,Texas State,93,54,0
+Oklahoma,UT Rio Grande,90,66,0
+Oklahoma,Iowa,79,67,1
+Oklahoma,USC,72,70,1
+Oklahoma,AR-Pine Bluff,107,86,0
+Oklahoma,Providence,72,51,0
+Oklahoma,Arkansas,79,70,1
+Oklahoma,Green Bay,81,47,0
+Oklahoma,Monmouth,72,56,0
+TCU,Oklahoma,80,71,0
+Oklahoma,West Virginia,77,63,0
+Oklahoma,Texas,60,75,0
+Oklahoma,Texas Tech,84,85,0
+UCF,Oklahoma,74,63,0
+Oklahoma,Oklahoma State,66,62,0
+Oklahoma State,Oklahoma,82,84,0
+Texas,Oklahoma,94,80,0
+Oklahoma,TCU,70,77,1
+Oklahoma State,Abil Christian,59,64,0
+Oklahoma State,Sam Houston,85,70,0
+Oklahoma State,New Orleans,96,68,0
+Oklahoma State,Houston Baptist,92,65,0
+Oklahoma State,Creighton,65,79,0
+S Illinois,Oklahoma State,70,68,0
+Oklahoma State,Oral Roberts,81,60,0
+Oklahoma State,Wofford,76,70,0
+Oklahoma State,S Carolina St,86,70,0
+Oklahoma State,Chicago State,72,53,0
+Texas Tech,Oklahoma State,90,73,0
+Oklahoma State,TCU,69,74,0
+Oklahoma State,West Virginia,70,66,0
+Oklahoma State,UCF,71,77,0
+Texas,Oklahoma State,81,65,0
+Oklahoma State,Texas Tech,58,75,0
+Oklahoma State,UCF,62,77,1
+TCU,Southern,108,75,0
+TCU,Omaha,82,60,0
+TCU,UT Rio Grande,88,55,0
+TCU,Miss Valley St,86,52,0
+TCU,Alcorn State,93,74,0
+TCU,Houston Baptist,101,64,0
+Georgetown,TCU,83,84,0
+TCU,Arizona State,79,59,1
+TCU,Old Dominion,111,87,1
+Nevada,TCU,88,75,1
+Hawai'i,TCU,51,65,0
+TCU,Texas Tech,85,78,0
+TCU,Texas,66,77,0
+TCU,West Virginia,81,65,0
+Texas Tech,TCU,82,81,0
+West Virginia,TCU,81,93,0
+TCU,UCF,77,79,0
+Texas,Incarnate Word,88,56,0
+Texas,Delaware State,86,59,0
+Texas,UConn,71,81,1
+Texas,Wyoming,86,63,0
+Texas,Texas State,77,58,0
+Marquette,Texas,86,65,0
+Texas,Houston Baptist,77,50,0
+Texas,LSU,96,85,1
+Texas,Texas A&M-CC,71,55,0
+Texas,UNCG,72,37,0
+Texas,UT Arlington,79,62,0
+Texas,Texas Tech,67,78,0
+West Virginia,Texas,76,73,0
+Texas,UCF,71,77,0
+Texas,West Virginia,94,58,0
+Texas Tech,Texas,69,81,0
+Texas Tech,San Jose State,56,42,0
+Texas Tech,Texas A&M-CC,73,64,0
+Villanova,Texas Tech,85,69,1
+Northern Iowa,Texas Tech,70,72,1
+Michigan,Texas Tech,57,73,1
+Butler,Texas Tech,103,95,0
+Texas Tech,Omaha,87,58,0
+Texas Tech,Oral Roberts,82,76,0
+Vanderbilt,Texas Tech,54,76,1
+Texas Tech,UT Arlington,77,66,0
+Texas Tech,Sam Houston,96,60,0
+Texas Tech,UCF,66,59,0
+UCF,Texas Tech,75,61,0
+West Virginia,Texas Tech,70,81,0
+UCF,FIU,85,62,0
+UCF,CSU Fullerton,72,44,0
+UCF,South Dakota St,83,80,1
+UCF,Ole Miss,68,70,0
+UCF,Florida A&M,69,56,0
+UCF,Bethune-Cookman,98,54,0
+UCF,West Virginia,72,59,0
+West Virginia,UCF,77,67,0
+West Virginia,Missouri State,67,59,0
+West Virginia,Monmouth,65,73,0
+West Virginia,Jacksonville St,70,57,0
+West Virginia,St John's,73,79,0
+West Virginia,Drexel,66,60,0
+West Virginia,Radford,65,66,0
+West Virginia,Toledo,91,81,0
+OSU,West Virginia,78,75,1
+Butler,Minnesota,72,73,0
+Butler,E Michigan,94,55,0
+Butler,SE Missouri St,91,56,0
+Butler,ETSU,81,47,0
+Michigan State,Butler,74,54,0
+Butler,Penn State,88,78,1
+Butler,Boise State,70,56,1
+Butler,Buffalo,72,59,0
+Butler,Cal,97,90,0
+Butler,Georgetown,74,64,0
+Providence,Butler,85,75,0
+St John's,Butler,86,70,0
+Butler,UConn,81,88,0
+Marquette,Butler,62,69,0
+Butler,Seton Hall,72,78,0
+Xavier,Butler,85,71,0
+Butler,DePaul,74,60,0
+Georgetown,Butler,66,90,0
+Butler,Villanova,88,81,0
+Creighton,Butler,98,99,0
+UConn,Butler,71,62,0
+Butler,Providence,75,72,0
+Butler,Marquette,72,78,0
+Butler,Creighton,57,79,0
+Villanova,Butler,72,62,0
+Seton Hall,Butler,76,64,0
+Butler,St John's,59,82,0
+DePaul,Butler,63,82,0
+Butler,Xavier,72,66,0
+Butler,Xavier,72,76,1
+Creighton,Florida A&M,105,54,0
+Creighton,North Dakota St,89,60,0
+Creighton,Iowa,92,84,0
+Creighton,Texas Southern,82,50,0
+Creighton,Colorado State,48,69,1
+Nebraska,Creighton,60,89,0
+Creighton,Cent Michigan,109,64,0
+Creighton,UNLV,64,79,1
+Creighton,Alabama,85,82,0
+Creighton,Villanova,66,68,0
+Marquette,Creighton,72,67,0
+Georgetown,Creighton,60,77,0
+Creighton,Providence,69,60,0
+DePaul,Creighton,58,84,0
+Creighton,St John's,66,65,0
+UConn,Creighton,62,48,0
+Seton Hall,Creighton,94,97,0
+Creighton,Xavier,85,78,0
+Creighton,DePaul,85,62,0
+Providence,Creighton,91,87,0
+Xavier,Creighton,71,78,0
+Creighton,Georgetown,94,72,0
+Creighton,UConn,85,66,0
+St John's,Creighton,80,66,0
+Creighton,Seton Hall,85,64,0
+Creighton,Marquette,89,75,0
+Villanova,Creighton,67,69,0
+Creighton,Providence,73,78,1
+DePaul,Fort Wayne,74,82,0
+DePaul,LBSU,73,77,0
+DePaul,South Dakota,72,60,0
+South Carolina,DePaul,73,68,1
+San Francisco,DePaul,70,54,1
+DePaul,N Illinois,79,89,0
+Texas A&M,DePaul,89,64,0
+DePaul,Northwestern,46,56,0
+DePaul,Villanova,48,84,0
+DePaul,Chicago State,70,58,0
+UConn,DePaul,85,56,0
+Georgetown,DePaul,68,65,0
+Villanova,DePaul,94,69,0
+DePaul,Providence,62,100,0
+DePaul,Marquette,73,86,0
+DePaul,Seton Hall,39,72,0
+DePaul,Xavier,68,93,0
+St John's,DePaul,85,57,0
+DePaul,UConn,65,101,0
+Providence,DePaul,81,70,0
+Marquette,DePaul,105,71,0
+DePaul,Georgetown,76,77,0
+Xavier,DePaul,91,58,0
+DePaul,St John's,77,104,0
+Seton Hall,DePaul,86,62,0
+Villanova,DePaul,58,57,1
+Georgetown,Holy Cross,67,68,0
+Rutgers,Georgetown,71,60,0
+Georgetown,Mt St Mary's,83,72,0
+Georgetown,American U,88,83,0
+Georgetown,Jackson State,88,81,0
+Georgetown,Coppin State,71,54,0
+Marquette,Georgetown,81,51,0
+Georgetown,Seton Hall,70,74,0
+UConn,Georgetown,80,67,0
+Xavier,Georgetown,92,91,0
+Providence,Georgetown,84,76,0
+Georgetown,Marquette,57,91,0
+Seton Hall,Georgetown,76,70,0
+Georgetown,UConn,64,89,0
+Georgetown,Villanova,54,70,0
+Georgetown,St John's,85,90,0
+Villanova,Georgetown,75,47,0
+Georgetown,Xavier,93,98,0
+Georgetown,Providence,58,71,0
+St John's,Georgetown,86,78,0
+Providence,Georgetown,74,56,1
+Marquette,N Illinois,92,70,0
+Marquette,Rider,95,65,0
+Illinois,Marquette,64,71,0
+UCLA,Marquette,69,71,1
+Purdue,Marquette,78,75,1
+Marquette,Southern,93,56,0
+Wisconsin,Marquette,75,64,0
+Providence,Marquette,72,57,0
+Seton Hall,Marquette,78,75,0
+Marquette,Villanova,87,74,0
+St John's,Marquette,72,73,0
+Marquette,Seton Hall,75,57,0
+Villanova,Marquette,80,85,0
+Marquette,St John's,86,75,0
+UConn,Marquette,81,53,0
+Marquette,Xavier,88,64,0
+Marquette,Providence,91,69,0
+Marquette,UConn,67,74,0
+Xavier,Marquette,80,86,0
+Villanova,Marquette,65,71,1
+Providence,Marquette,68,79,1
+Marquette,UConn,57,73,1
+Providence,Columbia,78,59,0
+Providence,Milwaukee,79,69,0
+Providence,Wisconsin,72,59,0
+Providence,Georgia,71,64,1
+Providence,Lehigh,78,64,0
+Providence,Wagner,86,52,0
+Providence,Brown,74,54,0
+Providence,Sacred Heart,78,64,0
+Providence,Seton Hall,57,61,0
+St John's,Providence,75,73,0
+Providence,Xavier,65,85,0
+Seton Hall,Providence,63,67,0
+UConn,Providence,74,65,0
+Villanova,Providence,68,50,0
+Providence,St John's,75,72,0
+Xavier,Providence,75,79,0
+Providence,Villanova,60,71,0
+Providence,UConn,60,74,0
+Seton Hall,St Peter's,70,59,0
+Seton Hall,Fair Dickinson,85,55,0
+Seton Hall,Wagner,72,51,0
+Seton Hall,USC,63,71,1
+Iowa,Seton Hall,85,72,1
+Seton Hall,Northeastern,88,75,0
+Seton Hall,Rutgers,63,70,0
+Seton Hall,Monmouth,70,61,0
+Missouri,Seton Hall,87,93,1
+Seton Hall,UConn,75,60,0
+Xavier,Seton Hall,74,54,0
+Seton Hall,St John's,80,65,0
+Villanova,Seton Hall,80,54,0
+Seton Hall,Xavier,88,70,0
+St John's,Seton Hall,62,68,0
+UConn,Seton Hall,91,61,0
+Seton Hall,Villanova,66,56,0
+Seton Hall,St John's,72,91,0
+St John's,Stony Brook,90,74,0
+St John's,Michigan,73,89,0
+Utah,St John's,82,91,1
+St John's,Holy Cross,91,45,0
+St John's,Sacred Heart,85,50,0
+St John's,Xavier,81,66,0
+UConn,St John's,69,65,0
+Hofstra,St John's,79,84,1
+Villanova,St John's,71,81,0
+St John's,Villanova,70,50,0
+Xavier,St John's,88,77,0
+St John's,UConn,64,77,0
+UConn,St John's,95,90,0
+UConn,N Arizona,95,52,0
+UConn,Miss Valley St,87,53,0
+UConn,Indiana,77,57,1
+UConn,Manhattan,90,60,0
+UConn,AR-Pine Bluff,101,63,0
+Gonzaga,UConn,63,76,1
+Xavier,UConn,75,80,0
+Villanova,UConn,65,66,0
+UConn,Xavier,99,56,0
+UConn,Villanova,78,54,0
+Xavier,UConn,60,87,1
+Villanova,American U,90,63,0
+Penn,Villanova,76,72,0
+Villanova,Maryland,57,40,0
+Drexel,Villanova,57,55,1
+Villanova,UCLA,65,56,0
+Villanova,Xavier,66,65,0
+Xavier,Villanova,56,53,0
+Georgia,Xavier,78,76,0
+Xavier,Robert Morris,77,63,0
+Purdue,Xavier,83,71,0
+Washington,Xavier,74,71,1
+Saint Mary's,Xavier,49,66,1
+Xavier,Oakland,76,78,0
+Xavier,Delaware,80,87,0
+Xavier,Winthrop,75,59,0
+Utah,E Washington,101,66,0
+Ole Miss,E Washington,75,64,0
+Stanford,E Washington,95,70,0
+Washington St,E Washington,82,72,0
+USC,E Washington,106,78,0
+Air Force,E Washington,68,73,0
+Cal Poly,E Washington,53,62,0
+Washington,E Washington,73,66,0
+E Washington,Portland State,91,57,0
+E Washington,Sacramento St,87,61,0
+South Dakota,E Washington,79,93,0
+E Washington,North Dakota St,91,83,0
+Idaho,E Washington,58,79,0
+Weber State,E Washington,78,80,0
+Idaho State,E Washington,67,79,0
+E Washington,N Colorado,77,74,0
+E Washington,N Arizona,85,70,0
+Montana State,E Washington,70,60,0
+Montana,E Washington,65,78,0
+Portland State,E Washington,77,90,0
+E Washington,Idaho,87,79,0
+E Washington,Idaho State,88,82,0
+E Washington,Weber State,84,90,0
+N Arizona,E Washington,78,71,0
+N Colorado,E Washington,76,85,0
+E Washington,Montana,89,79,0
+E Washington,Montana State,108,104,0
+Sacramento St,E Washington,88,91,0
+Sacramento St,E Washington,74,69,1
+The Citadel,Idaho State,62,61,1
+Campbell,Idaho State,55,69,0
+Pepperdine,Idaho State,77,62,0
+Fresno State,Idaho State,79,67,0
+Southern Utah,Idaho State,82,74,0
+Oregon State,Idaho State,76,57,0
+Idaho State,Montana State,66,74,0
+Idaho State,Montana,68,76,0
+Denver,Idaho State,95,82,0
+Idaho State,Omaha,63,62,0
+Portland State,Idaho State,63,69,0
+Sacramento St,Idaho State,66,64,0
+Idaho State,Idaho,64,59,0
+Montana State,Idaho State,77,70,0
+Weber State,Idaho State,64,74,0
+N Colorado,Idaho State,91,86,0
+N Arizona,Idaho State,79,81,0
+Idaho State,Sacramento St,68,40,0
+Idaho State,Portland State,68,65,0
+Idaho,Idaho State,55,53,0
+Idaho State,Weber State,80,62,0
+Idaho State,N Arizona,88,92,0
+Idaho State,N Colorado,79,81,0
+Montana,Idaho State,79,65,0
+N Arizona,Idaho State,60,68,1
+N Colorado,Idaho State,76,83,1
+Montana,Idaho State,72,58,1
+Washington St,Idaho,84,59,0
+Idaho,CSU Northridge,73,76,0
+Seattle,Idaho,92,55,0
+Idaho,Denver,65,67,0
+Idaho,Cal Poly,85,70,0
+Idaho,Pacific,83,53,0
+Stanford,Idaho,82,64,0
+UC Riverside,Idaho,82,67,0
+Idaho,Sacramento St,61,58,0
+Idaho,Portland State,72,77,0
+Weber State,Idaho,88,65,0
+Idaho,N Arizona,60,75,0
+Idaho,N Colorado,68,89,0
+Montana,Idaho,73,70,0
+Montana State,Idaho,75,81,0
+Sacramento St,Idaho,45,61,0
+Idaho,Weber State,69,70,0
+N Colorado,Idaho,76,62,0
+N Arizona,Idaho,76,86,0
+Idaho,Montana State,48,62,0
+Idaho,Montana,57,80,0
+Portland State,Idaho,72,57,0
+Sacramento St,Idaho,72,64,1
+Oregon,Montana,75,61,0
+Montana,UC Davis,78,65,0
+Montana,North Dakota St,69,78,0
+Nevada,Montana,77,66,0
+Montana,San Jose State,75,58,0
+San Jose State,Montana,75,86,0
+UC Davis,Montana,61,73,0
+Weber State,Montana,93,63,0
+North Dakota St,Montana,86,96,0
+Montana,South Dakota,82,63,0
+Montana,N Colorado,92,98,0
+Montana,N Arizona,90,47,0
+Montana State,Montana,77,87,0
+Montana,Weber State,77,62,0
+Portland State,Montana,72,46,0
+Sacramento St,Montana,67,70,0
+N Arizona,Montana,66,94,0
+N Colorado,Montana,87,71,0
+Montana,Montana State,88,69,0
+Montana,Sacramento St,68,61,0
+Montana,Portland State,82,73,0
+Montana,Portland State,87,81,1
+Montana State,Montana,85,70,1
+Seattle,Montana State,71,68,0
+Cal,Montana State,60,63,0
+Montana State,Green Bay,53,54,0
+Montana State,UC Riverside,69,68,0
+Montana State,LBSU,69,75,0
+Washington,Montana State,85,61,0
+Montana State,Southern Utah,89,88,0
+CSU Northridge,Montana State,82,70,0
+Weber State,Montana State,86,64,0
+Montana State,Oral Roberts,76,82,0
+South Dakota St,Montana State,89,61,0
+Montana State,N Arizona,79,50,0
+Montana State,N Colorado,90,81,0
+Sacramento St,Montana State,62,70,0
+Portland State,Montana State,94,91,0
+N Colorado,Montana State,73,70,0
+N Arizona,Montana State,76,71,0
+Montana State,Portland State,72,67,0
+Montana State,Sacramento St,63,66,0
+Montana State,Weber State,76,64,0
+Montana State,Weber State,91,82,1
+Montana State,Sacramento St,74,71,1
+Grand Canyon,N Arizona,89,55,0
+Seattle,N Arizona,60,62,0
+N Arizona,Fort Wayne,67,77,1
+N Arizona,VMI,78,69,1
+Hawai'i,N Arizona,70,61,0
+UCSB,N Arizona,70,59,0
+N Arizona,Pacific,78,58,0
+Abil Christian,N Arizona,76,78,0
+Incarnate Word,N Arizona,75,76,0
+N Arizona,Southern Utah,76,74,0
+San Francisco,N Arizona,91,51,0
+N Colorado,N Arizona,92,77,0
+Omaha,N Arizona,81,55,0
+N Arizona,North Dakota,74,73,0
+N Arizona,Portland State,84,65,0
+N Arizona,Sacramento St,70,61,0
+N Arizona,Weber State,70,72,0
+Sacramento St,N Arizona,58,73,0
+Portland State,N Arizona,83,68,0
+Weber State,N Arizona,85,58,0
+N Arizona,N Colorado,74,82,0
+N Colorado,Colorado State,64,83,0
+New Mexico St,N Colorado,76,71,0
+Chicago State,N Colorado,77,78,1
+N Colorado,Radford,68,79,1
+San Diego,N Colorado,74,72,0
+N Colorado,CSU Northridge,75,71,0
+Colorado,N Colorado,90,68,0
+Air Force,N Colorado,79,83,0
+North Dakota,N Colorado,87,97,0
+N Colorado,Denver,86,82,0
+N Colorado,Sacramento St,77,75,0
+N Colorado,Portland State,90,61,0
+N Colorado,Weber State,63,82,0
+Portland State,N Colorado,82,72,0
+Sacramento St,N Colorado,75,80,0
+Weber State,N Colorado,85,81,0
+Air Force,Portland State,55,62,0
+UCSB,Portland State,76,82,0
+Cal Poly,Portland State,57,73,1
+Portland State,Portland,75,74,0
+Washington St,Portland State,71,61,0
+San Diego,Portland State,69,65,0
+Fresno State,Portland State,72,75,0
+UMKC,Portland State,83,67,0
+Portland State,Weber State,69,66,0
+Portland State,Sacramento St,58,51,0
+Weber State,Portland State,84,72,0
+Sacramento St,Portland State,73,61,0
+Nevada,Sacramento St,77,63,0
+Stanford,Sacramento St,91,73,0
+Sacramento St,CSU Bakersfield,71,75,1
+UC Davis,Sacramento St,63,69,0
+LBSU,Sacramento St,83,73,0
+Sacramento St,CSU Fullerton,60,62,0
+Sacramento St,UMKC,67,64,0
+Sacramento St,Weber State,71,69,0
+Weber State,Sacramento St,58,53,0
+Saint Mary's,Weber State,57,61,0
+Gardner-Webb,Weber State,62,61,1
+Weber State,Yale,75,65,1
+Colgate,Weber State,57,55,1
+Utah Valley,Weber State,70,54,0
+Weber State,Cal Poly,78,50,0
+Nevada,Weber State,72,55,0
+Wyoming,Weber State,71,84,0
+Weber State,South Dakota St,75,73,0
+Oral Roberts,Weber State,78,83,0
+Bethune-Cookman,Charleston So,79,73,0
+The Citadel,Charleston So,81,52,0
+Charleston So,S Carolina St,66,64,0
+South Carolina,Charleston So,73,69,0
+Charleston So,Presbyterian,61,68,0
+Longwood,Charleston So,77,56,0
+Gardner-Webb,Charleston So,74,86,0
+Charleston So,USC Upstate,77,70,0
+High Point,Charleston So,86,79,0
+Charleston So,Winthrop,59,78,0
+Charleston So,UNC Asheville,65,71,0
+Radford,Charleston So,60,63,0
+Charleston So,Longwood,83,77,0
+Winthrop,Charleston So,67,46,0
+Charleston So,Gardner-Webb,77,85,0
+UNC Asheville,Charleston So,86,55,0
+USC Upstate,Charleston So,60,63,0
+Charleston So,High Point,59,74,0
+Charleston So,Radford,58,57,0
+Presbyterian,Charleston So,72,65,0
+Charleston So,UNC Asheville,55,60,1
+Arkansas,Gardner-Webb,86,68,0
+Colgate,Gardner-Webb,59,52,1
+Gardner-Webb,Yale,70,71,1
+Gardner-Webb,W Carolina,82,77,0
+Gardner-Webb,Wofford,66,81,0
+Appalachian St,Gardner-Webb,80,59,1
+Chattanooga,Gardner-Webb,69,66,0
+Akron,Gardner-Webb,94,90,0
+High Point,Gardner-Webb,85,76,0
+Gardner-Webb,Presbyterian,76,60,0
+Radford,Gardner-Webb,68,74,0
+Gardner-Webb,Winthrop,79,74,0
+Longwood,Gardner-Webb,64,76,0
+Gardner-Webb,USC Upstate,75,70,0
+Gardner-Webb,UNC Asheville,80,73,0
+Presbyterian,Gardner-Webb,77,75,0
+Gardner-Webb,High Point,62,78,0
+USC Upstate,Gardner-Webb,65,73,0
+Gardner-Webb,Radford,74,90,0
+UNC Asheville,Gardner-Webb,77,78,0
+Gardner-Webb,Longwood,72,69,0
+Winthrop,Gardner-Webb,64,65,0
+Gardner-Webb,Presbyterian,61,60,1
+Gardner-Webb,UNC Asheville,72,83,1
+Wofford,High Point,99,98,0
+High Point,Iona,82,68,1
+High Point,Illinois State,74,72,1
+High Point,Hofstra,92,97,1
+High Point,Morgan State,77,59,0
+High Point,W Carolina,97,71,0
+High Point,NC A&T,75,62,0
+Georgia,High Point,66,58,0
+High Point,UNCG,74,63,0
+High Point,Canisius,78,70,0
+Radford,High Point,71,85,0
+High Point,UNC Asheville,84,79,0
+Presbyterian,High Point,83,86,0
+USC Upstate,High Point,67,78,0
+Winthrop,High Point,81,83,0
+High Point,Longwood,93,76,0
+High Point,Presbyterian,78,68,0
+UNC Asheville,High Point,86,81,0
+High Point,USC Upstate,81,86,0
+High Point,Radford,99,74,0
+High Point,Winthrop,100,96,0
+Longwood,High Point,74,72,0
+High Point,Radford,77,63,0
+High Point,Longwood,79,80,1
+MD-E Shore,Longwood,61,80,0
+Longwood,NC Central,73,66,0
+Longwood,Delaware State,84,82,0
+Longwood,Lamar,83,72,0
+Longwood,Bethune-Cookman,69,48,0
+Morgan State,Longwood,54,88,0
+Delaware State,Longwood,61,62,0
+Milwaukee,Longwood,67,80,0
+Longwood,VMI,68,49,0
+NC Central,Longwood,79,70,0
+Winthrop,Longwood,68,60,0
+Longwood,Radford,58,69,0
+UNC Asheville,Longwood,65,61,0
+USC Upstate,Longwood,73,71,0
+Longwood,Presbyterian,80,70,0
+Longwood,USC Upstate,64,69,0
+Longwood,Winthrop,84,74,0
+Presbyterian,Longwood,73,81,0
+Longwood,UNC Asheville,80,75,0
+Radford,Longwood,88,82,0
+Longwood,Winthrop,69,56,1
+Longwood,UNC Asheville,85,59,1
+Vanderbilt,Presbyterian,62,68,0
+Presbyterian,The Citadel,71,64,0
+Northwestern St,Presbyterian,75,78,1
+Presbyterian,Tenn Tech,75,79,0
+Elon,Presbyterian,82,79,0
+VMI,Presbyterian,71,75,0
+Presbyterian,Florida A&M,60,65,0
+Furman,Presbyterian,76,61,0
+Presbyterian,UNC Asheville,80,84,0
+Presbyterian,Winthrop,71,81,0
+Radford,Presbyterian,73,58,0
+Presbyterian,USC Upstate,80,73,0
+Presbyterian,Radford,76,73,0
+UNC Asheville,Presbyterian,71,69,0
+Winthrop,Presbyterian,55,78,0
+USC Upstate,Presbyterian,74,72,0
+Radford,Marshall,66,62,1
+JMU,Radford,76,73,0
+Morgan State,Radford,72,82,1
+Old Dominion,Radford,69,68,0
+Radford,Elon,82,72,0
+Radford,NC Central,82,74,0
+Radford,VMI,73,56,0
+Bucknell,Radford,63,70,0
+Winthrop,Radford,92,88,0
+Radford,USC Upstate,64,61,0
+UNC Asheville,Radford,81,69,0
+USC Upstate,Radford,78,69,0
+Radford,Winthrop,69,85,0
+Radford,UNC Asheville,62,71,0
+Radford,USC Upstate,67,60,1
+South Carolina,USC Upstate,82,53,0
+Vanderbilt,USC Upstate,74,67,0
+Minnesota,USC Upstate,67,53,0
+Ball State,USC Upstate,75,58,0
+C. Carolina,USC Upstate,72,70,0
+NC Central,USC Upstate,82,85,0
+USC Upstate,W Carolina,53,70,0
+UNC Asheville,USC Upstate,95,67,0
+USC Upstate,Winthrop,80,82,0
+USC Upstate,UNC Asheville,64,77,0
+Winthrop,USC Upstate,83,74,0
+Michigan,UNC Asheville,99,74,0
+UNC Asheville,UNC Wilmington,66,83,0
+UNC Asheville,Wofford,85,82,1
+UNC Asheville,W Kentucky,77,67,1
+W Carolina,UNC Asheville,78,63,0
+Auburn,UNC Asheville,87,62,1
+UNC Asheville,S Carolina St,79,75,0
+Appalachian St,UNC Asheville,63,76,1
+Winthrop,UNC Asheville,77,82,0
+UNC Asheville,Winthrop,82,78,0
+Winthrop,Drexel,72,74,0
+Winthrop,Holy Cross,89,51,0
+Winthrop,IUPUI,74,61,1
+Elon,Winthrop,70,78,1
+Georgia,Winthrop,78,69,0
+C. Carolina,Winthrop,87,90,0
+Little Rock,Winthrop,68,85,0
+South Carolina,Winthrop,72,62,0
+Illinois,E Illinois,80,52,0
+Illinois,Oakland,64,53,0
+Illinois,Valparaiso,87,64,0
+Illinois,Southern,88,60,0
+Illinois,W Illinois,84,52,0
+Rutgers,Illinois,58,76,0
+Tennessee,Illinois,86,79,0
+Illinois,Colgate,74,57,0
+Missouri,Illinois,73,97,1
+Illinois,Fair Dickinson,104,71,0
+Illinois,Northwestern,96,66,0
+Purdue,Illinois,83,78,0
+Illinois,Michigan State,71,68,0
+Illinois,Maryland,67,76,0
+Michigan,Illinois,73,88,0
+Illinois,Rutgers,86,63,0
+Northwestern,Illinois,96,91,0
+Illinois,Indiana,70,62,0
+OSU,Illinois,75,87,0
+Illinois,Nebraska,87,84,0
+Michigan State,Illinois,88,80,0
+Illinois,Michigan,97,68,0
+Maryland,Illinois,80,85,0
+Penn State,Illinois,90,89,0
+Illinois,Iowa,95,85,0
+Illinois,Minnesota,105,97,0
+Wisconsin,Illinois,83,91,0
+Illinois,Purdue,71,77,0
+Iowa,Illinois,61,73,0
+OSU,Illinois,74,77,1
+Nebraska,Illinois,87,98,1
+Wisconsin,Illinois,87,93,1
+Indiana,Army,72,64,0
+Indiana,Wright State,89,80,0
+Harvard,Indiana,76,89,1
+Indiana,Maryland,65,53,0
+Michigan,Indiana,75,78,0
+Auburn,Indiana,104,76,1
+Indiana,Morehead State,69,68,0
+Nebraska,Indiana,86,70,0
+Indiana,OSU,71,65,0
+Rutgers,Indiana,66,57,0
+Indiana,Minnesota,74,62,0
+Indiana,Purdue,66,87,0
+Wisconsin,Indiana,91,79,0
+Indiana,Iowa,74,68,0
+Indiana,Penn State,71,85,0
+OSU,Indiana,73,76,0
+Purdue,Indiana,79,59,0
+Indiana,Northwestern,72,76,0
+Indiana,Nebraska,70,85,0
+Penn State,Indiana,83,74,0
+Indiana,Wisconsin,74,70,0
+Maryland,Indiana,78,83,0
+Minnesota,Indiana,58,70,0
+Indiana,Michigan State,65,64,0
+Penn State,Indiana,59,61,1
+Nebraska,Indiana,93,66,1
+Iowa,North Dakota,110,68,0
+Iowa,Alabama State,98,67,0
+Iowa,Arkansas State,88,74,0
+Purdue,Iowa,87,68,0
+Iowa,Michigan,80,90,0
+Iowa,Florida A&M,88,52,0
+Iowa,N Illinois,103,74,0
+Wisconsin,Iowa,83,72,0
+Iowa,Rutgers,86,77,0
+Iowa,Nebraska,94,76,0
+Minnesota,Iowa,77,86,0
+Iowa,Purdue,70,84,0
+Iowa,Maryland,67,69,0
+Michigan,Iowa,78,88,0
+Iowa,OSU,79,77,0
+Penn State,Iowa,89,79,0
+Iowa,Minnesota,90,85,0
+Maryland,Iowa,78,66,0
+Iowa,Wisconsin,88,86,0
+Michigan State,Iowa,71,78,0
+Iowa,Penn State,90,81,0
+Northwestern,Iowa,80,87,0
+OSU,Iowa,90,78,1
+Maryland,Mt St Mary's,68,53,0
+Maryland,South Alabama,68,55,0
+Maryland,Rider,103,76,0
+Maryland,Penn State,81,75,0
+Maryland,Alcorn State,105,65,0
+Maryland,Nicholls,73,67,0
+UCLA,Maryland,60,69,0
+Maryland,Coppin State,75,53,0
+Maryland,Purdue,53,67,0
+Minnesota,Maryland,65,62,0
+Maryland,Michigan,64,57,0
+Northwestern,Maryland,72,69,0
+Maryland,Michigan State,59,61,0
+Maryland,Nebraska,73,51,0
+Michigan State,Maryland,63,54,0
+Maryland,Rutgers,53,56,0
+OSU,Maryland,79,75,0
+Wisconsin,Maryland,74,70,0
+Rutgers,Maryland,46,63,0
+Maryland,Northwestern,61,68,0
+Penn State,Maryland,85,69,0
+Maryland,Rutgers,65,51,1
+Maryland,Wisconsin,56,87,1
+Michigan State,JMU,76,79,0
+Michigan State,Alcorn State,81,49,0
+Arizona,Michigan State,74,68,1
+Michigan State,Ga Southern,86,55,0
+Michigan State,Wisconsin,57,70,0
+Nebraska,Michigan State,77,70,0
+Michigan State,Oakland,79,62,0
+Michigan State,Stony Brook,99,55,0
+Michigan State,Indiana State,87,75,0
+Michigan State,Penn State,92,61,0
+Northwestern,Michigan State,88,74,0
+Michigan State,Rutgers,73,55,0
+Michigan State,Minnesota,76,66,0
+Wisconsin,Michigan State,81,66,0
+Michigan State,Michigan,81,62,0
+Minnesota,Michigan State,59,56,0
+Penn State,Michigan State,72,80,0
+Michigan,Michigan State,63,73,0
+Michigan State,OSU,57,60,0
+Purdue,Michigan State,80,74,0
+Michigan State,Northwestern,53,49,0
+Michigan State,Minnesota,77,67,1
+Michigan State,Purdue,62,67,1
+Michigan,Youngstown St,92,62,0
+Michigan,LBSU,86,94,0
+Michigan,Stanford,83,78,1
+Oregon,Michigan,86,83,0
+Michigan,E Michigan,83,66,0
+Michigan,Florida,101,106,1
+Michigan,McNeese,76,87,0
+Michigan,Minnesota,71,73,0
+Michigan,Penn State,73,79,1
+Michigan,OSU,73,65,0
+Purdue,Michigan,99,67,0
+Michigan,Rutgers,59,69,0
+Michigan,Wisconsin,72,68,0
+Nebraska,Michigan,79,59,0
+Northwestern,Michigan,76,62,0
+Michigan,Purdue,76,84,0
+Rutgers,Michigan,82,52,0
+OSU,Michigan,84,61,0
+Michigan,Nebraska,70,85,0
+Michigan,Penn State,57,66,1
+Minnesota,Bethune-Cookman,80,60,0
+Minnesota,Missouri,68,70,0
+Minnesota,AR-Pine Bluff,86,67,0
+Minnesota,San Francisco,58,76,1
+Minnesota,New Orleans,97,64,0
+OSU,Minnesota,84,74,0
+Minnesota,Nebraska,76,65,0
+Minnesota,IUPUI,101,65,0
+Minnesota,Ball State,80,63,0
+Minnesota,Wisconsin,59,61,0
+Penn State,Minnesota,74,83,0
+Minnesota,Northwestern,75,66,0
+Purdue,Minnesota,84,76,0
+Minnesota,Rutgers,81,70,0
+Minnesota,OSU,88,79,0
+Nebraska,Minnesota,73,55,0
+Minnesota,Penn State,75,70,0
+Northwestern,Minnesota,90,66,0
+Nebraska,Florida A&M,81,54,0
+Nebraska,Rider,64,50,0
+Nebraska,Stony Brook,84,63,0
+Nebraska,Oregon State,84,63,1
+Nebraska,CSU Fullerton,85,72,0
+Nebraska,North Dakota,83,75,0
+Nebraska,S Carolina St,91,62,0
+Wisconsin,Nebraska,88,72,0
+Nebraska,Purdue,88,72,0
+Rutgers,Nebraska,87,82,0
+Nebraska,Northwestern,75,69,0
+Nebraska,OSU,83,69,0
+Nebraska,Wisconsin,80,72,0
+Northwestern,Nebraska,80,68,0
+Nebraska,Penn State,68,49,0
+OSU,Nebraska,78,69,0
+Nebraska,Rutgers,67,56,0
+Northwestern,W Michigan,63,59,0
+Miss St,Northwestern,66,57,1
+Northwestern,N Illinois,89,67,0
+Northwestern,Purdue,92,88,0
+Northwestern,Detroit Mercy,91,59,0
+Northwestern,Chicago State,73,75,0
+Northwestern,Arizona State,65,46,1
+Northwestern,Jackson State,74,63,0
+Penn State,Northwestern,72,76,0
+Wisconsin,Northwestern,71,63,0
+Northwestern,OSU,83,58,0
+Purdue,Northwestern,105,96,0
+Northwestern,Penn State,68,63,0
+Rutgers,Northwestern,63,60,0
+Wisconsin,Northwestern,70,61,1
+OSU,Cornell,88,83,0
+OSU,Oakland,79,73,0
+OSU,Texas A&M,66,73,0
+OSU,W Michigan,73,56,0
+OSU,Alabama,92,81,1
+OSU,Santa Clara,86,56,1
+OSU,Cent Michigan,88,61,0
+OSU,Miami (OH),84,64,0
+Penn State,OSU,83,80,0
+OSU,UCLA,67,60,1
+OSU,New Orleans,78,36,0
+OSU,Rutgers,76,72,0
+OSU,Wisconsin,60,71,0
+OSU,Penn State,79,67,0
+Wisconsin,OSU,62,54,0
+OSU,Purdue,73,69,0
+Rutgers,OSU,51,73,0
+Penn State,Delaware State,79,45,0
+Penn State,Lehigh,74,65,0
+Penn State,St Francis (PA),83,53,0
+Penn State,Morehead State,74,51,0
+Penn State,Texas A&M,77,89,1
+Penn State,Bucknell,67,76,0
+Penn State,Rider,90,63,0
+Purdue,Penn State,95,78,0
+Penn State,Wisconsin,87,83,0
+Rutgers,Penn State,46,61,0
+Purdue,Samford,98,45,0
+Purdue,Morehead State,87,57,0
+Gonzaga,Purdue,63,73,1
+Purdue,Tennessee,71,67,1
+Purdue,Texas Southern,99,67,0
+Purdue,Alabama,92,86,1
+Arizona,Purdue,84,92,1
+Rutgers,Purdue,60,68,0
+Wisconsin,Purdue,69,75,0
+Purdue,Rutgers,96,68,0
+Purdue,Wisconsin,78,70,0
+Purdue,Wisconsin,75,76,1
+Princeton,Rutgers,68,61,1
+Rutgers,Boston U,69,45,0
+Rutgers,Howard,85,63,0
+Rutgers,St Peter's,71,40,0
+Rutgers,Miss St,60,70,1
+Rutgers,Wisconsin,78,56,0
+Wisconsin,Rutgers,78,66,0
+Wisconsin,Arkansas State,105,76,0
+Wisconsin,Tennessee,70,80,0
+Wisconsin,Robert Morris,78,68,0
+Wisconsin,W Illinois,71,49,0
+Arizona,Wisconsin,98,73,0
+Wisconsin,Jacksonville St,75,60,0
+Wisconsin,Chicago State,80,53,0
+Denver,Cal Poly,97,76,0
+Wyoming,Cal Poly,80,66,0
+Cal Poly,San Jose State,81,77,0
+Oregon State,Cal Poly,70,63,0
+Cal Poly,Omaha,66,53,0
+Cal Poly,CSU Northridge,73,83,0
+UC Davis,Cal Poly,71,46,0
+Cal Poly,LBSU,82,89,0
+Cal Poly,UCSB,52,61,0
+UC Riverside,Cal Poly,71,56,0
+CSU Bakersfield,Cal Poly,65,53,0
+Cal Poly,CSU Fullerton,51,54,0
+Hawai'i,Cal Poly,83,73,0
+Cal Poly,UC Irvine,59,73,0
+Cal Poly,UC Davis,52,59,0
+CSU Northridge,Cal Poly,78,65,0
+LBSU,Cal Poly,77,68,0
+Cal Poly,Hawai'i,51,80,0
+CSU Fullerton,Cal Poly,68,50,0
+Cal Poly,UC Riverside,78,84,0
+UCSB,Cal Poly,83,75,0
+Cal Poly,CSU Bakersfield,56,68,0
+UC Irvine,Cal Poly,82,68,0
+CSU Bakersfield,Southern Utah,73,72,0
+USC,CSU Bakersfield,85,59,0
+Cal,CSU Bakersfield,83,63,0
+Gonzaga,CSU Bakersfield,81,65,0
+South Dakota,CSU Bakersfield,78,73,0
+Fresno State,CSU Bakersfield,61,58,0
+CSU Bakersfield,South Dakota,96,76,0
+CSU Bakersfield,UC Irvine,56,75,0
+CSU Bakersfield,Hawai'i,67,78,0
+UCSB,CSU Bakersfield,66,64,0
+UC Davis,CSU Bakersfield,78,71,0
+CSU Bakersfield,UC Riverside,80,56,0
+CSU Northridge,CSU Bakersfield,56,64,0
+CSU Fullerton,CSU Bakersfield,68,50,0
+CSU Bakersfield,LBSU,82,76,0
+CSU Bakersfield,UCSB,59,70,0
+UC Riverside,CSU Bakersfield,65,63,0
+CSU Bakersfield,CSU Fullerton,73,71,0
+CSU Bakersfield,CSU Northridge,71,76,0
+UC Irvine,CSU Bakersfield,77,71,0
+LBSU,CSU Bakersfield,79,66,0
+CSU Bakersfield,UC Davis,75,56,0
+Hawai'i,CSU Bakersfield,74,57,0
+UC Riverside,CSU Bakersfield,83,78,1
+San Diego State,CSU Fullerton,83,57,0
+Cornell,CSU Fullerton,88,70,1
+CSU Fullerton,Southern Miss,74,67,1
+CSU Fullerton,North Dakota,64,54,0
+Pepperdine,CSU Fullerton,55,60,0
+Boise State,CSU Fullerton,88,65,0
+CSU Fullerton,Pacific,67,56,0
+CSU Fullerton,LBSU,71,81,0
+Hawai'i,CSU Fullerton,61,63,0
+UC Irvine,CSU Fullerton,75,67,0
+CSU Northridge,CSU Fullerton,76,71,0
+CSU Fullerton,UC Davis,65,67,0
+UCSB,CSU Fullerton,69,73,0
+CSU Fullerton,Hawai'i,68,76,0
+UC Davis,CSU Fullerton,71,58,0
+CSU Fullerton,UC Riverside,73,81,0
+CSU Fullerton,CSU Northridge,60,65,0
+LBSU,CSU Fullerton,71,76,0
+CSU Fullerton,UCSB,79,70,0
+UC Riverside,CSU Fullerton,84,74,0
+CSU Fullerton,UC Irvine,71,81,0
+Stanford,CSU Northridge,88,79,0
+Chicago State,CSU Northridge,64,74,0
+CSU Northridge,Miss Valley St,84,48,0
+Pacific,CSU Northridge,69,80,0
+UCLA,CSU Northridge,72,76,0
+LBSU,CSU Northridge,68,84,0
+CSU Northridge,Hawai'i,76,66,0
+UC Davis,CSU Northridge,95,75,0
+CSU Northridge,UCSB,69,97,0
+UC Riverside,CSU Northridge,82,63,0
+UC Irvine,CSU Northridge,77,72,0
+CSU Northridge,UC Riverside,76,70,0
+UCSB,CSU Northridge,74,82,0
+CSU Northridge,LBSU,73,87,0
+CSU Northridge,UC Davis,65,66,0
+CSU Northridge,UC Irvine,64,89,0
+Hawai'i,CSU Northridge,72,70,0
+CSU Northridge,UCSB,87,84,1
+CSU Northridge,Hawai'i,68,75,1
+Hawai'i,Niagara,92,73,0
+UT Rio Grande,Hawai'i,57,76,1
+San Diego,Hawai'i,66,77,1
+Utah,Hawai'i,79,66,1
+Hawai'i,Nevada,66,72,0
+Hawai'i,Portland,69,56,0
+Hawai'i,UC Irvine,50,60,0
+Hawai'i,UC Riverside,63,56,0
+LBSU,Hawai'i,79,71,0
+Hawai'i,UCSB,61,78,0
+UC Irvine,Hawai'i,93,68,0
+Hawai'i,UC Davis,87,70,0
+UCSB,Hawai'i,77,71,0
+Hawai'i,LBSU,73,65,0
+UC Davis,Hawai'i,75,63,0
+UC Riverside,Hawai'i,73,76,0
+UC Davis,Hawai'i,68,65,1
+Portland,LBSU,78,73,0
+San Diego State,LBSU,88,76,0
+Illinois State,LBSU,61,52,1
+LBSU,Iona,80,76,1
+LBSU,UL Lafayette,82,92,1
+USC,LBSU,79,84,0
+LBSU,UC Riverside,83,75,0
+UCSB,LBSU,85,76,0
+LBSU,UC Irvine,61,72,0
+UC Riverside,LBSU,53,65,0
+UC Davis,LBSU,74,78,0
+UC Irvine,LBSU,82,61,0
+LBSU,UCSB,74,76,0
+LBSU,UC Davis,78,88,0
+UC Riverside,LBSU,67,86,1
+LBSU,UC Irvine,83,79,1
+LBSU,UC Davis,74,70,1
+UC Davis,Pepperdine,79,78,0
+North Dakota St,UC Davis,53,68,1
+Oregon State,UC Davis,71,59,0
+Nevada,UC Davis,80,68,0
+UC Davis,Milwaukee,79,81,0
+Pacific,UC Davis,61,82,0
+UC Davis,UCSB,76,62,0
+UC Riverside,UC Davis,63,83,0
+UC Irvine,UC Davis,74,71,0
+UC Davis,UC Irvine,54,52,0
+UCSB,UC Davis,69,79,0
+UC Davis,UC Riverside,61,67,0
+Utah,UC Irvine,84,75,0
+San Jose State,UC Irvine,72,64,0
+UC Irvine,New Mexico St,91,74,0
+USC,UC Irvine,60,70,0
+Pepperdine,UC Irvine,60,76,1
+Toledo,UC Irvine,71,77,1
+Utah State,UC Irvine,79,69,0
+San Diego State,UC Irvine,63,62,0
+UC Irvine,South Dakota,121,78,0
+New Mexico,UC Irvine,78,65,0
+UC Irvine,UC Riverside,73,66,0
+UCSB,UC Irvine,61,76,0
+UC Riverside,UC Irvine,88,78,0
+UC Irvine,UCSB,81,69,0
+Utah,UC Riverside,82,53,0
+Portland,UC Riverside,76,65,0
+UC Riverside,Green Bay,74,68,1
+UCLA,UC Riverside,66,65,0
+UC Riverside,North Dakota,68,62,0
+Washington St,UC Riverside,86,49,0
+UC Riverside,UCSB,79,77,0
+UCSB,UC Riverside,64,81,0
+UTEP,UCSB,89,76,0
+Fresno State,UCSB,65,69,0
+New Mexico,UCSB,84,61,0
+Loyola Mary,UCSB,59,68,1
+UCSB,Howard,94,81,0
+Campbell,Navy,59,48,0
+Campbell,NC Central,75,78,0
+Campbell,The Citadel,65,58,0
+Campbell,Morgan State,83,76,0
+St Francis (PA),Campbell,78,76,0
+NC A&T,Campbell,76,62,0
+Hampton,Campbell,69,80,0
+Campbell,Delaware,62,68,0
+Campbell,Hofstra,69,68,0
+William & Mary,Campbell,64,77,0
+Towson,Campbell,77,43,0
+Campbell,Elon,78,68,0
+Campbell,Charleston,67,90,0
+Elon,Campbell,67,69,0
+UNC Wilmington,Campbell,77,74,0
+Campbell,Northeastern,76,86,0
+Campbell,Stony Brook,95,77,0
+Monmouth,Campbell,88,87,0
+Drexel,Campbell,81,66,0
+Campbell,Hampton,68,72,0
+Campbell,UNC Wilmington,105,100,0
+Charleston,Campbell,96,73,0
+Campbell,NC A&T,64,62,0
+Campbell,Monmouth,67,90,1
+Charleston,Iona,71,69,0
+Charleston,Wyoming,60,67,1
+C. Carolina,Charleston,72,80,0
+Kent State,Charleston,78,84,0
+Charleston,Liberty,76,67,1
+Charleston,The Citadel,86,71,0
+Charleston,C. Carolina,84,81,0
+Hofstra,Charleston,61,73,0
+Stony Brook,Charleston,87,93,0
+Charleston,Elon,80,62,0
+Charleston,Monmouth,94,83,0
+Charleston,Towson,78,82,0
+UNC Wilmington,Charleston,78,69,0
+Hampton,Charleston,86,107,0
+Charleston,UNC Wilmington,74,80,0
+William & Mary,Charleston,83,84,0
+Charleston,NC A&T,80,58,0
+Charleston,Drexel,80,70,0
+Northeastern,Charleston,73,77,0
+Charleston,William & Mary,65,57,0
+Delaware,Charleston,71,90,0
+Towson,Charleston,56,72,0
+Charleston,Hofstra,87,76,0
+Charleston,Monmouth,83,59,1
+Towson,Charleston,56,61,1
+Charleston,Stony Brook,82,79,1
+Bucknell,Delaware,57,78,0
+Delaware,Air Force,65,57,0
+Delaware State,Delaware,67,78,0
+Brown,Delaware,59,67,1
+UNCG,Delaware,88,77,1
+Ohio,Delaware,74,73,0
+Robert Morris,Delaware,69,73,0
+Delaware,Rider,85,88,0
+Delaware,Princeton,82,84,0
+Delaware,Hampton,80,53,0
+Hofstra,Delaware,76,71,0
+UNC Wilmington,Delaware,79,74,0
+Delaware,Stony Brook,71,68,0
+Drexel,Delaware,86,67,0
+Delaware,NC A&T,90,71,0
+Delaware,Towson,56,67,0
+William & Mary,Delaware,53,81,0
+Delaware,Monmouth,84,80,0
+Towson,Delaware,62,74,0
+Delaware,William & Mary,69,58,0
+Elon,Delaware,73,67,0
+NC A&T,Delaware,54,62,0
+Delaware,Drexel,60,70,0
+Delaware,Northeastern,73,67,0
+Stony Brook,Delaware,79,56,0
+Hampton,Delaware,50,80,1
+Hofstra,Delaware,73,58,1
+Drexel,Fairfield,65,47,0
+Old Dominion,Drexel,68,61,0
+Lafayette,Drexel,48,69,0
+Princeton,Drexel,81,70,0
+Drexel,Hampton,99,65,0
+Drexel,UNC Wilmington,78,63,0
+William & Mary,Drexel,55,77,0
+NC A&T,Drexel,63,67,0
+Elon,Drexel,69,89,0
+Drexel,Monmouth,78,74,0
+Towson,Drexel,70,67,0
+Drexel,NC A&T,62,47,0
+Monmouth,Drexel,67,62,0
+UNC Wilmington,Drexel,75,56,0
+Drexel,Hofstra,79,77,0
+Hofstra,Drexel,69,57,0
+Drexel,Stony Brook,90,86,0
+Drexel,Northeastern,73,59,0
+Drexel,Stony Brook,88,91,1
+Elon,ETSU,79,76,0
+North Dakota,Elon,85,68,0
+Elon,IUPUI,86,72,1
+Holy Cross,Elon,69,83,1
+UNCG,Elon,82,73,0
+South Carolina,Elon,70,43,0
+Elon,Valparaiso,82,78,0
+William & Mary,Elon,77,70,0
+Elon,NC A&T,77,59,0
+Elon,UNC Wilmington,70,82,0
+Elon,Northeastern,72,84,0
+Hampton,Elon,74,80,0
+NC A&T,Elon,65,69,0
+Elon,Stony Brook,64,79,0
+Towson,Elon,80,55,0
+UNC Wilmington,Elon,72,73,0
+Northeastern,Elon,61,58,0
+Hofstra,Elon,87,64,0
+Elon,William & Mary,76,71,0
+Elon,Monmouth,70,85,0
+Elon,Hampton,55,56,1
+Howard,Hampton,92,80,0
+Norfolk State,Hampton,75,68,0
+Hampton,Kent State,62,100,1
+Hampton,San Jose State,52,71,1
+Hampton,JMU,71,88,0
+Bowling Green,Hampton,75,65,0
+E Michigan,Hampton,72,69,0
+Hampton,William & Mary,61,73,0
+Hampton,NC A&T,80,81,0
+Hofstra,Hampton,86,77,0
+Monmouth,Hampton,85,77,0
+NC A&T,Hampton,59,58,0
+Hampton,Howard,63,61,1
+Hampton,Hofstra,59,63,0
+Hampton,UNC Wilmington,65,95,0
+Stony Brook,Hampton,93,73,0
+Hampton,Towson,67,61,0
+Northeastern,Hampton,70,62,0
+Hampton,Monmouth,64,56,0
+William & Mary,Hampton,85,73,0
+Hofstra,Princeton,67,74,0
+Buffalo,Hofstra,68,102,1
+Hofstra,Wright State,85,76,1
+Iona,Hofstra,57,62,0
+Hofstra,Norfolk State,74,58,0
+UNLV,Hofstra,74,56,0
+Northeastern,Hofstra,71,68,0
+Stony Brook,Hofstra,74,80,0
+Hofstra,William & Mary,64,55,0
+Monmouth,Hofstra,81,78,0
+Hofstra,Stony Brook,72,71,0
+Hofstra,Towson,59,56,0
+NC A&T,Hofstra,49,81,0
+Hofstra,Northeastern,82,62,0
+UNC Wilmington,Hofstra,58,69,0
+Hofstra,Stony Brook,59,63,1
+Monmouth,Princeton,57,82,0
+Monmouth,Lehigh,88,79,0
+Belmont,Monmouth,84,93,1
+Monmouth,Lafayette,63,53,1
+Penn,Monmouth,76,61,0
+Cornell,Monmouth,91,87,0
+Monmouth,N Illinois,74,71,0
+Monmouth,Rider,77,71,0
+Monmouth,Manhattan,77,71,0
+Monmouth,Towson,51,43,0
+Monmouth,Northeastern,81,62,0
+UNC Wilmington,Monmouth,69,56,0
+Stony Brook,Monmouth,72,65,0
+Monmouth,William & Mary,68,64,0
+Northeastern,Monmouth,77,65,0
+Monmouth,Stony Brook,84,61,0
+Towson,Monmouth,80,61,0
+Monmouth,NC A&T,83,67,0
+UNCG,NC A&T,94,78,0
+Alabama State,NC A&T,88,73,1
+Samford,NC A&T,101,83,0
+NC A&T,The Citadel,68,85,0
+NC A&T,NC Central,62,67,0
+NC A&T,Texas Southern,85,79,1
+Jackson State,NC A&T,68,60,1
+C. Carolina,NC A&T,82,85,0
+NC A&T,Northeastern,72,65,0
+NC A&T,William & Mary,76,69,0
+UNC Wilmington,NC A&T,73,54,0
+Stony Brook,NC A&T,80,64,0
+NC A&T,Towson,58,84,0
+NC A&T,William & Mary,62,79,1
+Northeastern,Boston U,67,58,0
+Harvard,Northeastern,80,56,0
+Northeastern,Ga Southern,93,76,1
+Princeton,Northeastern,80,66,0
+Northeastern,Old Dominion,81,68,0
+Cent Conn St,Northeastern,74,79,0
+Northeastern,Stony Brook,53,62,0
+Northeastern,Towson,67,59,0
+Northeastern,UNC Wilmington,54,77,0
+Northeastern,William & Mary,68,72,0
+Towson,Northeastern,83,76,0
+Stony Brook,Northeastern,59,55,0
+Northeastern,Stony Brook,65,75,1
+Stony Brook,Rider,55,48,0
+Yale,Stony Brook,79,71,0
+Stony Brook,Wagner,59,60,0
+Stony Brook,Norfolk State,84,78,0
+Army,Stony Brook,74,78,0
+Stony Brook,Brown,69,65,0
+Towson,Stony Brook,73,64,0
+William & Mary,Stony Brook,59,63,0
+Stony Brook,UNC Wilmington,86,78,0
+Stony Brook,William & Mary,75,62,0
+Colorado,Towson,75,57,0
+Coppin State,Towson,49,70,0
+Towson,Robert Morris,66,62,0
+Towson,Morgan State,67,58,0
+Towson,South Dakota St,48,61,1
+Towson,Nicholls,65,55,0
+Towson,UNC Wilmington,67,64,0
+William & Mary,Towson,52,61,0
+UNC Wilmington,Towson,75,64,0
+Towson,William & Mary,67,56,1
+Towson,UNC Wilmington,66,56,1
+UNC Wilmington,Murray State,83,81,1
+Appalachian St,UNC Wilmington,86,56,1
+Kentucky,UNC Wilmington,73,80,0
+Ga Southern,UNC Wilmington,77,82,0
+Marshall,UNC Wilmington,69,78,0
+Arkansas,UNC Wilmington,106,90,0
+William & Mary,UNC Wilmington,65,81,0
+William & Mary,American U,75,56,0
+Omaha,William & Mary,89,83,1
+Air Force,William & Mary,80,71,0
+Norfolk State,William & Mary,96,62,0
+William & Mary,Old Dominion,84,79,0
+Pepperdine,William & Mary,71,59,0
+Navy,William & Mary,77,65,0
+Houston Baptist,FIU,74,83,0
+Akron,FIU,77,71,1
+FIU,Marshall,69,80,1
+FIU,Loyola Mary,60,61,1
+Jacksonville St,FIU,70,63,0
+FIU,New Mexico St,77,67,0
+FIU,UTEP,72,68,0
+Liberty,FIU,78,69,0
+W Kentucky,FIU,105,91,0
+Mid Tennessee,FIU,79,61,0
+FIU,LA Tech,53,93,0
+FIU,Sam Houston,68,61,0
+FIU,Mid Tennessee,66,68,0
+Sam Houston,FIU,70,56,0
+LA Tech,FIU,75,68,0
+FIU,Liberty,76,71,0
+FIU,Jacksonville St,75,77,0
+FIU,W Kentucky,85,83,0
+UTEP,FIU,83,76,0
+New Mexico St,FIU,77,70,0
+FIU,Jacksonville St,76,67,1
+FIU,Sam Houston,59,78,1
+Incarnate Word,Jacksonville St,67,66,0
+Incarnate Word,Jacksonville St,65,67,1
+Jacksonville St,South Alabama,70,52,0
+Jacksonville St,ETSU,59,61,0
+Jacksonville St,UIC,49,55,0
+Little Rock,Jacksonville St,60,90,0
+Liberty,Jacksonville St,51,61,0
+W Kentucky,Jacksonville St,80,69,0
+Jacksonville St,LA Tech,57,74,0
+Mid Tennessee,Jacksonville St,75,67,0
+Jacksonville St,Liberty,73,62,0
+UTEP,Jacksonville St,79,71,0
+New Mexico St,Jacksonville St,67,65,0
+Jacksonville St,Sam Houston,79,68,0
+Jacksonville St,W Kentucky,59,70,0
+LA Tech,Jacksonville St,63,58,0
+Jacksonville St,Mid Tennessee,76,68,0
+Jacksonville St,UTEP,65,72,0
+Jacksonville St,New Mexico St,64,66,0
+Sam Houston,Jacksonville St,81,73,0
+Furman,Liberty,74,88,1
+Liberty,MD-E Shore,99,62,0
+Liberty,Miss Valley St,74,39,0
+Liberty,Grand Canyon,64,69,0
+Liberty,Tennessee St,74,52,0
+Utah Valley,Liberty,63,79,0
+Liberty,Alabama,56,101,1
+W Kentucky,Liberty,70,68,0
+LA Tech,Liberty,80,76,0
+Liberty,Sam Houston,82,66,0
+New Mexico St,Liberty,79,73,0
+UTEP,Liberty,65,67,0
+Liberty,Mid Tennessee,88,53,0
+Liberty,LA Tech,65,62,0
+Sam Houston,Liberty,83,73,0
+Liberty,New Mexico St,83,58,0
+Liberty,UTEP,51,67,0
+Mid Tennessee,Liberty,69,61,0
+Liberty,W Kentucky,82,79,0
+Liberty,UTEP,57,66,1
+Colorado State,LA Tech,81,73,0
+UL Monroe,LA Tech,63,73,0
+LA Tech,Southern Utah,67,53,0
+LA Tech,McNeese,71,62,0
+New Mexico,LA Tech,74,65,0
+LA Tech,Nicholls,68,55,0
+SF Austin,LA Tech,49,56,0
+LA Tech,UL Lafayette,72,67,0
+LA Tech,SE Louisiana,89,60,0
+Seattle,LA Tech,79,73,0
+Grand Canyon,LA Tech,73,70,0
+Sam Houston,LA Tech,81,77,0
+Mid Tennessee,LA Tech,52,60,0
+LA Tech,UTEP,68,54,0
+LA Tech,New Mexico St,73,53,0
+LA Tech,W Kentucky,76,81,0
+UTEP,LA Tech,59,65,0
+New Mexico St,LA Tech,58,67,0
+W Kentucky,LA Tech,84,90,0
+LA Tech,Sam Houston,66,72,0
+LA Tech,Mid Tennessee,84,70,0
+LA Tech,Mid Tennessee,67,70,1
+Mid Tennessee,N Kentucky,74,57,0
+Mid Tennessee,SF Austin,67,62,0
+Mid Tennessee,W Carolina,64,66,0
+Mid Tennessee,UIC,40,70,1
+Ohio,Mid Tennessee,80,68,1
+UMKC,Mid Tennessee,59,63,1
+Mid Tennessee,Wofford,64,74,0
+Mid Tennessee,Missouri State,77,73,0
+Mid Tennessee,Belmont,65,75,0
+Saint Mary's,Mid Tennessee,71,34,0
+Southern Utah,Mid Tennessee,69,63,0
+Murray State,Mid Tennessee,75,54,0
+Mid Tennessee,Sam Houston,51,60,0
+UTEP,Mid Tennessee,73,59,0
+New Mexico St,Mid Tennessee,73,62,0
+W Kentucky,Mid Tennessee,88,65,0
+Mid Tennessee,New Mexico St,76,69,0
+Mid Tennessee,UTEP,96,90,0
+Mid Tennessee,W Kentucky,74,72,0
+Sam Houston,Mid Tennessee,81,64,0
+Mid Tennessee,W Kentucky,54,85,1
+Kentucky,New Mexico St,86,46,0
+New Mexico St,Fresno State,76,81,1
+New Mexico St,S Illinois,54,81,1
+New Mexico,New Mexico St,106,62,0
+New Mexico St,New Mexico,72,73,0
+SF Austin,New Mexico St,75,72,0
+New Mexico St,UTEP,63,53,0
+New Mexico St,W Kentucky,72,70,0
+Sam Houston,New Mexico St,79,67,0
+UTEP,New Mexico St,74,49,0
+W Kentucky,New Mexico St,72,58,0
+New Mexico St,Sam Houston,58,79,0
+New Mexico St,W Kentucky,69,89,1
+Pacific,Sam Houston,57,64,0
+Sam Houston,Utah Valley,73,79,0
+Ole Miss,Sam Houston,70,67,0
+Troy,Sam Houston,86,88,0
+Sam Houston,Grambling,86,68,1
+Arizona State,Sam Houston,78,61,0
+Sam Houston,Lamar,90,70,0
+Missouri State,Sam Houston,69,60,0
+Sam Houston,UL Monroe,63,62,0
+Sam Houston,Texas State,60,73,0
+Grand Canyon,Sam Houston,76,64,0
+Sam Houston,W Kentucky,78,74,0
+Sam Houston,UTEP,60,56,0
+W Kentucky,Sam Houston,77,79,0
+UTEP,Sam Houston,54,65,0
+Sam Houston,UTEP,63,65,1
+Cal,UTEP,72,75,1
+UTEP,Bradley,59,63,1
+Loyola Mary,UTEP,67,47,0
+UTEP,Texas A&M-CC,63,67,0
+Oregon,UTEP,71,49,0
+Abil Christian,UTEP,88,82,0
+UTEP,Norfolk State,67,65,0
+UTEP,Wyoming,78,67,0
+UTEP,Seattle,61,73,0
+UTEP,Chicago State,74,69,0
+UTEP,W Kentucky,93,87,0
+W Kentucky,UTEP,90,80,0
+UTEP,W Kentucky,71,78,1
+Murray State,W Kentucky,81,86,0
+Bowling Green,W Kentucky,65,72,1
+Canisius,W Kentucky,85,77,1
+Buffalo,W Kentucky,65,82,0
+Wright State,W Kentucky,84,91,0
+W Kentucky,Abil Christian,86,84,0
+Cleveland State,Ohio,82,78,0
+Cleveland State,Canisius,71,61,0
+E Michigan,Cleveland State,69,62,0
+Cleveland State,ETSU,72,70,0
+Cleveland State,Alabama A&M,86,59,0
+Youngstown St,Cleveland State,94,69,0
+Cleveland State,Detroit Mercy,69,58,0
+Saint Mary's,Cleveland State,70,57,0
+Kent State,Cleveland State,83,77,0
+Bradley,Cleveland State,69,76,0
+Cleveland State,W Michigan,90,77,0
+Cleveland State,Oakland,75,67,0
+IUPUI,Cleveland State,77,86,0
+Wright State,Cleveland State,82,70,0
+Cleveland State,N Kentucky,88,85,0
+Milwaukee,Cleveland State,88,80,0
+Green Bay,Cleveland State,79,71,0
+Cleveland State,Fort Wayne,75,68,0
+Cleveland State,Wright State,99,107,0
+Cleveland State,Robert Morris,66,64,0
+Detroit Mercy,Cleveland State,65,77,0
+Oakland,Cleveland State,83,71,0
+Fort Wayne,Cleveland State,72,75,0
+Cleveland State,Milwaukee,68,71,0
+Cleveland State,Youngstown St,81,73,0
+N Kentucky,Cleveland State,75,73,0
+Robert Morris,Cleveland State,71,73,0
+Cleveland State,Green Bay,61,69,0
+Cleveland State,IUPUI,75,66,0
+Cleveland State,IUPUI,85,66,0
+Youngstown St,Cleveland State,70,82,0
+Oakland,Cleveland State,74,71,1
+Toledo,Detroit Mercy,94,60,0
+Ole Miss,Detroit Mercy,70,69,0
+Ohio,Detroit Mercy,71,52,0
+Detroit Mercy,E Michigan,72,76,0
+SIU ED,Detroit Mercy,81,67,0
+Detroit Mercy,Oakland,50,65,0
+Detroit Mercy,Ball State,65,68,0
+Loyola Mary,Detroit Mercy,76,56,0
+Cent Michigan,Detroit Mercy,75,63,0
+IUPUI,Detroit Mercy,67,55,0
+Fort Wayne,Detroit Mercy,91,56,0
+Detroit Mercy,Green Bay,51,69,0
+Detroit Mercy,Milwaukee,61,84,0
+Detroit Mercy,N Kentucky,76,81,0
+Robert Morris,Detroit Mercy,102,99,0
+Detroit Mercy,Youngstown St,64,105,0
+Milwaukee,Detroit Mercy,87,71,0
+Green Bay,Detroit Mercy,78,64,0
+Detroit Mercy,Robert Morris,67,75,0
+Wright State,Detroit Mercy,92,85,0
+N Kentucky,Detroit Mercy,79,67,0
+Detroit Mercy,IUPUI,81,66,0
+Detroit Mercy,Fort Wayne,69,83,0
+Detroit Mercy,Wright State,78,93,0
+Youngstown St,Detroit Mercy,69,55,0
+Oakland,Detroit Mercy,75,70,0
+Milwaukee,Detroit Mercy,83,79,0
+Valparaiso,Green Bay,64,59,0
+Fort Wayne,Green Bay,75,71,0
+Green Bay,Milwaukee,70,58,0
+SIU ED,Green Bay,78,69,0
+Green Bay,W Illinois,59,68,0
+UIC,Green Bay,68,70,0
+Green Bay,Wright State,88,77,0
+Green Bay,Robert Morris,78,61,0
+Oakland,Green Bay,79,73,0
+IUPUI,Green Bay,58,68,0
+Wright State,Green Bay,81,88,0
+N Kentucky,Green Bay,74,52,0
+Green Bay,Oakland,69,59,0
+Green Bay,IUPUI,79,56,0
+Robert Morris,Green Bay,76,81,0
+Youngstown St,Green Bay,83,84,0
+Green Bay,N Kentucky,57,58,0
+Green Bay,Fort Wayne,59,85,0
+Green Bay,Youngstown St,59,71,0
+Milwaukee,Green Bay,90,69,0
+Green Bay,Milwaukee,84,95,0
+Valparaiso,IUPUI,56,66,0
+Indiana State,IUPUI,96,57,0
+Holy Cross,IUPUI,74,61,1
+Wright State,IUPUI,103,74,0
+IUPUI,N Kentucky,55,71,0
+E Illinois,IUPUI,75,58,0
+Robert Morris,IUPUI,92,48,0
+Youngstown St,IUPUI,75,65,0
+IUPUI,Oakland,66,88,0
+Fort Wayne,IUPUI,79,85,0
+IUPUI,Robert Morris,63,80,0
+IUPUI,Youngstown St,50,78,0
+IUPUI,Wright State,76,83,0
+Milwaukee,IUPUI,87,67,0
+IUPUI,Fort Wayne,65,92,0
+Oakland,IUPUI,107,59,0
+N Kentucky,IUPUI,80,64,0
+IUPUI,Milwaukee,70,75,0
+Colorado,Milwaukee,106,79,0
+Siena,Milwaukee,59,61,1
+Milwaukee,Southern Miss,84,90,0
+Milwaukee,Chattanooga,85,83,0
+Milwaukee,Robert Morris,78,75,0
+Milwaukee,Wright State,91,83,0
+Oakland,Milwaukee,100,95,0
+N Kentucky,Milwaukee,90,72,0
+Wright State,Milwaukee,95,81,0
+Milwaukee,Oakland,87,91,0
+Fort Wayne,Milwaukee,65,68,0
+Youngstown St,Milwaukee,97,85,0
+Robert Morris,Milwaukee,71,60,0
+Milwaukee,N Kentucky,73,72,0
+Milwaukee,Youngstown St,80,84,0
+Milwaukee,Fort Wayne,96,88,0
+Milwaukee,N Kentucky,82,75,1
+Oakland,Milwaukee,83,76,1
+Washington,N Kentucky,75,67,0
+N Kentucky,Texas A&M-CC,88,73,0
+N Kentucky,Robert Morris,77,59,0
+Illinois State,N Kentucky,62,59,0
+N Kentucky,Akron,76,77,0
+Saint Mary's,N Kentucky,92,56,0
+Fort Wayne,N Kentucky,73,60,0
+N Kentucky,Youngstown St,79,76,0
+Oakland,N Kentucky,70,65,0
+N Kentucky,Fort Wayne,58,63,0
+Youngstown St,N Kentucky,82,52,0
+N Kentucky,Wright State,78,85,0
+N Kentucky,Oakland,99,89,0
+Robert Morris,N Kentucky,60,70,0
+Wright State,N Kentucky,94,88,0
+Wright State,N Kentucky,97,99,0
+Oakland,Bowling Green,81,62,0
+Drake,Oakland,85,77,1
+Loyola Mary,Oakland,69,74,1
+Oakland,Marshall,78,71,1
+Oakland,Fort Wayne,77,98,0
+Oakland,Toledo,68,69,0
+E Michigan,Oakland,63,77,0
+Youngstown St,Oakland,81,88,0
+Oakland,Youngstown St,70,67,0
+Oakland,Robert Morris,87,72,0
+Wright State,Oakland,60,74,0
+Fort Wayne,Oakland,63,71,0
+Robert Morris,Oakland,43,63,0
+Oakland,Wright State,75,96,0
+Oakland,Fort Wayne,75,65,0
+South Dakota,Fort Wayne,81,93,1
+San Francisco,Fort Wayne,76,60,0
+Fort Wayne,SE Missouri St,89,80,0
+Fort Wayne,Bethune-Cookman,86,63,0
+Fort Wayne,Wright State,98,106,0
+Youngstown St,Fort Wayne,93,85,0
+Robert Morris,Fort Wayne,91,88,0
+Fort Wayne,Youngstown St,82,78,0
+Wright State,Fort Wayne,77,79,0
+Fort Wayne,Robert Morris,83,65,0
+Fort Wayne,Robert Morris,78,63,0
+Robert Morris,Fair Dickinson,97,86,0
+Robert Morris,Youngstown St,57,71,0
+Canisius,Robert Morris,87,80,0
+St Francis (PA),Robert Morris,73,75,0
+Robert Morris,Cornell,85,90,0
+Robert Morris,Wright State,76,101,0
+Youngstown St,Robert Morris,87,77,0
+Wright State,Robert Morris,101,71,0
+Colorado State,Wright State,105,77,0
+Wright State,Toledo,77,78,0
+Wright State,UL Lafayette,91,85,1
+Illinois State,Wright State,49,74,1
+Wright State,Miami (OH),92,82,0
+Youngstown St,Wright State,81,71,0
+Wright State,Youngstown St,77,88,0
+UL Lafayette,Youngstown St,72,62,0
+Ohio,Youngstown St,72,78,0
+W Michigan,Youngstown St,68,72,0
+Youngstown St,Navy,75,65,0
+Bowling Green,Chicago State,70,41,0
+Chicago State,Mercer,61,66,0
+S Illinois,Chicago State,71,55,0
+Chicago State,Morgan State,84,83,1
+Chicago State,UT Martin,71,94,0
+Chicago State,Delaware State,69,76,0
+Valparaiso,Chicago State,62,63,0
+Chicago State,UT Rio Grande,78,68,0
+Chicago State,Bethune-Cookman,55,54,0
+Fair Dickinson,Chicago State,74,75,0
+S Carolina St,Chicago State,78,55,0
+Colgate,Brown,72,70,0
+Brown,Loyola (MD),75,77,0
+USC,Brown,81,70,0
+UMKC,Brown,83,93,1
+Ohio,Brown,82,77,1
+Brown,Siena,71,67,0
+Brown,Yale,70,80,0
+Harvard,Brown,72,74,0
+Brown,Cornell,83,84,0
+Dartmouth,Brown,75,71,0
+Brown,Penn,70,61,0
+Brown,Princeton,60,70,0
+Brown,Columbia,69,83,0
+Princeton,Brown,72,63,0
+Penn,Brown,64,71,0
+Columbia,Brown,64,66,0
+Cornell,Brown,74,78,0
+Brown,Harvard,71,68,0
+Brown,Dartmouth,89,67,0
+Yale,Brown,81,84,0
+Princeton,Brown,81,90,1
+Brown,Yale,61,62,1
+Columbia,Loyola (MD),69,57,0
+Columbia,Lafayette,83,72,0
+Fair Dickinson,Columbia,83,87,0
+Cornell,Columbia,91,79,0
+Yale,Columbia,89,70,0
+Columbia,Princeton,62,70,0
+Columbia,Penn,84,81,0
+Harvard,Columbia,62,59,0
+Dartmouth,Columbia,56,72,0
+Columbia,Dartmouth,73,63,0
+Columbia,Harvard,75,80,0
+Columbia,Yale,76,84,0
+Princeton,Columbia,84,70,0
+Penn,Columbia,84,72,0
+Columbia,Cornell,76,98,0
+Lehigh,Cornell,78,84,0
+Cornell,Utah Valley,74,61,1
+Lafayette,Cornell,71,79,0
+Siena,Cornell,74,95,0
+Cornell,Colgate,77,64,0
+Cornell,Penn,77,60,0
+Cornell,Princeton,83,68,0
+Dartmouth,Cornell,53,56,0
+Harvard,Cornell,76,89,0
+Yale,Cornell,80,78,0
+Cornell,Harvard,75,62,0
+Cornell,Dartmouth,89,80,0
+Cornell,Yale,65,62,0
+Penn,Cornell,81,87,0
+Princeton,Cornell,79,77,0
+Cornell,Yale,57,69,1
+Dartmouth,Marist,53,63,0
+Dartmouth,Boston U,63,54,0
+Sacred Heart,Dartmouth,67,57,0
+Vanderbilt,Dartmouth,69,53,0
+Penn,Dartmouth,80,51,0
+Princeton,Dartmouth,76,58,0
+Dartmouth,Yale,51,76,0
+Harvard,Dartmouth,77,59,0
+Dartmouth,Penn,69,82,0
+Dartmouth,Princeton,56,68,0
+Yale,Dartmouth,80,56,0
+Dartmouth,Harvard,76,69,0
+Colgate,Harvard,70,76,0
+Harvard,American U,80,75,0
+Harvard,Army,70,64,0
+Harvard,Holy Cross,74,72,0
+Harvard,Iona,60,69,0
+Princeton,Harvard,89,58,0
+Penn,Harvard,61,70,0
+Harvard,Yale,65,78,0
+Harvard,Princeton,53,66,0
+Harvard,Penn,74,70,0
+Yale,Harvard,80,60,0
+Penn,Bucknell,80,61,0
+MD-E Shore,Penn,83,80,0
+Penn,Lafayette,74,72,0
+Penn,Belmont,79,84,0
+Penn,Kentucky,66,81,1
+Penn,Howard,78,68,0
+Rider,Penn,73,77,0
+Auburn,Penn,88,68,0
+Yale,Penn,74,58,0
+Princeton,Penn,77,70,0
+Penn,Yale,62,76,0
+Penn,Princeton,83,105,0
+Old Dominion,Princeton,56,76,0
+Bucknell,Princeton,71,85,0
+Princeton,Furman,70,69,0
+Yale,Princeton,70,64,0
+Princeton,Yale,73,62,0
+Gonzaga,Yale,86,71,0
+Loyola Mary,Yale,80,83,0
+Colgate,Yale,50,68,1
+Yale,Fairfield,71,75,0
+Quinnipiac,Yale,66,73,0
+Santa Clara,Yale,58,66,0
+Howard,Yale,78,86,0
+Canisius,Wofford,76,67,1
+Bowling Green,Canisius,77,73,1
+Canisius,Quinnipiac,93,73,0
+Canisius,St Peter's,52,54,0
+Mt St Mary's,Canisius,74,69,0
+Rider,Canisius,79,76,0
+Canisius,Siena,67,63,0
+Canisius,Fairfield,63,88,0
+Iona,Canisius,70,58,0
+St Peter's,Canisius,70,59,0
+Canisius,Manhattan,82,70,0
+Canisius,Marist,71,80,0
+Quinnipiac,Canisius,88,63,0
+Niagara,Canisius,69,64,0
+Canisius,Iona,73,69,0
+Marist,Canisius,78,55,0
+Siena,Canisius,64,73,0
+Canisius,Niagara,69,59,0
+Canisius,Mt St Mary's,61,56,0
+Canisius,Rider,61,65,0
+Fairfield,Canisius,74,62,0
+Manhattan,Canisius,70,73,0
+Mt St Mary's,Canisius,61,77,1
+Canisius,Quinnipiac,52,76,1
+Fairfield,Iona,67,78,0
+Rider,Fairfield,81,88,0
+Sacred Heart,Fairfield,57,67,0
+Fairfield,Wagner,63,51,0
+Fair Dickinson,Fairfield,69,92,0
+Siena,Fairfield,69,93,0
+Fairfield,Marist,82,61,0
+Niagara,Fairfield,96,72,0
+Fairfield,St Peter's,76,67,0
+Manhattan,Fairfield,75,82,0
+Fairfield,Quinnipiac,64,66,0
+Iona,Fairfield,91,82,0
+Fairfield,Manhattan,77,68,0
+Fairfield,Rider,84,67,0
+St Peter's,Fairfield,62,64,0
+Fairfield,Niagara,63,65,0
+Fairfield,Mt St Mary's,94,80,0
+Quinnipiac,Fairfield,81,85,0
+Fairfield,Siena,88,64,0
+Marist,Fairfield,58,55,0
+Mt St Mary's,Fairfield,92,96,0
+Fairfield,Iona,68,63,1
+Fairfield,Marist,65,61,1
+Fairfield,St Peter's,63,68,1
+Iona,Sacred Heart,88,81,0
+Buffalo,Iona,64,89,1
+Colorado,Iona,85,68,0
+Iona,Marist,64,68,0
+Iona,St Francis (PA),61,54,0
+Iona,Colgate,85,65,0
+St Peter's,Iona,69,57,0
+Iona,Niagara,73,75,0
+Iona,Mt St Mary's,87,70,0
+Quinnipiac,Iona,91,87,0
+Siena,Iona,51,70,0
+Iona,Rider,94,93,0
+Niagara,Iona,71,74,0
+Iona,Manhattan,73,63,0
+Iona,St Peter's,53,59,0
+Rider,Iona,78,75,0
+Mt St Mary's,Iona,72,65,0
+Iona,Quinnipiac,64,82,0
+Marist,Iona,64,71,0
+Manhattan,Iona,77,60,0
+Iona,Siena,68,54,0
+Manhattan,Iona,57,60,1
+Cent Conn St,Manhattan,63,67,0
+Manhattan,Mt St Mary's,75,74,0
+Marist,Manhattan,70,56,0
+Manhattan,Fair Dickinson,71,76,0
+Manhattan,Wagner,56,68,0
+Manhattan,Niagara,67,81,0
+Quinnipiac,Manhattan,76,59,0
+Rider,Manhattan,71,58,0
+Manhattan,St Peter's,68,81,0
+Niagara,Manhattan,78,84,0
+Manhattan,Quinnipiac,71,77,0
+Mt St Mary's,Manhattan,82,78,0
+Manhattan,Siena,63,68,0
+Manhattan,Rider,62,104,0
+Manhattan,Marist,50,57,0
+Siena,Manhattan,68,70,0
+St Peter's,Manhattan,89,57,0
+Army,Marist,55,71,0
+Marist,Bucknell,73,49,0
+Marist,MD-E Shore,76,52,0
+Marist,Lehigh,58,65,0
+Marist,Quinnipiac,55,66,0
+Marist,Rider,83,60,0
+Mt St Mary's,Marist,65,48,0
+Marist,Siena,50,48,0
+Niagara,Marist,67,62,0
+Marist,Mt St Mary's,58,76,0
+Marist,St Peter's,63,52,0
+Siena,Marist,51,67,0
+Rider,Marist,62,77,0
+St Peter's,Marist,69,60,0
+Quinnipiac,Marist,73,64,0
+Marist,Niagara,63,62,0
+Marist,Niagara,65,59,1
+Mt St Mary's,Coppin State,74,60,0
+American U,Mt St Mary's,68,65,0
+Mt St Mary's,Howard,83,87,0
+Mt St Mary's,Siena,80,48,0
+Ole Miss,Mt St Mary's,77,68,0
+Loyola (MD),Mt St Mary's,64,77,0
+St Francis (PA),Mt St Mary's,65,72,0
+Georgia,Mt St Mary's,94,82,0
+Delaware State,Mt St Mary's,77,73,0
+St Peter's,Mt St Mary's,70,64,0
+Mt St Mary's,Niagara,71,82,0
+Quinnipiac,Mt St Mary's,79,65,0
+Mt St Mary's,Rider,62,66,0
+Siena,Mt St Mary's,61,68,0
+Mt St Mary's,Quinnipiac,96,79,0
+Rider,Mt St Mary's,61,57,0
+Mt St Mary's,St Peter's,65,70,0
+Niagara,Mt St Mary's,72,91,0
+Niagara,Bucknell,64,73,0
+St Francis (PA),Niagara,61,69,0
+Niagara,St Peter's,67,72,0
+Niagara,Quinnipiac,68,75,0
+Buffalo,Niagara,63,69,0
+Niagara,Siena,88,93,0
+Rider,Niagara,74,78,0
+St Peter's,Niagara,59,68,0
+Quinnipiac,Niagara,66,80,0
+Niagara,Rider,61,71,0
+Siena,Niagara,59,66,0
+Siena,Niagara,65,67,1
+Quinnipiac,Cent Conn St,74,70,0
+Army,Quinnipiac,58,67,0
+Quinnipiac,Navy,71,68,0
+Holy Cross,Quinnipiac,57,77,0
+Lafayette,Quinnipiac,60,78,0
+Florida,Quinnipiac,97,72,0
+Quinnipiac,Rider,88,84,0
+Siena,Quinnipiac,70,82,0
+Quinnipiac,St Peter's,84,73,0
+Rider,Quinnipiac,88,78,0
+Quinnipiac,Siena,71,57,0
+St Peter's,Quinnipiac,74,89,0
+Quinnipiac,St Peter's,60,62,1
+Siena,Rider,67,65,0
+St Peter's,Rider,57,62,0
+Rider,Siena,91,50,0
+Rider,St Peter's,61,56,0
+Rider,St Peter's,48,50,1
+Fair Dickinson,St Peter's,71,70,0
+Bucknell,St Peter's,58,67,0
+Siena,St Peter's,52,63,0
+St Peter's,Siena,75,53,0
+Siena,Holy Cross,73,71,0
+American U,Siena,78,58,0
+Cent Michigan,Siena,70,56,1
+Miami (OH),Coppin State,76,48,0
+Coppin State,E Illinois,46,48,1
+Navy,Coppin State,75,52,0
+Coppin State,Wagner,59,62,0
+JMU,Coppin State,87,48,0
+Delaware State,Coppin State,55,53,0
+Coppin State,MD-E Shore,58,55,0
+Coppin State,Morgan State,86,89,0
+Norfolk State,Coppin State,68,58,0
+Coppin State,Howard,66,81,0
+NC Central,Coppin State,77,46,0
+S Carolina St,Coppin State,77,65,0
+Coppin State,Delaware State,56,66,0
+MD-E Shore,Coppin State,75,67,0
+Coppin State,Norfolk State,66,68,0
+Howard,Coppin State,78,69,0
+Coppin State,NC Central,58,83,0
+Coppin State,S Carolina St,58,61,0
+Morgan State,Coppin State,78,60,0
+Coppin State,Norfolk State,51,75,1
+Delaware State,Grambling,71,63,1
+Bethune-Cookman,Delaware State,64,72,1
+Delaware State,Lamar,81,84,1
+Loyola (MD),Delaware State,73,79,0
+Morgan State,Delaware State,66,78,0
+Delaware State,MD-E Shore,67,63,0
+Delaware State,S Carolina St,64,66,0
+Delaware State,NC Central,66,69,0
+Norfolk State,Delaware State,65,64,0
+Delaware State,Howard,71,75,0
+Delaware State,Morgan State,80,58,0
+S Carolina St,Delaware State,69,62,0
+NC Central,Delaware State,93,81,0
+Delaware State,Norfolk State,85,71,0
+Howard,Delaware State,85,66,0
+MD-E Shore,Delaware State,67,59,0
+Delaware State,S Carolina St,71,58,1
+Delaware State,NC Central,71,58,1
+Delaware State,Howard,67,70,1
+Wagner,Howard,71,68,1
+JMU,Howard,107,86,0
+Howard,Boston U,64,53,0
+Jackson State,Howard,81,74,1
+Texas Southern,Howard,79,78,1
+NC Central,Howard,73,54,0
+S Carolina St,Howard,78,82,0
+Howard,MD-E Shore,72,61,0
+Howard,Norfolk State,61,65,0
+Morgan State,Howard,85,79,0
+Howard,NC Central,90,82,0
+Howard,S Carolina St,68,75,0
+Howard,Morgan State,78,72,0
+MD-E Shore,Howard,66,70,0
+Norfolk State,Howard,77,58,0
+Morgan State,Howard,65,78,1
+Norfolk State,Howard,74,80,1
+MD-E Shore,Morgan State,75,74,0
+MD-E Shore,NC Central,57,65,0
+MD-E Shore,S Carolina St,53,63,0
+MD-E Shore,Norfolk State,69,60,0
+Morgan State,MD-E Shore,70,65,0
+NC Central,MD-E Shore,88,55,0
+S Carolina St,MD-E Shore,64,56,0
+Norfolk State,MD-E Shore,69,50,0
+MD-E Shore,NC Central,81,87,1
+Arizona,Morgan State,122,59,0
+Fresno State,Morgan State,87,68,0
+Morgan State,JMU,75,89,0
+Norfolk State,Morgan State,83,73,0
+S Carolina St,Morgan State,70,72,0
+NC Central,Morgan State,72,79,0
+Morgan State,Norfolk State,82,85,0
+Morgan State,S Carolina St,61,72,0
+Morgan State,NC Central,88,79,0
+San Jose State,Norfolk State,77,53,1
+Illinois State,Norfolk State,58,64,0
+Norfolk State,South Dakota St,84,65,1
+Tennessee,Norfolk State,87,50,0
+S Carolina St,Norfolk State,72,79,0
+NC Central,Norfolk State,60,58,0
+Norfolk State,S Carolina St,71,67,0
+Norfolk State,NC Central,80,74,0
+Georgia,NC Central,64,54,0
+NC Central,The Citadel,61,67,1
+C. Carolina,NC Central,58,70,0
+S Carolina St,NC Central,71,68,0
+NC Central,S Carolina St,79,68,0
+Samford,S Carolina St,89,72,0
+Missouri,S Carolina St,82,59,0
+Missouri State,S Carolina St,92,74,0
+Furman,S Carolina St,86,78,0
+S Carolina St,Bethune-Cookman,71,80,0
+South Dakota St,Akron,75,81,0
+Akron,Southern Miss,72,54,0
+Akron,Utah State,62,65,1
+Akron,Drake,59,79,1
+UNLV,Akron,72,70,0
+Akron,Bradley,67,52,0
+N Illinois,Akron,51,73,0
+Akron,Bowling Green,83,67,0
+Ball State,Akron,76,80,0
+Akron,Buffalo,76,59,0
+Akron,W Michigan,77,66,0
+Kent State,Akron,71,77,0
+Akron,Ohio,67,58,0
+Miami (OH),Akron,70,68,0
+E Michigan,Akron,46,77,0
+Akron,Toledo,77,70,0
+Akron,Cent Michigan,68,47,0
+JMU,Akron,73,59,0
+Buffalo,Akron,62,73,0
+Toledo,Akron,72,64,0
+Akron,Kent State,83,70,0
+Ohio,Akron,74,67,0
+Akron,N Illinois,80,73,0
+Akron,E Michigan,60,61,0
+W Michigan,Akron,90,84,0
+Miami (OH),Akron,63,75,1
+Ohio,Akron,62,65,1
+Akron,Kent State,62,61,1
+Ball State,Old Dominion,73,68,0
+Evansville,Ball State,74,50,0
+Ball State,AR-Pine Bluff,92,74,0
+Little Rock,Ball State,90,64,0
+Ball State,SIU ED,83,71,0
+Ball State,Indiana State,72,83,1
+Kent State,Ball State,82,69,0
+Ball State,Cent Michigan,65,71,0
+Toledo,Ball State,77,72,0
+E Michigan,Ball State,62,76,0
+Ball State,Miami (OH),80,87,0
+Buffalo,Ball State,59,87,0
+Ball State,N Illinois,81,71,0
+Ball State,Bowling Green,72,81,0
+W Michigan,Ball State,67,77,0
+Ball State,Ohio,79,84,0
+Texas State,Ball State,68,60,0
+Miami (OH),Ball State,80,59,0
+N Illinois,Ball State,63,70,0
+Ball State,E Michigan,56,58,0
+Cent Michigan,Ball State,71,79,0
+Ball State,W Michigan,76,78,0
+Ball State,Kent State,76,69,0
+Bowling Green,Ball State,80,70,0
+Bowling Green,Arkansas State,81,75,0
+Bowling Green,UMKC,79,69,0
+Bowling Green,E Michigan,92,90,0
+Bowling Green,Ohio,83,78,0
+N Illinois,Bowling Green,72,83,0
+Miami (OH),Bowling Green,73,78,0
+Bowling Green,W Michigan,84,79,0
+Bowling Green,Kent State,84,90,0
+Toledo,Bowling Green,88,72,0
+Bowling Green,Cent Michigan,76,77,0
+Bowling Green,Buffalo,87,73,0
+UL Lafayette,Bowling Green,86,60,0
+E Michigan,Bowling Green,69,60,0
+Cent Michigan,Bowling Green,62,60,0
+Bowling Green,Toledo,76,68,0
+Bowling Green,Miami (OH),58,66,0
+Ohio,Bowling Green,66,59,0
+W Michigan,Bowling Green,65,73,0
+Bowling Green,Cent Michigan,66,56,1
+Bowling Green,Kent State,60,73,1
+Buffalo,Fair Dickinson,86,92,0
+Buffalo,South Alabama,56,70,0
+Buffalo,UL Lafayette,60,68,1
+JMU,Buffalo,81,66,0
+Cent Michigan,Buffalo,64,76,0
+Buffalo,W Michigan,77,82,0
+Buffalo,Miami (OH),65,86,0
+Toledo,Buffalo,77,66,0
+E Michigan,Buffalo,75,65,0
+Ohio,Buffalo,91,70,0
+Buffalo,Kent State,52,83,0
+Ga Southern,Buffalo,81,82,0
+N Illinois,Buffalo,72,68,0
+Buffalo,E Michigan,78,69,0
+W Michigan,Buffalo,91,72,0
+Kent State,Buffalo,76,64,0
+Buffalo,Toledo,79,85,0
+Buffalo,Ohio,66,78,0
+Buffalo,N Illinois,68,78,0
+Cent Michigan,UL Monroe,64,74,0
+Cent Michigan,Valparaiso,71,67,0
+E Michigan,Cent Michigan,64,80,0
+Cent Michigan,Kent State,77,62,0
+Ohio,Cent Michigan,73,61,0
+Cent Michigan,Toledo,65,62,0
+Cent Michigan,Miami (OH),71,55,0
+W Michigan,Cent Michigan,55,62,0
+Cent Michigan,N Illinois,84,77,0
+Old Dominion,Cent Michigan,57,58,0
+Cent Michigan,W Michigan,69,42,0
+Miami (OH),Cent Michigan,88,60,0
+Kent State,Cent Michigan,79,73,0
+N Illinois,Cent Michigan,63,69,0
+Cent Michigan,E Michigan,65,62,0
+E Michigan,Ga Southern,70,60,0
+North Dakota,E Michigan,72,70,1
+E Michigan,Kent State,71,69,0
+Miami (OH),E Michigan,71,54,0
+Ohio,E Michigan,85,67,0
+W Michigan,E Michigan,73,56,0
+N Illinois,E Michigan,76,66,0
+E Michigan,Toledo,87,91,0
+UL Monroe,E Michigan,82,76,0
+E Michigan,W Michigan,70,67,0
+E Michigan,Miami (OH),37,52,0
+Kent State,JMU,108,113,0
+Kent State,Fresno State,79,69,0
+Kent State,Missouri State,52,56,1
+South Dakota St,Kent State,73,82,0
+Oregon,Kent State,84,70,0
+Saint Mary's,Kent State,66,46,0
+Kent State,Toledo,75,89,0
+N Illinois,Kent State,76,83,0
+Kent State,Ohio,64,71,0
+Kent State,Miami (OH),67,71,0
+Kent State,W Michigan,63,61,0
+Troy,Kent State,78,68,0
+Kent State,N Illinois,85,47,0
+Ohio,Kent State,63,57,0
+Toledo,Kent State,86,71,0
+Kent State,Toledo,67,59,1
+Evansville,Miami (OH),72,64,0
+Miami (OH),Texas State,65,75,0
+Miami (OH),E Illinois,76,64,0
+Marshall,Miami (OH),74,79,0
+Miami (OH),W Michigan,74,83,0
+Toledo,Miami (OH),68,64,0
+Ohio,Miami (OH),78,69,0
+Miami (OH),N Illinois,59,62,0
+Georgia State,Miami (OH),73,53,0
+W Michigan,Miami (OH),77,58,0
+Miami (OH),Toledo,63,97,0
+Miami (OH),Ohio,59,72,0
+N Illinois,Appalachian St,91,78,0
+Georgia State,N Illinois,64,70,0
+Little Rock,N Illinois,93,98,1
+N Illinois,Indiana State,67,90,0
+N Illinois,Northern Iowa,63,76,0
+Ohio,N Illinois,78,66,0
+W Michigan,N Illinois,95,90,0
+N Illinois,Toledo,73,89,0
+South Alabama,N Illinois,75,66,0
+N Illinois,Ohio,59,80,0
+Toledo,N Illinois,72,75,0
+Ohio,Troy,88,70,0
+Ohio,Marshall,69,74,0
+Ohio,Toledo,77,86,0
+W Michigan,Ohio,81,79,0
+Arkansas State,Ohio,100,87,0
+Toledo,Ohio,85,83,0
+Ohio,W Michigan,82,55,1
+Toledo,UL Lafayette,87,78,0
+New Mexico,Toledo,92,84,1
+Toledo,Indiana State,74,76,1
+Toledo,Northern Iowa,84,80,0
+Toledo,Marshall,88,87,0
+Toledo,W Michigan,88,63,0
+Appalachian St,Toledo,109,104,0
+W Michigan,North Dakota St,76,80,0
+W Michigan,Georgia State,70,77,0
+SE Louisiana,W Michigan,67,68,1
+Mercer,W Michigan,66,72,1
+UIC,W Michigan,89,68,0
+Southern Miss,W Michigan,86,54,0
+Belmont,Georgia State,89,87,0
+Furman,Belmont,99,76,0
+Arizona,Belmont,100,68,0
+Belmont,Lafayette,79,69,1
+Northern Iowa,Belmont,70,90,0
+Belmont,Valparaiso,77,68,0
+Samford,Belmont,99,93,0
+Belmont,Arkansas State,74,70,0
+S Illinois,Belmont,73,63,0
+Belmont,Drake,87,65,0
+Belmont,Illinois State,67,60,0
+Indiana State,Belmont,94,64,0
+Belmont,Northern Iowa,72,83,0
+Bradley,Belmont,95,72,0
+Illinois State,Belmont,77,67,0
+Belmont,UIC,74,65,0
+Belmont,Indiana State,72,78,0
+Missouri State,Belmont,87,80,0
+Belmont,Murray State,69,64,0
+Valparaiso,Belmont,78,96,0
+Belmont,S Illinois,82,68,0
+UIC,Belmont,60,75,0
+Drake,Belmont,84,69,0
+Belmont,Missouri State,93,78,0
+Murray State,Belmont,61,83,0
+Belmont,Evansville,83,66,0
+Belmont,Valparaiso,86,61,1
+Belmont,Northern Iowa,62,67,1
+Bradley,Utah State,72,66,0
+Murray State,Bradley,79,72,0
+Bradley,Indiana State,77,85,0
+Bradley,SIU ED,75,64,0
+Valparaiso,Bradley,61,86,0
+Bradley,Missouri State,86,60,0
+Bradley,Evansville,86,50,0
+UIC,Bradley,59,77,0
+S Illinois,Bradley,69,70,0
+Bradley,Murray State,71,63,0
+Indiana State,Bradley,95,86,0
+Bradley,Northern Iowa,85,69,0
+Illinois State,Bradley,60,73,0
+Evansville,Bradley,73,70,0
+Bradley,Drake,67,74,0
+Bradley,UIC,85,73,0
+Northern Iowa,Bradley,74,63,0
+Missouri State,Bradley,62,86,0
+Bradley,Illinois State,48,45,0
+Bradley,S Illinois,86,67,0
+Drake,Bradley,74,66,0
+Bradley,UIC,74,47,1
+Drake,Bradley,72,67,1
+Drake,SF Austin,68,92,1
+Drake,Texas Southern,77,71,0
+Valparaiso,Drake,65,83,0
+Drake,Missouri State,74,57,0
+Drake,Nevada,72,53,1
+Drake,Grambling,68,56,0
+Drake,Alcorn State,92,55,0
+Drake,Illinois State,88,71,0
+Drake,Indiana State,89,78,0
+S Illinois,Drake,58,76,0
+Illinois State,Drake,56,77,0
+Drake,Evansville,97,48,0
+Missouri State,Drake,83,80,0
+Drake,Northern Iowa,77,63,0
+Drake,Valparaiso,81,70,0
+Indiana State,Drake,75,67,0
+Drake,S Illinois,92,88,0
+Evansville,Drake,75,78,0
+Drake,Murray State,95,72,0
+Northern Iowa,Drake,91,77,0
+UIC,Drake,105,107,0
+Drake,Evansville,79,58,1
+Drake,Indiana State,84,80,1
+SE Missouri St,Evansville,57,76,0
+Chattanooga,Evansville,77,85,0
+SE Missouri St,Evansville,74,93,1
+Missouri State,Evansville,90,78,0
+Evansville,Northern Iowa,91,89,0
+Evansville,UT Martin,98,91,0
+Evansville,Tenn Tech,82,51,0
+Indiana State,Evansville,87,73,0
+Evansville,Murray State,59,81,0
+Evansville,Missouri State,64,74,0
+Evansville,Valparaiso,78,75,0
+Northern Iowa,Evansville,70,63,0
+Evansville,Illinois State,58,54,0
+Evansville,UIC,77,60,0
+Valparaiso,Evansville,62,63,0
+Murray State,Evansville,73,70,0
+Illinois State,Evansville,86,79,0
+UIC,Evansville,88,79,0
+Evansville,S Illinois,53,65,0
+Evansville,Indiana State,67,85,0
+Illinois State,Evansville,53,59,1
+Illinois State,E Illinois,69,61,0
+UIC,Illinois State,64,69,0
+Illinois State,Murray State,76,72,0
+Illinois State,North Dakota St,75,65,0
+Illinois State,SE Missouri St,85,64,0
+Kentucky,Illinois State,96,70,0
+Illinois State,S Illinois,64,71,0
+Illinois State,Valparaiso,50,59,0
+Missouri State,Illinois State,60,69,0
+Murray State,Illinois State,59,61,0
+Illinois State,UIC,56,61,0
+S Illinois,Illinois State,69,66,0
+Indiana State,Illinois State,67,80,0
+Illinois State,Northern Iowa,81,73,0
+Illinois State,Missouri State,75,74,0
+Valparaiso,Illinois State,75,72,0
+Alabama,Indiana State,102,80,0
+Pepperdine,Indiana State,82,90,1
+Indiana State,S Illinois,77,48,0
+Indiana State,Tennessee St,90,69,0
+Northern Iowa,Indiana State,66,77,0
+Indiana State,Missouri State,88,66,0
+Murray State,Indiana State,63,72,0
+UIC,Indiana State,83,89,0
+Indiana State,Valparaiso,101,61,0
+Missouri State,Indiana State,71,73,0
+S Illinois,Indiana State,74,69,0
+Valparaiso,Indiana State,64,83,0
+Indiana State,UIC,88,73,0
+Indiana State,Murray State,89,77,0
+Missouri State,Indiana State,59,75,1
+Northern Iowa,Indiana State,72,94,1
+Missouri State,Oral Roberts,84,69,0
+Abil Christian,Missouri State,69,87,1
+Saint Mary's,Missouri State,64,69,0
+Missouri State,Northern Iowa,62,64,0
+Missouri State,Murray State,53,77,0
+Valparaiso,Missouri State,70,81,0
+S Illinois,Missouri State,75,76,0
+Northern Iowa,Missouri State,72,65,0
+Murray State,Missouri State,82,72,0
+Missouri State,Valparaiso,82,74,0
+Missouri State,UIC,69,59,0
+Missouri State,Murray State,60,35,1
+Murray State,Tenn Tech,78,72,0
+Appalachian St,Murray State,67,57,1
+Miss St,Murray State,85,81,0
+Murray State,SE Louisiana,55,61,0
+Little Rock,Murray State,80,66,0
+Murray State,UIC,85,73,0
+Murray State,Northern Iowa,60,70,0
+UIC,Murray State,58,73,0
+Murray State,S Illinois,58,60,0
+Northern Iowa,Murray State,43,71,0
+S Illinois,Murray State,72,68,0
+Murray State,Valparaiso,80,68,0
+Stanford,Northern Iowa,51,73,1
+Northern Iowa,PV A&M,74,55,0
+Northern Iowa,Alcorn State,100,82,0
+Northern Iowa,UIC,67,59,0
+Northern Iowa,S Illinois,61,57,0
+UIC,Northern Iowa,71,65,0
+Valparaiso,Northern Iowa,67,86,0
+Northern Iowa,Valparaiso,68,54,0
+S Illinois,Northern Iowa,70,82,0
+JMU,S Illinois,82,76,1
+S Illinois,North Dakota St,76,63,0
+S Illinois,UIC,62,50,0
+Valparaiso,S Illinois,68,77,0
+S Illinois,Valparaiso,75,69,0
+UIC,S Illinois,71,74,0
+S Illinois,UIC,82,84,1
+UIC,Little Rock,86,71,0
+UNCG,UIC,58,57,1
+UIC,Incarnate Word,66,67,0
+UIC,Valparaiso,70,64,0
+Valparaiso,UIC,84,77,0
+Valparaiso,W Illinois,73,66,0
+Valparaiso,Southern,71,59,0
+Valparaiso,Samford,61,79,0
+Air Force,Omaha,58,56,0
+Air Force,VMI,64,54,0
+South Dakota,Air Force,57,58,0
+Portland,Air Force,58,80,0
+Air Force,UT Arlington,73,76,1
+Air Force,Utah State,60,88,0
+Nevada,Air Force,67,54,0
+Air Force,San Jose State,67,70,0
+Colorado State,Air Force,78,69,0
+Air Force,New Mexico,66,85,0
+UNLV,Air Force,58,90,0
+Fresno State,Air Force,84,70,0
+Air Force,Wyoming,72,83,0
+Boise State,Air Force,94,56,0
+Air Force,San Diego State,64,77,0
+Air Force,Fresno State,66,68,0
+San Jose State,Air Force,73,66,0
+Air Force,UNLV,43,72,0
+New Mexico,Air Force,77,78,0
+Air Force,Boise State,48,79,0
+Utah State,Air Force,72,60,0
+Wyoming,Air Force,74,63,0
+Air Force,Colorado State,73,82,0
+New Mexico,Air Force,82,56,1
+Boise State,San Francisco,63,58,0
+Saint Mary's,Boise State,60,63,1
+Boise State,Northwestern St,95,54,0
+Washington St,Boise State,66,61,1
+Boise State,Utah Valley,85,63,0
+San Jose State,Boise State,69,78,0
+Boise State,Colorado State,65,58,0
+Nevada,Boise State,56,64,0
+Boise State,UNLV,64,68,0
+Boise State,San Diego State,67,66,0
+Fresno State,Boise State,68,72,0
+Boise State,Utah State,84,90,0
+New Mexico,Boise State,78,86,0
+Colorado State,Boise State,75,62,0
+Utah State,Boise State,80,61,0
+Boise State,Fresno State,90,66,0
+Boise State,San Jose State,82,50,0
+Wyoming,Boise State,72,92,0
+Boise State,New Mexico,89,79,0
+Boise State,Nevada,66,76,0
+San Diego State,Boise State,77,79,0
+New Mexico,Boise State,76,66,1
+Colorado State,UMKC,84,61,0
+Colorado State,Colorado,88,83,0
+Washington,Colorado State,81,86,1
+Colorado State,Denver,90,80,0
+Colorado State,Saint Mary's,61,64,0
+Loyola Mary,Colorado State,67,76,0
+Colorado State,New Mexico,76,68,0
+Utah State,Colorado State,77,72,0
+Colorado State,UNLV,78,75,0
+Nevada,Colorado State,77,64,0
+Wyoming,Colorado State,79,76,0
+Colorado State,San Diego State,79,71,0
+Fresno State,Colorado State,61,73,0
+Colorado State,San Jose State,66,47,0
+San Diego State,Colorado State,71,55,0
+Colorado State,Utah State,75,55,0
+New Mexico,Colorado State,68,66,0
+UNLV,Colorado State,66,60,0
+Colorado State,Nevada,74,77,0
+Colorado State,Wyoming,70,62,0
+San Jose State,Colorado State,62,72,1
+Nevada,Colorado State,78,85,1
+New Mexico,Colorado State,74,61,1
+JMU,Fresno State,95,64,1
+Fresno State,Pacific,89,56,0
+San Francisco,Fresno State,77,57,0
+San Diego,Fresno State,67,71,0
+San Diego State,Fresno State,74,47,0
+Fresno State,Nevada,57,72,0
+Wyoming,Fresno State,68,67,0
+Fresno State,San Jose State,85,82,0
+Utah State,Fresno State,83,62,0
+UNLV,Fresno State,78,69,0
+San Jose State,Fresno State,57,69,0
+Fresno State,UNLV,65,67,0
+Fresno State,San Diego State,41,73,0
+Fresno State,Utah State,73,77,0
+Nevada,Fresno State,74,66,0
+New Mexico,Fresno State,79,58,0
+Fresno State,Wyoming,47,86,0
+Wyoming,Fresno State,73,77,1
+Fresno State,Utah State,75,87,1
+Washington,Nevada,76,83,0
+Nevada,Pacific,88,39,0
+Nevada,Portland,108,83,0
+Nevada,Loyola Mary,73,59,0
+San Diego State,Nevada,71,59,0
+Wyoming,Nevada,98,93,0
+New Mexico,Nevada,89,55,0
+Nevada,San Jose State,90,60,0
+Utah State,Nevada,63,77,0
+Nevada,San Diego State,70,66,0
+Nevada,New Mexico,82,83,0
+UNLV,Nevada,66,69,0
+Nevada,Wyoming,76,58,0
+San Jose State,Nevada,63,84,0
+Nevada,UNLV,75,65,0
+New Mexico,Texas Southern,92,55,0
+Saint Mary's,New Mexico,72,58,0
+New Mexico,UT Arlington,82,80,0
+New Mexico,Pepperdine,90,71,1
+New Mexico,Santa Clara,93,76,1
+New Mexico,Wyoming,77,60,0
+UNLV,New Mexico,83,73,0
+New Mexico,San Diego State,88,70,0
+New Mexico,Utah State,99,86,0
+San Jose State,New Mexico,75,95,0
+Wyoming,New Mexico,73,91,0
+New Mexico,UNLV,77,80,0
+San Diego State,New Mexico,81,70,0
+Utah State,New Mexico,87,85,0
+New Mexico,San Diego State,68,61,1
+San Diego State,Saint Mary's,79,54,1
+San Diego State,Washington,100,97,1
+San Diego State,Cal,76,67,1
+Grand Canyon,San Diego State,79,73,0
+San Diego State,Stanford,74,60,0
+Gonzaga,San Diego State,74,84,0
+San Diego State,UNLV,72,61,0
+San Jose State,San Diego State,78,81,0
+San Diego State,Wyoming,81,65,0
+San Diego State,Utah State,81,67,0
+Utah State,San Diego State,68,63,0
+San Diego State,San Jose State,72,64,0
+UNLV,San Diego State,62,58,0
+UNLV,San Diego State,71,74,0
+San Diego State,Utah State,86,70,1
+Abil Christian,San Jose State,77,71,1
+San Jose State,North Dakota St,78,65,0
+North Dakota St,San Jose State,83,78,0
+San Jose State,New Orleans,87,82,0
+San Jose State,Santa Clara,81,78,0
+Wyoming,San Jose State,75,73,0
+San Jose State,UNLV,65,77,0
+Utah State,San Jose State,82,61,0
+San Jose State,Wyoming,75,80,0
+UNLV,San Jose State,68,50,0
+San Jose State,Utah State,70,90,0
+UNLV,Southern,71,85,0
+Pepperdine,UNLV,68,82,0
+Loyola Mary,UNLV,78,75,1
+UNLV,Saint Mary's,67,69,1
+UNLV,Utah State,86,87,0
+UNLV,Wyoming,62,48,0
+Wyoming,UNLV,69,75,0
+Utah State,Southern Utah,93,84,0
+Marshall,Utah State,60,83,1
+SF Austin,Utah State,49,79,1
+Utah State,San Diego,108,81,0
+Santa Clara,Utah State,82,84,0
+San Francisco,Utah State,53,54,1
+Utah State,ETSU,80,65,0
+Utah State,Wyoming,83,59,0
+Wyoming,Utah State,76,84,0
+Furman,Wyoming,71,78,1
+Portland,Wyoming,81,70,0
+Wyoming,SF Austin,78,70,0
+South Dakota St,Wyoming,65,78,1
+Army,Cent Conn St,51,79,0
+Cent Conn St,Holy Cross,78,67,0
+St Francis (PA),Cent Conn St,61,75,0
+Fair Dickinson,Cent Conn St,60,76,0
+Cent Conn St,Wagner,69,68,0
+Cent Conn St,St Francis (PA),63,62,0
+Cent Conn St,Sacred Heart,77,70,0
+Cent Conn St,Fair Dickinson,71,62,0
+Wagner,Cent Conn St,72,73,0
+Sacred Heart,Cent Conn St,67,68,0
+Cent Conn St,St Francis (PA),71,62,0
+Cent Conn St,Wagner,56,66,0
+St Francis (PA),Fair Dickinson,71,81,0
+Fair Dickinson,Sacred Heart,93,91,0
+Fair Dickinson,Wagner,62,66,0
+Fair Dickinson,St Francis (PA),93,74,0
+Sacred Heart,Fair Dickinson,99,91,0
+Wagner,Fair Dickinson,54,57,0
+Holy Cross,Sacred Heart,77,84,0
+Loyola (MD),Sacred Heart,51,66,1
+Sacred Heart,Boston U,49,70,0
+Sacred Heart,St Francis (PA),79,67,0
+Sacred Heart,Wagner,66,61,0
+St Francis (PA),Sacred Heart,75,71,0
+Wagner,Sacred Heart,53,63,0
+Sacred Heart,Wagner,57,60,0
+UCLA,St Francis (PA),75,44,0
+San Francisco,St Francis (PA),84,52,0
+Santa Clara,St Francis (PA),82,59,0
+Lehigh,St Francis (PA),61,62,0
+American U,St Francis (PA),73,75,0
+Wagner,St Francis (PA),71,56,0
+St Francis (PA),Wagner,63,65,0
+Wagner,Boston U,59,73,0
+SIU ED,E Illinois,67,58,0
+UT Martin,E Illinois,72,79,0
+Little Rock,E Illinois,88,90,0
+E Illinois,Morehead State,52,78,0
+E Illinois,W Illinois,60,63,0
+E Illinois,Tenn Tech,68,59,0
+E Illinois,Tennessee St,60,64,0
+E Illinois,UT Martin,59,76,0
+E Illinois,Little Rock,47,71,0
+Morehead State,E Illinois,69,57,0
+E Illinois,SE Missouri St,75,57,0
+Tennessee St,E Illinois,78,73,0
+Tenn Tech,E Illinois,75,67,0
+E Illinois,SIU ED,84,79,0
+W Illinois,E Illinois,70,66,0
+E Illinois,SIU ED,57,68,1
+Little Rock,Texas State,71,66,0
+Georgia State,Little Rock,88,77,0
+Little Rock,Georgia State,90,93,0
+Little Rock,Arkansas State,77,66,0
+Tenn Tech,Little Rock,75,81,0
+Tennessee St,Little Rock,90,82,0
+Little Rock,SIU ED,88,80,0
+UT Martin,Little Rock,77,72,0
+Little Rock,SE Missouri St,66,61,0
+SIU ED,Little Rock,68,66,0
+Little Rock,UT Martin,77,57,0
+W Illinois,Little Rock,60,63,0
+Little Rock,Morehead State,69,68,0
+SE Missouri St,Little Rock,61,83,0
+Little Rock,Tennessee St,85,60,0
+Little Rock,Tenn Tech,81,43,0
+Little Rock,W Illinois,82,57,1
+Little Rock,Morehead State,55,69,1
+Alabama,Morehead State,105,73,0
+Morehead State,Mercer,74,66,0
+Morehead State,Chattanooga,87,80,0
+SE Missouri St,Morehead State,64,83,0
+Morehead State,Tenn Tech,82,57,0
+Morehead State,Tennessee St,78,68,0
+SIU ED,Morehead State,61,48,0
+Morehead State,UT Martin,84,66,0
+Morehead State,W Illinois,64,50,0
+Tennessee St,Morehead State,49,68,0
+Tenn Tech,Morehead State,60,67,0
+Morehead State,SIU ED,79,68,0
+UT Martin,Morehead State,88,82,0
+W Illinois,Morehead State,57,78,0
+Morehead State,SE Missouri St,72,50,0
+Morehead State,SIU ED,78,63,1
+Morehead State,UT Martin,84,78,1
+Missouri,SIU ED,68,50,0
+Denver,SIU ED,74,77,1
+Nicholls,SIU ED,51,60,1
+South Alabama,SIU ED,86,74,0
+Troy,SIU ED,83,60,0
+SIU ED,W Illinois,70,78,0
+SE Missouri St,SIU ED,52,47,0
+SIU ED,Tenn Tech,74,57,0
+SIU ED,UT Martin,79,90,0
+SIU ED,SE Missouri St,80,76,0
+Tenn Tech,SIU ED,77,78,0
+Tennessee St,SIU ED,76,71,0
+W Illinois,SIU ED,76,65,0
+Grand Canyon,SE Missouri St,88,67,0
+Chattanooga,SE Missouri St,72,56,0
+UMKC,SE Missouri St,74,44,0
+W Illinois,SE Missouri St,68,61,0
+Tenn Tech,SE Missouri St,70,59,0
+UT Martin,SE Missouri St,84,58,0
+SE Missouri St,W Illinois,55,76,0
+SE Missouri St,Tenn Tech,88,69,0
+SE Missouri St,Tennessee St,74,77,0
+SE Missouri St,UT Martin,72,82,0
+Portland,Tennessee St,65,75,0
+Oregon,Tennessee St,92,67,0
+Mercer,Tennessee St,60,59,1
+SE Louisiana,Tennessee St,77,91,1
+Alabama A&M,Tennessee St,85,83,0
+Tennessee St,UT Martin,75,91,0
+Tennessee St,Tenn Tech,85,53,0
+W Illinois,Tennessee St,57,58,0
+Tenn Tech,Tennessee St,70,50,0
+Tennessee St,W Illinois,61,68,0
+UT Martin,Tennessee St,96,87,0
+Tennessee St,W Illinois,59,61,1
+Tennessee,Tenn Tech,80,42,0
+Chattanooga,Tenn Tech,68,63,0
+Tenn Tech,W Carolina,65,69,0
+ETSU,Tenn Tech,73,72,0
+Tenn Tech,UT Martin,73,81,0
+Tenn Tech,W Illinois,55,62,0
+UT Martin,Tenn Tech,80,69,0
+Miss St,UT Martin,87,63,0
+PV A&M,UT Martin,78,66,1
+McNeese,UT Martin,91,80,0
+UT Martin,W Illinois,64,73,0
+W Illinois,UT Martin,59,62,0
+W Illinois,Southern,88,80,0
+W Illinois,South Dakota,68,70,0
+Miss St,Arizona State,71,56,1
+Arizona State,Texas Southern,63,52,0
+Vanderbilt,Arizona State,67,82,1
+Arizona State,San Francisco,72,61,0
+San Diego,Arizona State,89,84,0
+Stanford,Arizona State,73,76,0
+Cal,Arizona State,69,71,0
+Arizona State,Utah,82,70,0
+Arizona State,Colorado,76,73,0
+Washington,Arizona State,82,67,0
+Arizona State,UCLA,66,68,0
+Arizona State,USC,82,67,0
+Oregon,Arizona State,80,61,0
+Oregon State,Arizona State,84,71,0
+Arizona State,Stanford,62,71,0
+Arizona State,Cal,66,81,0
+Colorado,Arizona State,82,70,0
+Utah,Arizona State,77,85,0
+Arizona State,Oregon State,79,61,0
+Arizona,Arizona State,105,60,0
+Arizona State,Washington,82,84,0
+Arizona State,Washington St,73,61,0
+Arizona State,Arizona,67,85,0
+USC,Arizona State,81,73,0
+UCLA,Arizona State,59,47,0
+Utah,Arizona State,90,57,1
+Arizona,Southern,97,59,0
+Arizona,UT Arlington,101,56,0
+Arizona,Colgate,82,55,0
+Arizona,Alabama,87,74,1
+Cal,Arizona,81,100,0
+Stanford,Arizona,100,82,0
+Arizona,Colorado,97,50,0
+Arizona,Utah,92,73,0
+Washington St,Arizona,73,70,0
+Arizona,USC,82,67,0
+Arizona,UCLA,77,71,0
+Oregon State,Arizona,83,80,0
+Oregon,Arizona,78,87,0
+Arizona,Cal,91,65,0
+Arizona,Stanford,82,71,0
+Utah,Arizona,99,105,0
+Colorado,Arizona,79,99,0
+Arizona,Washington St,74,77,0
+Arizona,Washington,91,75,0
+Arizona,Oregon,103,83,0
+UCLA,Arizona,65,88,0
+USC,Arizona,78,65,0
+Arizona,USC,70,49,1
+Arizona,Oregon,59,67,1
+Cal,Pacific,79,87,0
+Cal,Santa Clara,84,69,0
+Ole Miss,Cal,88,78,1
+USC,Cal,82,74,0
+UCLA,Cal,57,66,0
+Cal,Colorado,82,78,0
+Oregon,Cal,80,73,0
+Cal,Washington,75,77,0
+Cal,Washington St,81,75,0
+Cal,Stanford,73,71,0
+Cal,USC,83,77,0
+Cal,UCLA,60,61,0
+Washington St,Cal,84,65,0
+Washington,Cal,80,82,0
+Cal,Oregon State,81,73,0
+Cal,Oregon,69,64,0
+Colorado,Cal,88,78,0
+Utah,Cal,88,59,0
+Stanford,Cal,80,58,0
+Stanford,Cal,87,76,1
+Colorado,Grambling,95,63,0
+Colorado,Pepperdine,91,66,0
+Colorado,Washington,73,69,0
+Colorado,Washington St,74,67,0
+Colorado,USC,68,58,0
+Colorado,Oregon,86,70,0
+Colorado,Oregon State,90,57,0
+Washington,Colorado,81,98,0
+Washington St,Colorado,78,69,0
+Utah,Colorado,73,68,0
+UCLA,Colorado,64,60,0
+USC,Colorado,89,92,0
+Colorado,Utah,89,65,0
+Colorado,Stanford,81,71,0
+Oregon,Colorado,75,79,0
+Oregon State,Colorado,57,73,0
+Utah,Colorado,58,72,1
+Washington St,Colorado,52,58,1
+Oregon,Colorado,75,68,1
+Oregon,Georgia,82,71,1
+Florida A&M,Oregon,54,67,0
+Oregon,Santa Clara,82,88,1
+Oregon,Alabama,91,99,1
+Oregon,USC,82,74,0
+Oregon,UCLA,64,59,0
+Washington,Oregon,74,76,0
+Washington St,Oregon,84,89,0
+Utah,Oregon,80,77,0
+USC,Oregon,69,78,0
+UCLA,Oregon,71,63,0
+Oregon,Washington,85,80,0
+Oregon,Washington St,56,62,0
+Oregon State,Oregon,58,60,0
+Stanford,Oregon,65,78,0
+Oregon,Oregon State,78,71,0
+Oregon,Utah,66,65,0
+Oregon,UCLA,68,66,1
+Oregon State,Troy,81,80,0
+Oregon State,Appalachian St,81,71,0
+Oregon State,Utah Valley,74,71,0
+Oregon State,UCLA,62,69,0
+Oregon State,USC,86,70,0
+Washington St,Oregon State,65,58,0
+Washington,Oregon State,79,72,0
+Oregon State,Stanford,84,88,0
+Utah,Oregon State,74,47,0
+UCLA,Oregon State,71,63,0
+USC,Oregon State,82,54,0
+Oregon State,Washington St,58,64,0
+Oregon State,Washington,55,67,0
+Stanford,Oregon State,73,85,0
+Oregon State,Utah,92,85,0
+Oregon State,UCLA,57,67,1
+Stanford,Santa Clara,77,89,0
+Stanford,Arkansas,74,77,1
+Stanford,San Diego,88,64,0
+UCLA,Stanford,53,59,0
+USC,Stanford,93,79,0
+Stanford,Utah,79,73,0
+Stanford,Washington St,75,89,0
+Stanford,Washington,90,80,0
+Stanford,UCLA,74,82,0
+Stanford,USC,99,68,0
+Washington,Stanford,85,65,0
+Washington St,Stanford,72,59,0
+Utah,Stanford,90,68,0
+Stanford,Washington St,62,79,1
+UCLA,Lafayette,68,50,0
+Gonzaga,UCLA,69,65,1
+Utah,UCLA,90,44,0
+UCLA,Washington,73,61,0
+USC,UCLA,50,65,0
+UCLA,Utah,69,70,0
+UCLA,USC,56,62,0
+Washington,UCLA,94,77,0
+Washington St,UCLA,77,65,0
+Gonzaga,USC,89,76,1
+Auburn,USC,91,75,0
+Alabama State,USC,59,79,0
+USC,Washington St,64,72,0
+USC,Utah,68,64,0
+Washington St,USC,75,72,0
+Washington,USC,75,82,0
+Washington,USC,74,80,1
+Saint Mary's,Utah,71,78,0
+Utah,Southern Utah,88,86,0
+Utah,Utah Valley,76,62,0
+Utah,Washington St,80,58,0
+Utah,Washington,95,90,0
+Washington St,Utah,79,57,0
+Washington,Utah,98,73,0
+Washington,Gonzaga,78,73,0
+Seattle,Washington,99,100,0
+Washington,Washington St,87,90,0
+Washington St,Washington,68,74,0
+Washington St,PV A&M,83,65,0
+Washington St,Miss St,64,76,1
+Washington St,Grambling,83,65,0
+Santa Clara,Washington St,69,61,1
+VMI,American U,69,77,0
+American U,Lehigh,75,66,0
+Bucknell,American U,63,71,0
+Boston U,American U,72,68,0
+American U,Army,79,60,0
+Loyola (MD),American U,52,66,0
+Lehigh,American U,70,68,0
+American U,Holy Cross,84,65,0
+American U,Colgate,54,73,0
+Lafayette,American U,66,69,0
+American U,Bucknell,75,66,0
+American U,Loyola (MD),43,44,0
+Holy Cross,American U,58,56,0
+Navy,American U,42,59,0
+American U,Lafayette,62,68,0
+American U,Boston U,52,67,0
+Colgate,American U,64,66,0
+Army,American U,51,73,0
+American U,Navy,65,71,0
+American U,Bucknell,57,80,0
+Lafayette,Army,52,47,0
+Army,Holy Cross,70,57,0
+Army,Loyola (MD),65,71,0
+Army,Colgate,56,64,0
+Navy,Army,57,53,0
+Boston U,Army,59,69,0
+Army,Bucknell,56,66,0
+Colgate,Army,74,55,0
+Army,Lafayette,56,64,0
+Lehigh,Army,57,68,0
+Army,Navy,69,67,0
+Army,Boston U,65,50,0
+Holy Cross,Army,53,59,0
+Army,Lehigh,54,85,0
+Bucknell,Army,54,41,0
+Loyola (MD),Army,69,68,0
+Army,Holy Cross,68,84,0
+Navy,Boston U,62,60,0
+Boston U,Lafayette,51,59,0
+Loyola (MD),Boston U,58,60,0
+Boston U,Bucknell,57,73,0
+Colgate,Boston U,75,59,0
+Lafayette,Boston U,48,62,0
+Holy Cross,Boston U,65,63,0
+Boston U,Lehigh,72,71,0
+Boston U,Colgate,64,74,0
+Bucknell,Boston U,62,77,0
+Boston U,Navy,74,65,0
+Boston U,Loyola (MD),82,79,0
+Lehigh,Boston U,62,64,0
+Boston U,Holy Cross,94,84,0
+Boston U,Navy,70,61,0
+Boston U,Lehigh,79,84,0
+Bucknell,Holy Cross,70,58,0
+Lehigh,Bucknell,80,86,0
+Bucknell,Colgate,73,84,0
+Lafayette,Bucknell,75,72,0
+Bucknell,Navy,71,63,0
+Bucknell,Loyola (MD),67,52,0
+Navy,Bucknell,67,80,0
+Bucknell,Lehigh,63,71,0
+Colgate,Bucknell,62,50,0
+Holy Cross,Bucknell,73,59,0
+Loyola (MD),Bucknell,46,68,0
+Bucknell,Lafayette,60,50,0
+Colgate,Bucknell,68,65,0
+Colgate,Loyola (MD),78,55,0
+Navy,Colgate,72,80,0
+Colgate,Lafayette,64,69,0
+Colgate,Lehigh,60,57,0
+Colgate,Navy,88,64,0
+Loyola (MD),Colgate,62,76,0
+Colgate,Holy Cross,85,55,0
+Lafayette,Colgate,62,67,0
+Holy Cross,Colgate,58,77,0
+Lehigh,Colgate,60,63,0
+Colgate,Holy Cross,81,64,0
+Colgate,Lehigh,74,55,0
+Holy Cross,Navy,70,80,0
+Lehigh,Holy Cross,66,69,0
+Holy Cross,Lafayette,68,72,0
+Holy Cross,Loyola (MD),86,78,0
+Holy Cross,Lehigh,72,78,0
+Loyola (MD),Holy Cross,67,70,0
+Lafayette,Holy Cross,75,59,0
+Navy,Holy Cross,76,66,0
+Pepperdine,Lafayette,76,53,0
+Lafayette,Navy,78,62,0
+Loyola (MD),Lafayette,44,70,0
+Lehigh,Lafayette,94,90,0
+Lafayette,Loyola (MD),64,79,0
+Lafayette,Lehigh,63,71,0
+Navy,Lafayette,62,58,0
+Lafayette,Lehigh,61,76,0
+Loyola (MD),Lehigh,76,88,0
+Navy,Lehigh,71,69,0
+Lehigh,Navy,77,65,0
+Lehigh,Loyola (MD),75,70,0
+Florida,Loyola (MD),93,73,0
+Missouri,Loyola (MD),78,70,0
+Navy,Loyola (MD),70,74,0
+Loyola (MD),Navy,62,69,0
+Navy,Loyola (MD),64,48,0
+San Diego,Navy,67,59,0
+Navy,VMI,67,47,0
+Alabama,South Alabama,102,46,0
+Alabama,Mercer,98,67,0
+Alabama,Arkansas State,89,65,0
+Vanderbilt,Alabama,75,78,0
+Alabama,South Carolina,74,47,0
+Miss St,Alabama,74,82,0
+Alabama,Missouri,93,75,0
+Tennessee,Alabama,91,71,0
+Alabama,Auburn,79,75,0
+Alabama,LSU,109,88,0
+Georgia,Alabama,76,85,0
+Alabama,Miss St,99,67,0
+Auburn,Alabama,99,81,0
+LSU,Alabama,92,109,0
+Alabama,Texas A&M,100,75,0
+Alabama,Florida,98,93,0
+Kentucky,Alabama,117,95,0
+Ole Miss,Alabama,88,103,0
+Alabama,Tennessee,74,81,0
+Florida,Alabama,105,87,0
+Alabama,Arkansas,92,88,0
+Alabama,Florida,88,102,1
+Arkansas,Alcorn State,93,59,0
+Arkansas,Old Dominion,86,77,0
+Arkansas,UNCG,72,78,0
+Arkansas,Furman,97,83,0
+Arkansas,Abil Christian,83,73,0
+Arkansas,Auburn,51,83,0
+Georgia,Arkansas,76,66,0
+Florida,Arkansas,90,68,0
+Arkansas,Texas A&M,78,77,0
+Arkansas,South Carolina,64,77,0
+Ole Miss,Arkansas,77,51,0
+Arkansas,Kentucky,57,63,0
+Missouri,Arkansas,84,91,0
+LSU,Arkansas,95,74,0
+Arkansas,Georgia,78,75,0
+Arkansas,Tennessee,63,92,0
+Miss St,Arkansas,71,67,0
+Texas A&M,Arkansas,71,78,0
+Arkansas,Missouri,88,73,0
+Arkansas,Vanderbilt,82,85,0
+Kentucky,Arkansas,111,102,0
+Arkansas,LSU,94,83,0
+Vanderbilt,Arkansas,85,90,1
+South Carolina,Arkansas,80,66,1
+Auburn,SE Louisiana,86,71,0
+Auburn,Alabama A&M,84,54,0
+Appalachian St,Auburn,69,64,0
+Auburn,Alabama State,82,62,0
+Auburn,Chattanooga,101,66,0
+Auburn,Texas A&M,66,55,0
+Auburn,LSU,93,78,0
+Vanderbilt,Auburn,65,80,0
+Auburn,Ole Miss,82,59,0
+Miss St,Auburn,64,58,0
+Auburn,Vanderbilt,81,54,0
+Ole Miss,Auburn,77,91,0
+Florida,Auburn,81,65,0
+Auburn,South Carolina,101,61,0
+Auburn,Kentucky,59,70,0
+Georgia,Auburn,76,97,0
+Tennessee,Auburn,92,84,0
+Auburn,Miss St,78,63,0
+Missouri,Auburn,74,101,0
+Auburn,Georgia,92,78,0
+Auburn,South Carolina,86,55,1
+Auburn,Miss St,73,66,1
+Auburn,Florida,86,67,1
+Florida,Florida A&M,89,68,0
+Florida,Grambling,96,57,0
+Florida,Kentucky,85,87,0
+Ole Miss,Florida,103,85,0
+Tennessee,Florida,85,66,0
+Missouri,Florida,67,79,0
+Florida,Miss St,79,70,0
+Florida,Georgia,102,98,0
+Kentucky,Florida,91,94,0
+Texas A&M,Florida,67,66,0
+Florida,LSU,82,80,0
+Georgia,Florida,82,88,0
+Florida,Vanderbilt,77,64,0
+Florida,Missouri,83,74,0
+South Carolina,Florida,82,76,0
+Vanderbilt,Florida,79,78,0
+Florida,Georgia,85,80,1
+Texas A&M,Florida,90,95,1
+Georgia,Mercer,80,69,0
+Georgia,Alabama A&M,93,73,0
+Missouri,Georgia,68,75,0
+Georgia,Tennessee,79,85,0
+South Carolina,Georgia,69,74,0
+Kentucky,Georgia,105,96,0
+Georgia,LSU,68,66,0
+Georgia,South Carolina,62,72,0
+Miss St,Georgia,75,62,0
+Vanderbilt,Georgia,64,76,0
+LSU,Georgia,67,66,0
+Georgia,Texas A&M,56,70,0
+Georgia,Ole Miss,69,66,0
+Missouri,Georgia,59,64,1
+Kentucky,Marshall,118,82,0
+Kentucky,Missouri,90,77,0
+Texas A&M,Kentucky,97,92,0
+Kentucky,Miss St,90,77,0
+South Carolina,Kentucky,79,62,0
+Kentucky,Tennessee,92,103,0
+Vanderbilt,Kentucky,77,109,0
+Kentucky,Gonzaga,85,89,0
+Kentucky,Ole Miss,75,63,0
+LSU,Kentucky,75,74,0
+Miss St,Kentucky,89,91,0
+Kentucky,Vanderbilt,93,77,0
+Tennessee,Kentucky,81,85,0
+Texas A&M,Kentucky,97,87,1
+LSU,Miss Valley St,106,60,0
+LSU,Nicholls,66,68,0
+LSU,SE Louisiana,73,66,0
+LSU,Alabama State,74,56,0
+LSU,Lamar,87,66,0
+LSU,Northwestern St,96,55,0
+Texas A&M,LSU,53,68,0
+LSU,Vanderbilt,77,69,0
+LSU,Ole Miss,89,80,0
+LSU,Texas A&M,69,73,0
+Tennessee,LSU,88,68,0
+South Carolina,LSU,63,64,0
+LSU,Miss St,67,87,0
+Vanderbilt,LSU,61,75,0
+LSU,Missouri,84,80,0
+Miss St,LSU,70,60,1
+Miss St,Nicholls,74,61,0
+Miss St,Southern,59,60,0
+Miss St,Bethune-Cookman,85,62,0
+South Carolina,Miss St,68,62,0
+Miss St,Tennessee,77,72,0
+Miss St,Vanderbilt,68,55,0
+Ole Miss,Miss St,86,82,0
+Missouri,Miss St,51,75,0
+Miss St,Ole Miss,83,71,0
+Texas A&M,Miss St,75,69,0
+Miss St,South Carolina,89,93,0
+Tennessee,Miss St,56,73,1
+Missouri,AR-Pine Bluff,101,79,0
+Missouri,Jackson State,72,73,0
+Missouri,South Carolina,69,71,0
+Texas A&M,Missouri,63,57,0
+South Carolina,Missouri,72,64,0
+Vanderbilt,Missouri,68,61,0
+Missouri,Texas A&M,60,79,0
+Ole Miss,Missouri,79,76,0
+Missouri,Tennessee,67,72,0
+Missouri,Ole Miss,78,84,0
+Ole Miss,Alabama State,69,59,0
+Ole Miss,Troy,74,53,0
+Ole Miss,Southern Miss,89,72,1
+Tennessee,Ole Miss,90,64,0
+Ole Miss,Vanderbilt,69,56,0
+Texas A&M,Ole Miss,68,71,0
+South Carolina,Ole Miss,68,65,0
+Ole Miss,South Carolina,59,72,0
+Ole Miss,Texas A&M,60,86,0
+Ole Miss,Texas A&M,71,80,1
+South Carolina,VMI,74,64,0
+Grand Canyon,South Carolina,68,75,1
+South Carolina,Florida A&M,94,62,0
+Tennessee,South Carolina,59,63,0
+South Carolina,Vanderbilt,75,60,0
+Texas A&M,South Carolina,68,70,0
+South Carolina,Tennessee,59,66,0
+Tennessee,Wofford,82,61,0
+Tennessee,Ga Southern,74,56,0
+Vanderbilt,Tennessee,62,75,0
+Texas A&M,Tennessee,85,69,0
+Tennessee,Vanderbilt,88,53,0
+Tennessee,Texas A&M,86,51,0
+Texas A&M,Oral Roberts,74,66,0
+Texas A&M,Houston Baptist,79,52,0
+Texas A&M,PV A&M,79,54,0
+Vanderbilt,Texas A&M,74,73,0
+Vanderbilt,UNCG,74,70,0
+Vanderbilt,Alabama A&M,78,59,0
+Vanderbilt,San Francisco,60,73,0
+Vanderbilt,W Carolina,62,63,0
+Alabama A&M,ETSU,71,82,1
+Samford,Alabama A&M,118,91,0
+Alabama A&M,Chattanooga,72,88,0
+South Alabama,Alabama A&M,83,67,0
+AR-Pine Bluff,Alabama A&M,62,63,0
+Miss Valley St,Alabama A&M,70,78,0
+Alabama A&M,Alcorn State,71,74,0
+Alabama A&M,Jackson State,67,75,0
+Alabama A&M,Alabama State,55,72,1
+Texas Southern,Alabama A&M,85,69,0
+PV A&M,Alabama A&M,87,76,0
+Alabama A&M,Florida A&M,73,61,0
+Alabama A&M,Bethune-Cookman,72,68,0
+Southern,Alabama A&M,69,62,0
+Grambling,Alabama A&M,50,60,0
+Alabama A&M,Miss Valley St,80,57,0
+Alabama A&M,AR-Pine Bluff,75,67,0
+Bethune-Cookman,Alabama A&M,63,61,0
+Florida A&M,Alabama A&M,76,58,0
+Alabama A&M,Alabama State,58,53,0
+Alabama A&M,Grambling,73,74,0
+Alabama A&M,Southern,66,56,0
+Alabama A&M,Alcorn State,75,63,1
+Alabama A&M,Texas Southern,65,72,1
+Samford,Alabama State,99,67,0
+Miss Valley St,Alabama State,51,54,0
+AR-Pine Bluff,Alabama State,72,83,0
+Alabama State,Jackson State,63,73,0
+Alabama State,Alcorn State,55,53,0
+PV A&M,Alabama State,67,74,0
+Texas Southern,Alabama State,56,55,0
+Alabama State,Bethune-Cookman,68,79,0
+Alabama State,Florida A&M,62,53,0
+Grambling,Alabama State,74,68,0
+Southern,Alabama State,73,62,0
+Alabama State,AR-Pine Bluff,74,80,0
+Alabama State,Miss Valley St,61,46,0
+Florida A&M,Alabama State,73,65,0
+Bethune-Cookman,Alabama State,90,84,0
+Alabama State,Southern,57,65,0
+Alabama State,Grambling,87,84,0
+Alabama State,Grambling,50,56,1
+Arkansas State,Alcorn State,100,86,0
+UT Arlington,Alcorn State,82,69,0
+Jackson State,Alcorn State,88,80,0
+Alcorn State,Texas Southern,61,72,0
+Alcorn State,PV A&M,90,78,0
+Florida A&M,Alcorn State,67,76,0
+Bethune-Cookman,Alcorn State,67,70,0
+Alcorn State,Southern,70,71,0
+Alcorn State,Grambling,67,78,0
+AR-Pine Bluff,Alcorn State,56,68,0
+Miss Valley St,Alcorn State,55,72,0
+Alcorn State,Bethune-Cookman,69,54,0
+Alcorn State,Florida A&M,79,68,0
+Alcorn State,Jackson State,87,73,0
+PV A&M,Alcorn State,65,73,0
+Texas Southern,Alcorn State,79,82,0
+Alcorn State,Miss Valley St,74,67,0
+Alcorn State,AR-Pine Bluff,104,95,0
+AR-Pine Bluff,Incarnate Word,81,100,0
+Gonzaga,AR-Pine Bluff,111,71,0
+Texas Southern,AR-Pine Bluff,67,70,0
+AR-Pine Bluff,Florida A&M,99,97,0
+AR-Pine Bluff,Bethune-Cookman,76,72,0
+Southern,AR-Pine Bluff,80,66,0
+Grambling,AR-Pine Bluff,70,86,0
+Miss Valley St,AR-Pine Bluff,77,83,0
+PV A&M,AR-Pine Bluff,75,74,0
+AR-Pine Bluff,Jackson State,63,76,0
+AR-Pine Bluff,PV A&M,72,59,0
+AR-Pine Bluff,Texas Southern,70,77,0
+AR-Pine Bluff,Miss Valley St,78,69,0
+Jackson State,AR-Pine Bluff,89,84,0
+Bethune-Cookman,Lamar,65,83,1
+Bethune-Cookman,Incarnate Word,96,82,0
+Bethune-Cookman,Florida A&M,98,86,0
+Bethune-Cookman,Grambling,69,79,0
+Bethune-Cookman,Southern,83,81,0
+Miss Valley St,Bethune-Cookman,64,80,0
+Bethune-Cookman,Jackson State,82,71,0
+Bethune-Cookman,PV A&M,84,78,0
+Bethune-Cookman,Texas Southern,83,79,0
+Jackson State,Bethune-Cookman,61,60,0
+Southern,Bethune-Cookman,61,67,0
+Grambling,Bethune-Cookman,69,60,0
+Florida A&M,Bethune-Cookman,66,67,0
+Bethune-Cookman,Southern,73,58,1
+Bethune-Cookman,Grambling,53,65,1
+Florida A&M,Southern,65,74,0
+Florida A&M,Grambling,52,65,0
+Miss Valley St,Florida A&M,70,81,0
+Florida A&M,Jackson State,88,86,0
+Florida A&M,Texas Southern,75,78,0
+Florida A&M,PV A&M,58,61,0
+Jackson State,Florida A&M,77,55,0
+Grambling,Florida A&M,75,68,0
+Southern,Florida A&M,58,44,0
+Troy,Grambling,80,67,0
+SE Louisiana,Grambling,48,47,0
+Grambling,PV A&M,69,63,0
+Grambling,Texas Southern,52,54,0
+Grambling,Southern,79,62,0
+Grambling,Miss Valley St,54,46,0
+Jackson State,Grambling,62,70,1
+Texas Southern,Grambling,63,66,0
+PV A&M,Grambling,74,83,0
+Southern,Grambling,57,63,0
+Texas Southern,Grambling,66,75,1
+San Diego,Jackson State,87,61,0
+Loyola Mary,Jackson State,88,66,0
+Arkansas State,Jackson State,71,75,0
+Gonzaga,Jackson State,100,76,0
+Jackson State,PV A&M,62,71,0
+Jackson State,Texas Southern,73,64,0
+Jackson State,Southern,63,72,0
+Miss Valley St,Jackson State,69,77,0
+Texas Southern,Jackson State,80,70,0
+PV A&M,Jackson State,74,79,0
+Jackson State,Miss Valley St,68,67,0
+Jackson State,Texas Southern,62,73,1
+Santa Clara,Miss Valley St,81,39,0
+Pacific,Miss Valley St,68,65,0
+Gonzaga,Miss Valley St,78,40,0
+San Francisco,Miss Valley St,92,42,0
+PV A&M,Miss Valley St,71,60,0
+Texas Southern,Miss Valley St,93,61,0
+Southern,Miss Valley St,78,54,0
+Miss Valley St,Texas Southern,52,73,0
+Miss Valley St,PV A&M,57,51,0
+Seattle,PV A&M,71,60,0
+Abil Christian,PV A&M,74,79,0
+Southern,PV A&M,79,58,0
+PV A&M,Texas Southern,69,80,0
+PV A&M,Southern,71,77,0
+Texas Southern,PV A&M,93,78,0
+Southern,SE Louisiana,69,44,0
+Southern,Texas Southern,58,51,0
+Texas Southern,Southern,68,56,0
+Oral Roberts,Texas Southern,65,63,0
+Texas Southern,Samford,65,87,0
+Samford,Chattanooga,89,74,0
+Chattanooga,Furman,73,58,0
+Chattanooga,VMI,109,61,0
+Chattanooga,UNCG,54,70,0
+Mercer,Chattanooga,60,74,0
+ETSU,Chattanooga,74,81,0
+Wofford,Chattanooga,65,79,0
+Chattanooga,The Citadel,90,62,0
+W Carolina,Chattanooga,85,91,0
+Chattanooga,Samford,56,78,0
+VMI,Chattanooga,84,88,0
+UNCG,Chattanooga,61,89,0
+Chattanooga,ETSU,84,71,0
+Furman,Chattanooga,82,65,0
+Chattanooga,Wofford,81,65,0
+The Citadel,Chattanooga,71,62,0
+Chattanooga,Mercer,84,75,0
+Chattanooga,W Carolina,63,82,0
+Chattanooga,Wofford,75,57,1
+ETSU,Chattanooga,85,84,1
+Appalachian St,ETSU,72,61,0
+ETSU,UMKC,70,57,0
+ETSU,Mercer,80,69,0
+UNCG,ETSU,70,54,0
+ETSU,W Carolina,66,80,0
+Furman,ETSU,82,73,0
+Wofford,ETSU,75,73,0
+VMI,ETSU,73,74,0
+ETSU,Samford,72,75,0
+Mercer,ETSU,49,54,0
+ETSU,The Citadel,62,60,0
+ETSU,Wofford,57,50,0
+ETSU,Furman,63,65,0
+W Carolina,ETSU,70,65,0
+ETSU,VMI,82,69,0
+Samford,ETSU,87,71,0
+The Citadel,ETSU,63,81,0
+ETSU,UNCG,66,65,0
+ETSU,VMI,98,66,1
+ETSU,UNCG,73,62,1
+ETSU,Samford,69,76,1
+Furman,C. Carolina,89,80,1
+UNCG,Furman,79,68,0
+Furman,The Citadel,82,68,0
+VMI,Furman,60,100,0
+Furman,W Carolina,65,62,0
+Furman,Samford,78,68,0
+Wofford,Furman,77,67,0
+The Citadel,Furman,79,82,0
+Furman,UNCG,87,89,0
+Mercer,Furman,78,69,0
+Furman,VMI,75,62,0
+Samford,Furman,74,72,0
+Furman,Wofford,82,67,0
+W Carolina,Furman,85,77,0
+Furman,Mercer,75,82,0
+Furman,W Carolina,79,76,1
+Furman,Samford,77,84,1
+Mercer,South Alabama,62,83,0
+Mercer,Georgia State,64,60,0
+VMI,Mercer,64,86,0
+Wofford,Mercer,74,73,0
+Mercer,W Carolina,52,64,0
+Samford,Mercer,87,80,0
+The Citadel,Mercer,68,66,0
+UNCG,Mercer,64,70,0
+Mercer,VMI,90,69,0
+W Carolina,Mercer,79,46,0
+Mercer,Wofford,60,73,0
+Mercer,Samford,88,84,0
+Mercer,The Citadel,87,78,0
+Mercer,UNCG,86,72,0
+Mercer,The Citadel,84,76,1
+Mercer,Samford,57,70,1
+Samford,UL Lafayette,88,65,0
+The Citadel,Samford,64,80,0
+Samford,UNCG,79,70,0
+Samford,VMI,134,96,0
+W Carolina,Samford,71,75,0
+Samford,Wofford,81,79,0
+UNCG,Samford,69,78,0
+VMI,Samford,63,102,0
+Samford,W Carolina,88,62,0
+Wofford,Samford,91,69,0
+Samford,The Citadel,92,80,0
+The Citadel,W Carolina,71,80,0
+The Citadel,Wofford,71,72,0
+UNCG,The Citadel,73,67,0
+VMI,The Citadel,70,63,0
+W Carolina,The Citadel,71,64,0
+Wofford,The Citadel,77,64,0
+The Citadel,UNCG,61,76,0
+The Citadel,VMI,76,51,0
+UMKC,UNCG,64,76,1
+Marshall,UNCG,72,65,0
+UNCG,Wofford,82,59,0
+W Carolina,UNCG,82,85,0
+VMI,UNCG,79,85,0
+Wofford,UNCG,47,58,0
+UNCG,W Carolina,71,65,0
+UNCG,VMI,100,58,0
+South Dakota,VMI,85,81,1
+Wofford,VMI,87,85,0
+W Carolina,VMI,102,77,0
+VMI,W Carolina,51,84,0
+VMI,Wofford,62,74,0
+W Carolina,McNeese,76,74,0
+W Carolina,Wofford,70,66,0
+Wofford,W Carolina,88,86,0
+C. Carolina,Wofford,80,88,0
+Houston Baptist,Nicholls,94,98,0
+Texas A&M-CC,Houston Baptist,81,59,0
+Northwestern St,Houston Baptist,69,64,0
+Houston Baptist,Lamar,78,77,0
+Houston Baptist,New Orleans,88,80,0
+Incarnate Word,Houston Baptist,79,75,0
+Houston Baptist,SE Louisiana,58,80,0
+Nicholls,Houston Baptist,83,73,0
+New Orleans,Houston Baptist,84,58,0
+Houston Baptist,Incarnate Word,86,83,0
+Houston Baptist,McNeese,54,105,0
+SE Louisiana,Houston Baptist,81,78,0
+Houston Baptist,Northwestern St,73,86,0
+Houston Baptist,Texas A&M-CC,79,91,0
+McNeese,Houston Baptist,87,69,0
+Lamar,Houston Baptist,78,68,0
+UT Rio Grande,Incarnate Word,77,74,0
+Incarnate Word,Texas A&M-CC,65,75,0
+Lamar,Incarnate Word,75,59,0
+Northwestern St,Incarnate Word,97,71,0
+Incarnate Word,McNeese,66,80,0
+Incarnate Word,Nicholls,74,78,0
+New Orleans,Incarnate Word,80,82,0
+SE Louisiana,Incarnate Word,76,64,0
+Incarnate Word,Lamar,76,67,0
+Incarnate Word,Northwestern St,61,81,0
+McNeese,Incarnate Word,87,71,0
+Nicholls,Incarnate Word,92,82,0
+Incarnate Word,New Orleans,80,87,0
+Incarnate Word,SE Louisiana,56,73,0
+Texas A&M-CC,Incarnate Word,71,52,0
+Pacific,Lamar,77,76,0
+Lamar,UL Monroe,97,73,0
+Lamar,Southern Miss,79,82,0
+Lamar,Northwestern St,90,70,0
+Nicholls,Lamar,76,78,0
+McNeese,Lamar,88,69,0
+Lamar,SE Louisiana,74,64,0
+Lamar,New Orleans,98,73,0
+Texas A&M-CC,Lamar,79,71,0
+Lamar,Nicholls,75,56,0
+New Orleans,Lamar,72,94,0
+SE Louisiana,Lamar,72,77,0
+Lamar,Texas A&M-CC,61,75,0
+Lamar,McNeese,56,58,0
+Northwestern St,Lamar,77,82,0
+Lamar,New Orleans,71,57,1
+McNeese,Lamar,76,57,0
+McNeese,Texas State,59,48,1
+McNeese,Southern Miss,67,48,0
+McNeese,UL Lafayette,74,72,0
+Northwestern St,McNeese,59,68,0
+McNeese,SE Louisiana,74,65,0
+Texas A&M-CC,McNeese,61,62,0
+McNeese,New Orleans,102,65,0
+McNeese,Northwestern St,89,65,0
+SE Louisiana,McNeese,77,74,0
+McNeese,Texas A&M-CC,74,67,0
+Nicholls,McNeese,47,74,0
+McNeese,Nicholls,83,62,0
+New Orleans,McNeese,57,81,0
+McNeese,Nicholls,92,76,0
+North Dakota,New Orleans,71,69,1
+San Francisco,New Orleans,85,72,0
+SF Austin,New Orleans,80,51,0
+New Orleans,SE Louisiana,68,73,0
+New Orleans,Texas A&M-CC,83,80,0
+Nicholls,New Orleans,78,75,0
+New Orleans,Northwestern St,67,92,0
+Northwestern St,New Orleans,70,59,0
+New Orleans,Nicholls,77,89,0
+SE Louisiana,New Orleans,77,67,0
+Texas A&M-CC,New Orleans,73,60,0
+New Orleans,SE Louisiana,78,66,1
+Denver,Nicholls,91,85,1
+South Alabama,Nicholls,97,102,0
+Nicholls,SE Louisiana,66,61,0
+Texas A&M-CC,Nicholls,69,59,0
+Nicholls,Northwestern St,73,66,0
+Nicholls,Texas A&M-CC,67,63,0
+Northwestern St,Nicholls,62,68,0
+SE Louisiana,Nicholls,54,80,0
+Nicholls,Texas A&M-CC,81,73,1
+Northwestern St,SF Austin,70,96,0
+UL Monroe,Northwestern St,74,70,0
+Southern Miss,Northwestern St,83,74,0
+SE Louisiana,Northwestern St,71,62,0
+Northwestern St,Texas A&M-CC,68,79,0
+Northwestern St,SE Louisiana,59,69,0
+Texas A&M-CC,Northwestern St,72,61,0
+Santa Clara,SE Louisiana,65,63,0
+SE Louisiana,Texas A&M-CC,68,73,0
+Texas A&M-CC,SE Louisiana,80,68,0
+Abil Christian,Texas A&M-CC,73,63,1
+Texas A&M-CC,UT Rio Grande,74,76,0
+Texas A&M-CC,Omaha,62,58,0
+UT Rio Grande,Texas A&M-CC,76,86,0
+South Alabama,Denver,82,75,0
+Omaha,Denver,80,95,0
+Denver,Oral Roberts,86,89,0
+Denver,South Dakota St,99,80,0
+North Dakota St,Denver,70,78,0
+North Dakota,Denver,92,78,0
+Denver,South Dakota,111,110,0
+Denver,Omaha,72,91,0
+UMKC,Denver,85,71,0
+Oral Roberts,Denver,82,76,0
+South Dakota,Denver,92,86,0
+Denver,North Dakota,78,92,0
+Denver,North Dakota St,77,71,0
+South Dakota St,Denver,97,70,0
+Denver,UMKC,69,84,0
+UMKC,Denver,60,61,1
+Denver,Omaha,66,63,1
+Denver,South Dakota St,68,76,1
+UMKC,Oral Roberts,77,60,0
+UMKC,North Dakota St,91,92,0
+UMKC,North Dakota,69,82,0
+Omaha,UMKC,72,74,0
+South Dakota St,UMKC,75,66,0
+UMKC,South Dakota,81,57,0
+North Dakota St,UMKC,82,78,0
+North Dakota,UMKC,47,65,0
+UMKC,South Dakota St,72,67,0
+South Dakota,UMKC,78,82,0
+UMKC,Omaha,63,58,0
+Oral Roberts,UMKC,54,71,0
+Pacific,North Dakota,71,73,0
+North Dakota,Portland,72,83,0
+South Dakota St,North Dakota,80,61,0
+Omaha,North Dakota,79,61,0
+North Dakota,Oral Roberts,87,77,0
+South Dakota,North Dakota,81,95,0
+North Dakota,North Dakota St,60,58,0
+North Dakota,Omaha,99,78,0
+Oral Roberts,North Dakota,65,78,0
+North Dakota St,North Dakota,73,68,0
+North Dakota,South Dakota St,62,72,0
+North Dakota,South Dakota,95,66,0
+North Dakota,Omaha,72,73,1
+Grand Canyon,North Dakota St,86,71,0
+North Dakota St,Portland,78,67,0
+North Dakota St,South Dakota,66,75,0
+Omaha,North Dakota St,96,92,0
+North Dakota St,Oral Roberts,72,67,0
+South Dakota St,North Dakota St,73,74,0
+North Dakota St,Omaha,81,79,0
+Oral Roberts,North Dakota St,60,73,0
+South Dakota,North Dakota St,88,68,0
+North Dakota St,South Dakota St,61,78,0
+South Dakota,Omaha,51,67,0
+South Dakota St,Omaha,90,87,0
+Oral Roberts,Omaha,74,67,0
+Omaha,South Dakota,91,84,0
+Omaha,South Dakota St,77,85,0
+Omaha,Oral Roberts,71,70,0
+UT Arlington,Oral Roberts,75,71,0
+Oral Roberts,South Dakota,84,66,0
+Oral Roberts,South Dakota St,87,82,0
+South Dakota St,Oral Roberts,83,72,0
+South Dakota,Oral Roberts,77,76,0
+Oral Roberts,South Dakota,77,62,1
+Oral Roberts,South Dakota St,63,79,1
+South Dakota,UT Rio Grande,100,79,1
+San Diego,South Dakota,69,66,0
+South Dakota,South Dakota St,55,73,0
+South Dakota St,South Dakota,70,67,0
+Southern Miss,South Dakota St,54,65,0
+Appalachian St,UL Monroe,67,55,0
+South Alabama,Appalachian St,84,91,0
+Troy,Appalachian St,66,62,0
+C. Carolina,Appalachian St,45,70,0
+JMU,Appalachian St,55,59,0
+Appalachian St,Georgia State,76,68,0
+Appalachian St,C. Carolina,88,59,0
+Appalachian St,Ga Southern,84,74,0
+Appalachian St,JMU,82,76,0
+Georgia State,Appalachian St,71,81,0
+Ga Southern,Appalachian St,84,85,0
+Texas State,Appalachian St,63,56,0
+Appalachian St,Marshall,73,58,0
+Appalachian St,UL Lafayette,85,73,0
+Old Dominion,Appalachian St,67,82,0
+Marshall,Appalachian St,58,65,0
+Appalachian St,Old Dominion,89,64,0
+Appalachian St,Arkansas State,80,57,0
+Appalachian St,Ga Southern,85,80,1
+Appalachian St,Arkansas State,65,67,1
+Arkansas State,San Diego,57,71,1
+Arkansas State,UT Rio Grande,75,58,1
+Georgia State,Arkansas State,91,90,0
+Arkansas State,Ga Southern,109,83,0
+Arkansas State,Old Dominion,90,75,0
+Arkansas State,Texas State,85,82,0
+Arkansas State,UL Lafayette,77,84,0
+Southern Miss,Arkansas State,69,66,0
+Texas State,Arkansas State,72,79,0
+UL Lafayette,Arkansas State,81,75,0
+UL Monroe,Arkansas State,85,82,0
+Arkansas State,Southern Miss,78,71,0
+Arkansas State,UL Monroe,95,80,0
+Arkansas State,JMU,73,77,0
+Troy,Arkansas State,71,82,0
+South Alabama,Arkansas State,73,76,0
+Arkansas State,Troy,79,71,0
+Arkansas State,South Alabama,95,78,0
+C. Carolina,Arkansas State,60,71,0
+Arkansas State,UL Lafayette,89,62,1
+Arkansas State,JMU,71,91,1
+C. Carolina,Troy,65,72,0
+Texas State,C. Carolina,63,71,0
+UL Lafayette,C. Carolina,85,77,0
+C. Carolina,Old Dominion,79,75,0
+Ga Southern,C. Carolina,73,70,0
+C. Carolina,Southern Miss,63,79,0
+C. Carolina,Georgia State,85,83,0
+JMU,C. Carolina,105,67,0
+Marshall,C. Carolina,91,74,0
+UL Monroe,C. Carolina,79,75,0
+C. Carolina,Ga Southern,82,75,0
+C. Carolina,Marshall,74,67,0
+Georgia State,C. Carolina,72,71,0
+Old Dominion,C. Carolina,75,59,0
+C. Carolina,JMU,76,86,0
+UL Monroe,C. Carolina,71,75,1
+UL Lafayette,C. Carolina,80,66,1
+Ga Southern,Southern Miss,88,67,0
+UL Monroe,Ga Southern,68,76,0
+Marshall,Ga Southern,79,74,0
+Georgia State,Ga Southern,90,62,0
+Ga Southern,Georgia State,86,70,0
+Old Dominion,Ga Southern,70,76,0
+Ga Southern,Troy,63,84,0
+South Alabama,Ga Southern,78,65,0
+JMU,Ga Southern,87,80,0
+Ga Southern,Texas State,84,76,0
+Ga Southern,JMU,74,80,0
+Ga Southern,Marshall,87,73,0
+Ga Southern,Old Dominion,92,75,0
+Ga Southern,South Alabama,76,71,1
+Southern Miss,Georgia State,79,73,0
+South Alabama,Georgia State,76,90,0
+Georgia State,Old Dominion,77,70,0
+Marshall,Georgia State,77,68,0
+Georgia State,Troy,74,78,0
+UL Lafayette,Georgia State,69,78,0
+JMU,Georgia State,83,63,0
+Old Dominion,Georgia State,65,68,0
+Georgia State,Texas State,59,68,0
+Georgia State,JMU,78,84,0
+Georgia State,Marshall,82,79,0
+Georgia State,Marshall,74,86,1
+Old Dominion,JMU,69,84,0
+JMU,Texas State,82,65,0
+UL Lafayette,JMU,61,68,0
+Southern Miss,JMU,81,71,0
+JMU,South Alabama,89,55,0
+JMU,UL Monroe,89,70,0
+JMU,Marshall,67,52,0
+Old Dominion,JMU,62,78,0
+JMU,Old Dominion,78,63,0
+Marshall,JMU,58,84,0
+JMU,Marshall,81,64,1
+JMU,Texas State,73,68,1
+Marshall,UL Lafayette,75,61,0
+Troy,UL Lafayette,79,73,0
+Texas State,UL Lafayette,68,86,0
+South Alabama,UL Lafayette,79,88,0
+UL Lafayette,Texas State,66,46,0
+UL Lafayette,UL Monroe,80,72,0
+UL Lafayette,South Alabama,80,60,0
+Old Dominion,UL Lafayette,60,68,0
+UL Monroe,UL Lafayette,66,59,0
+Southern Miss,UL Lafayette,82,71,0
+UL Lafayette,Troy,73,87,0
+UL Lafayette,Southern Miss,77,61,0
+UL Monroe,Marshall,57,68,0
+Texas State,Marshall,75,79,0
+Marshall,South Alabama,85,91,0
+Old Dominion,Marshall,91,66,0
+Marshall,Southern Miss,83,67,0
+Marshall,Old Dominion,76,83,0
+Troy,Marshall,82,66,0
+Old Dominion,South Alabama,59,61,0
+Troy,Old Dominion,86,73,0
+Old Dominion,UL Monroe,73,80,0
+Southern Miss,Old Dominion,78,73,0
+Old Dominion,Texas State,83,92,1
+South Alabama,Troy,74,71,0
+UL Monroe,South Alabama,80,66,0
+Troy,South Alabama,83,79,0
+Texas State,South Alabama,74,66,0
+South Alabama,Texas State,72,55,0
+Southern Miss,South Alabama,64,83,0
+South Alabama,Southern Miss,73,70,0
+South Alabama,UL Monroe,80,69,0
+Southern Miss,Utah Valley,65,67,1
+UL Monroe,Southern Miss,58,71,0
+Troy,Southern Miss,82,56,0
+Southern Miss,Troy,64,63,0
+Texas State,Southern Miss,60,55,0
+Southern Miss,UL Monroe,59,68,0
+Southern Miss,Texas State,78,74,0
+Southern Miss,Texas State,59,75,1
+Southern Utah,Texas State,74,67,1
+UT Arlington,Texas State,66,73,0
+UL Monroe,Texas State,54,67,0
+Troy,Texas State,78,65,0
+Texas State,UL Monroe,73,55,0
+Texas State,Troy,82,79,0
+Troy,Texas State,68,74,1
+Troy,UL Monroe,85,57,0
+UL Monroe,Troy,78,84,0
+UT Arlington,Abil Christian,86,71,0
+Abil Christian,SF Austin,74,79,0
+Abil Christian,UT Rio Grande,91,89,0
+Grand Canyon,Abil Christian,74,64,0
+Abil Christian,UT Arlington,78,67,0
+Abil Christian,Southern Utah,67,82,0
+Seattle,Abil Christian,75,52,0
+Utah Valley,Abil Christian,74,45,0
+UT Rio Grande,Abil Christian,79,87,0
+SF Austin,Abil Christian,62,63,0
+Abil Christian,Grand Canyon,79,73,0
+Southern Utah,Abil Christian,68,77,0
+Abil Christian,Seattle,64,59,0
+Abil Christian,Utah Valley,67,74,0
+Abil Christian,SF Austin,57,60,1
+Grand Canyon,San Francisco,76,72,1
+UT Rio Grande,Grand Canyon,69,79,0
+Grand Canyon,UT Arlington,76,69,0
+Grand Canyon,Portland,91,63,1
+Southern Utah,Grand Canyon,75,96,0
+Grand Canyon,Utah Valley,78,65,0
+Seattle,Grand Canyon,86,79,0
+SF Austin,Grand Canyon,51,53,0
+UT Arlington,Grand Canyon,61,67,0
+Grand Canyon,Seattle,95,88,0
+Utah Valley,Grand Canyon,67,86,0
+Grand Canyon,Southern Utah,94,65,0
+Grand Canyon,UT Rio Grande,72,43,0
+Grand Canyon,SF Austin,80,58,0
+Grand Canyon,Seattle,80,72,1
+Grand Canyon,UT Arlington,89,74,1
+Utah Valley,Seattle,78,72,0
+Seattle,Southern Utah,73,63,0
+San Francisco,Seattle,62,59,0
+UT Rio Grande,Seattle,81,80,0
+UT Arlington,Seattle,80,75,0
+SF Austin,Seattle,89,84,0
+Seattle,Utah Valley,62,61,0
+Southern Utah,Seattle,68,78,0
+Seattle,SF Austin,69,49,0
+Seattle,UT Rio Grande,84,56,0
+Seattle,UT Arlington,62,82,0
+Utah Valley,Southern Utah,80,62,0
+Southern Utah,SF Austin,82,84,0
+Southern Utah,UT Arlington,68,76,0
+Southern Utah,UT Rio Grande,79,59,0
+Southern Utah,Utah Valley,75,78,0
+UT Arlington,Southern Utah,90,85,0
+SF Austin,Southern Utah,87,60,0
+UT Rio Grande,Southern Utah,59,68,0
+Loyola Mary,SF Austin,76,86,1
+UT Rio Grande,SF Austin,78,85,0
+SF Austin,UT Arlington,92,73,0
+SF Austin,Utah Valley,77,72,0
+SF Austin,UT Rio Grande,92,84,0
+UT Arlington,SF Austin,71,63,0
+Utah Valley,SF Austin,71,62,0
+UT Arlington,SF Austin,109,78,1
+UT Arlington,Utah Valley,83,69,0
+UT Arlington,UT Rio Grande,91,73,0
+UT Rio Grande,UT Arlington,70,89,0
+Utah Valley,UT Arlington,65,78,0
+UT Rio Grande,Utah Valley,76,68,0
+Utah Valley,UT Rio Grande,70,59,0
+Gonzaga,Pepperdine,86,60,0
+Gonzaga,San Diego,101,74,0
+Santa Clara,Gonzaga,77,76,0
+Pepperdine,Gonzaga,61,86,0
+San Diego,Gonzaga,63,105,0
+Gonzaga,San Francisco,77,72,0
+Pacific,Gonzaga,73,82,0
+Gonzaga,Loyola Mary,92,58,0
+Gonzaga,Saint Mary's,62,64,0
+Gonzaga,Portland,96,64,0
+Loyola Mary,Gonzaga,74,91,0
+Gonzaga,Pacific,102,76,0
+Portland,Gonzaga,65,86,0
+Gonzaga,Santa Clara,94,81,0
+San Francisco,Gonzaga,68,86,0
+Saint Mary's,Gonzaga,57,70,0
+Gonzaga,San Francisco,89,77,1
+Gonzaga,Saint Mary's,60,69,1
+Loyola Mary,Santa Clara,57,68,0
+Loyola Mary,Saint Mary's,64,68,0
+Loyola Mary,Pacific,81,64,0
+San Francisco,Loyola Mary,90,74,0
+Pepperdine,Loyola Mary,61,68,0
+Loyola Mary,Portland,92,65,0
+Saint Mary's,Loyola Mary,70,65,0
+San Diego,Loyola Mary,79,77,0
+Loyola Mary,Pepperdine,63,72,0
+Loyola Mary,San Francisco,59,82,0
+Santa Clara,Loyola Mary,65,55,0
+Pacific,Loyola Mary,63,86,0
+Loyola Mary,San Diego,96,62,0
+Portland,Loyola Mary,70,60,0
+Loyola Mary,Portland,70,78,1
+Pacific,San Francisco,88,92,0
+Portland,Pacific,78,64,0
+Pepperdine,Pacific,93,78,0
+Pacific,Santa Clara,69,88,0
+Saint Mary's,Pacific,76,28,0
+Pacific,Portland,60,65,0
+San Francisco,Pacific,79,73,0
+Pacific,Saint Mary's,43,84,0
+Pacific,San Diego,84,89,0
+Santa Clara,Pacific,79,53,0
+Pacific,Pepperdine,70,89,0
+San Diego,Pacific,81,69,0
+Pepperdine,Pacific,102,43,1
+Pepperdine,Santa Clara,72,78,0
+San Diego,Pepperdine,77,83,0
+Santa Clara,Pepperdine,94,71,0
+Pepperdine,San Diego,67,69,0
+Portland,Pepperdine,93,89,0
+Pepperdine,San Francisco,74,80,0
+Saint Mary's,Pepperdine,103,59,0
+Pepperdine,Portland,91,70,0
+San Francisco,Pepperdine,92,68,0
+Pepperdine,Saint Mary's,57,83,0
+Pepperdine,San Diego,52,57,1
+Saint Mary's,Portland,95,52,0
+San Francisco,Portland,96,69,0
+Santa Clara,Portland,101,86,0
+Portland,San Diego,81,85,0
+Portland,San Francisco,64,76,0
+Portland,Saint Mary's,51,76,0
+San Diego,Portland,71,66,0
+Portland,Santa Clara,80,75,0
+Portland,San Francisco,51,72,1
+San Diego,Saint Mary's,70,81,0
+Santa Clara,Saint Mary's,49,73,0
+San Francisco,Saint Mary's,60,77,0
+Saint Mary's,Santa Clara,82,77,0
+Saint Mary's,San Francisco,70,66,0
+Saint Mary's,San Diego,88,62,0
+Santa Clara,Saint Mary's,65,79,1
+San Diego,San Francisco,63,83,0
+San Francisco,San Diego,95,79,0
+Santa Clara,San Diego,59,70,0
+San Diego,Santa Clara,69,82,0
+Santa Clara,San Diego,104,79,1
+San Francisco,Santa Clara,71,70,0
+Santa Clara,San Francisco,69,62,0
