@@ -1,22 +1,32 @@
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
-from sklearn.metrics import mean_squared_error, mean_absolute_error
+from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score
+import numpy as np
 from xgboost import XGBRegressor
 from kenpompy.utils import login
 from kenpompy import summary
+# Ensure the feature_selection module is correctly implemented or replace with actual imports
+from feature_selection import (
+    exploratory_analysis,
+    univariate_feature_selection,
+    recursive_feature_elimination,
+    tree_based_feature_importance,
+    time_aware_cross_validation,
+    stability_check
+)
 
 
 class BasketballPredictor:
     def __init__(self):
         self.model = XGBRegressor(
-            n_estimators=200,          # Fewer trees
-            learning_rate=0.2,         # Higher learning rate
-            max_depth=3,               # Simpler trees
-            subsample=1.0,             # Use all data
-            colsample_bytree=1.0,      # Use all features
-            reg_alpha=0,               # No regularization
-            reg_lambda=0               # No regularization
+            n_estimators=200,
+            learning_rate=0.2,
+            max_depth=3,
+            subsample=1.0,
+            colsample_bytree=1.0,
+            reg_alpha=0,
+            reg_lambda=0
         )
         self.scaler = StandardScaler()
     
@@ -25,13 +35,57 @@ class BasketballPredictor:
         X_scaled = self.scaler.fit_transform(X_train)
         self.model.fit(X_scaled, y_train)
         
-        # Print feature importance with better formatting
+        # Print feature importance
         print("\nFeature Importance:")
         importance = self.model.feature_importances_
         importance_dict = dict(zip(X_train.columns, importance))
-        # Sort by importance
         for col, imp in sorted(importance_dict.items(), key=lambda x: x[1], reverse=True):
             print(f"{col}: {imp:.3f}")
+    
+    def evaluate(self, X, y):
+        """
+        Evaluate the model and print performance metrics.
+        """
+        try:
+            # Scale the features
+            X_scaled = self.scaler.transform(X)
+            y_pred = self.model.predict(X_scaled)
+            
+            # Calculate R²
+            r2 = r2_score(y, y_pred)
+            print(f"R²: {r2:.3f}")
+            
+            # Calculate Adjusted R²
+            n = len(y)  # Number of observations
+            p = X.shape[1]  # Number of predictors
+            if n <= p + 1:
+                raise ValueError("Number of observations is too small for the number of predictors.")
+            adjusted_r2 = 1 - ((1 - r2) * (n - 1)) / (n - p - 1)
+            
+            # Calculate RSS (Residual Sum of Squares)
+            rss = np.sum((y - y_pred) ** 2)
+            print(f"RSS: {rss:.3f}")
+            
+            # Calculate AIC
+            aic = n * np.log(rss / n) + 2 * p
+            print(f"AIC: {aic:.3f}")
+            
+            # Calculate BIC
+            bic = n * np.log(rss / n) + p * np.log(n)
+            print(f"BIC: {bic:.3f}")
+            
+            # Calculate additional metrics
+            mae = mean_absolute_error(y, y_pred)
+            rmse = np.sqrt(mean_squared_error(y, y_pred))
+            
+            # Print additional metrics
+            print(f"Mean Absolute Error (MAE): {mae:.3f}")
+            print(f"Root Mean Squared Error (RMSE): {rmse:.3f}")
+            
+        
+        except Exception as e:
+            print(f"Error during evaluation: {str(e)}")
+            raise
     
     def predict(self, X):
         """
@@ -43,47 +97,204 @@ class BasketballPredictor:
         return self.model.predict(X_scaled)
 
 def load_training_data():
-    """
-    Load and preprocess 2024 season data with additional KenPom metrics
-    """
     try:
         results = pd.read_csv('2024_season_results.csv')
         browser = login('willkimball8@gmail.com', 'dkzTrGWm1G')
         stats_df = get_all_stats(browser)
         
-        # Use the actual column names from the data
-        numeric_columns = [
-            'Tempo-Adj',
-            'Off. Efficiency-Adj',
-            'Def. Efficiency-Adj',
-            'Avg. Poss Length-Offense',
-            'Avg. Poss Length-Defense'
-        ]
+        # Normalize team names for consistency
+        results['home_team'] = results['home_team'].str.lower().str.strip()
+        results['away_team'] = results['away_team'].str.lower().str.strip()
+        stats_df['Team'] = stats_df['Team'].str.lower().str.strip()
         
-        # Clean column names
-        stats_df.columns = stats_df.columns.str.replace(' ', '_').str.replace('.', '').str.lower()
-        numeric_columns = [col.lower().replace(' ', '_').replace('.', '') for col in numeric_columns]
-        
-        for col in numeric_columns:
-            stats_df[col] = pd.to_numeric(stats_df[col], errors='coerce')
+        TEAM_NAME_MAPPING = {
+            'abil christian': 'abilene christian',
+            'alabama state': 'alabama st.',
+            'alcorn state': 'alcorn st.',
+            'american u': 'american',
+            'appalachian st': 'appalachian st.',
+            'ar-pine bluff': 'arkansas pine bluff',
+            'arizona state': 'arizona st.',
+            'arkansas state': 'arkansas st.',
+            'ball state': 'ball st.',
+            'bethune-cookman': 'bethune cookman',
+            'boise state': 'boise st.',
+            'boston u': 'boston university',
+            'c. carolina': 'coastal carolina',
+            'cal': 'california',
+            'cent arkansas': 'central arkansas',
+            'cent conn st': 'central connecticut',
+            'cent michigan': 'central michigan',
+            'charleston so': 'charleston southern',
+            'chicago state': 'chicago st.',
+            'cleveland state': 'cleveland st.',
+            'colorado state': 'colorado st.',
+            'coppin state': 'coppin st.',
+            'csu bakersfield': 'cal st. bakersfield',
+            'csu fullerton': 'cal st. fullerton',
+            'csu northridge': 'csun',
+            'delaware state': 'delaware st.',
+            'e illinois': 'eastern illinois',
+            'e kentucky': 'eastern kentucky',
+            'e michigan': 'eastern michigan',
+            'e washington': 'eastern washington',
+            'ecu': 'east carolina',
+            'etsu': 'east tennessee st.',
+            'fair dickinson': 'fairleigh dickinson',
+            'fau': 'florida atlantic',
+            'fgcu': 'florida gulf coast',
+            'fort wayne': 'purdue fort wayne',
+            'fresno state': 'fresno st.',
+            'fsu': 'florida st.',
+            'g washington': 'george washington',
+            'ga southern': 'georgia southern',
+            'gardner-webb': 'gardner webb',
+            'georgia state': 'georgia st.',
+            'grambling': 'grambling st.',
+            "hawai'i": 'hawaii',
+            'houston baptist': 'houston christian',
+            'idaho state': 'idaho st.',
+            'illinois state': 'illinois st.',
+            'indiana state': 'indiana st.',
+            'iowa state': 'iowa st.',
+            'iupui': 'iu indy',
+            'jackson state': 'jackson st.',
+            'jacksonville st': 'jacksonville st.',
+            'jmu': 'james madison',
+            'kansas state': 'kansas st.',
+            'kennesaw st': 'kennesaw st.',
+            'kent state': 'kent st.',
+            'la tech': 'louisiana tech',
+            'lbsu': 'long beach st.',
+            'loyola (md)': 'loyola md',
+            'loyola mary': 'loyola marymount',
+            'loyola-chicago': 'loyola chicago',
+            'md-e shore': 'maryland eastern shore',
+            'miami': 'miami fl',
+            'miami (oh)': 'miami oh',
+            'michigan state': 'michigan st.',
+            'mid tennessee': 'middle tennessee',
+            'miss st': 'mississippi st.',
+            'miss valley st': 'mississippi valley st.',
+            'missouri state': 'missouri st.',
+            'montana state': 'montana st.',
+            'morehead state': 'morehead st.',
+            'morgan state': 'morgan st.',
+            "mt st mary's": "mount st. mary's",
+            'murray state': 'murray st.',
+            'n arizona': 'northern arizona',
+            'n colorado': 'northern colorado',
+            'n illinois': 'northern illinois',
+            'n kentucky': 'northern kentucky',
+            'nc a&t': 'north carolina a&t',
+            'nc central': 'north carolina central',
+            'nc state': 'n.c. state',
+            'new mexico st': 'new mexico st.',
+            'norfolk state': 'norfolk st.',
+            'north dakota st': 'north dakota st.',
+            'northwestern st': 'northwestern st.',
+            'oklahoma state': 'oklahoma st.',
+            'ole miss': 'mississippi',
+            'omaha': 'nebraska omaha',
+            'oregon state': 'oregon st.',
+            'osu': 'ohio st.',
+            'penn state': 'penn st.',
+            'pitt': 'pittsburgh',
+            'portland state': 'portland st.',
+            'pv a&m': 'prairie view a&m',
+            's carolina st': 'south carolina st.',
+            's illinois': 'southern illinois',
+            'sacramento st': 'sacramento st.',
+            "saint joe's": "saint joseph's",
+            'sam houston': 'sam houston st.',
+            'san diego state': 'san diego st.',
+            'san jose state': 'san jose st.',
+            'se louisiana': 'southeastern louisiana',
+            'se missouri st': 'southeast missouri',
+            'sf austin': 'stephen f. austin',
+            'siu ed': 'siue',
+            'south dakota st': 'south dakota st.',
+            'st bonaventure': 'st. bonaventure',
+            'st francis (pa)': 'saint francis',
+            "st john's": "st. john's",
+            "st peter's": "saint peter's",
+            'tenn tech': 'tennessee tech',
+            'tennessee st': 'tennessee st.',
+            'texas a&m-cc': 'texas a&m corpus chris',
+            'texas state': 'texas st.',
+            'uconn': 'connecticut',
+            'ucsb': 'uc santa barbara',
+            'uic': 'illinois chicago',
+            'ul lafayette': 'louisiana',
+            'ul monroe': 'louisiana monroe',
+            'umass': 'massachusetts',
+            'umkc': 'kansas city',
+            'unc': 'north carolina',
+            'uncg': 'unc greensboro',
+            'unh': 'new hampshire',
+            'uri': 'rhode island',
+            'usf': 'south florida',
+            'ut martin': 'tennessee martin',
+            'ut rio grande': 'ut rio grande valley',
+            'utah state': 'utah st.',
+            'uva': 'virginia',
+            'w carolina': 'western carolina',
+            'w illinois': 'western illinois',
+            'w kentucky': 'western kentucky',
+            'w michigan': 'western michigan',
+            'washington st': 'washington st.',
+            'weber state': 'weber st.',
+            'wichita state': 'wichita st.',
+            'wright state': 'wright st.',
+            'youngstown st': 'youngstown st.'
+        }
+
+        results['home_team'] = results['home_team'].replace(TEAM_NAME_MAPPING)
+        results['away_team'] = results['away_team'].replace(TEAM_NAME_MAPPING)
         
         # Merge stats with results
         merged = pd.merge(
             results,
             stats_df,
             left_on='home_team',
-            right_on='team',
+            right_on='Team',
             how='left'
         ).merge(
             stats_df,
             left_on='away_team',
-            right_on='team',
+            right_on='Team',
             how='left',
             suffixes=('_home', '_away')
         )
         
+        # Feature selection
+        # Print the column names of the merged dataset
+        print("Columns in the merged dataset:")
+        print(merged.columns.tolist())
+
+        # Use the actual column names from the data
+        numeric_columns = [
+            'Tempo-Adj',
+            'Off. Efficiency-Adj',
+            'Def. Efficiency-Adj',
+            'Avg. Poss Length-Offense',
+            'Avg. Poss Length-Defense',
+            'Off-eFG%',
+            '3P%_x',
+            '3P%_y',
+            'Off-TO%',
+            'Stl%_x',
+            'Stl%_y'
+        ]
+        
+        for col in numeric_columns:
+            stats_df[col] = pd.to_numeric(stats_df[col], errors='coerce')
+        
+        for col in numeric_columns:
+            merged[f'{col}_home'] = pd.to_numeric(merged[f'{col}_home'], errors='coerce')
+            merged[f'{col}_away'] = pd.to_numeric(merged[f'{col}_away'], errors='coerce')
+        
         # Calculate feature differences
-        features = {}
         for col in numeric_columns:
             merged[f'{col}_diff'] = merged[f'{col}_home'] - merged[f'{col}_away']
             
@@ -110,39 +321,35 @@ def predict_game(team1, team2, home_team):
         browser = login('willkimball8@gmail.com', 'dkzTrGWm1G')
         stats_df = get_all_stats(browser)
         
-        # Use the same column names as in load_training_data
+        # Normalize team names
+        stats_df['Team'] = stats_df['Team'].str.lower().str.strip()
+        team1 = team1.lower().strip()
+        team2 = team2.lower().strip()
+        
+        # Check if teams exist in stats_df
+        if team1 not in stats_df['Team'].values:
+            raise ValueError(f"Error: {team1} not found in stats_df.")
+        if team2 not in stats_df['Team'].values:
+            raise ValueError(f"Error: {team2} not found in stats_df.")
+        
+        # Get team stats
+        team1_stats = stats_df[stats_df['Team'] == team1].iloc[0]
+        team2_stats = stats_df[stats_df['Team'] == team2].iloc[0]
+        
+        # Define numeric_columns with correct column names
         numeric_columns = [
             'Tempo-Adj',
             'Off. Efficiency-Adj',
             'Def. Efficiency-Adj',
             'Avg. Poss Length-Offense',
-            'Avg. Poss Length-Defense'
+            'Avg. Poss Length-Defense',
+            'Off-eFG%',
+            '3P%_x',
+            '3P%_y',
+            'Off-TO%',
+            'Stl%_x',
+            'Stl%_y'
         ]
-        
-        # Clean column names
-        stats_df.columns = stats_df.columns.str.replace(' ', '_').str.replace('.', '').str.lower()
-        numeric_columns = [col.lower().replace(' ', '_').replace('.', '') for col in numeric_columns]
-        
-        # Get team stats
-        team1_stats = stats_df[stats_df['team'] == team1].iloc[0]
-        team2_stats = stats_df[stats_df['team'] == team2].iloc[0]
-        
-        # Print stats using correct column names
-        print(f"\nKey Stats:")
-        print(f"\n{team1}:")
-        print(f"Adjusted Tempo: {float(team1_stats['tempo-adj']):.1f}")
-        print(f"Adjusted Off. Efficiency: {float(team1_stats['off_efficiency-adj']):.1f}")
-        print(f"Adjusted Def. Efficiency: {float(team1_stats['def_efficiency-adj']):.1f}")
-        print(f"Off. Possession Length: {float(team1_stats['avg_poss_length-offense']):.1f}")
-        print(f"Def. Possession Length: {float(team1_stats['avg_poss_length-defense']):.1f}")
-        
-        print(f"\n{team2}:")
-        print(f"Adjusted Tempo: {float(team2_stats['tempo-adj']):.1f}")
-        print(f"Adjusted Off. Efficiency: {float(team2_stats['off_efficiency-adj']):.1f}")
-        print(f"Adjusted Def. Efficiency: {float(team2_stats['def_efficiency-adj']):.1f}")
-        print(f"Off. Possession Length: {float(team2_stats['avg_poss_length-offense']):.1f}")
-        print(f"Def. Possession Length: {float(team2_stats['avg_poss_length-defense']):.1f}")
-        
         # Create features DataFrame
         features = pd.DataFrame([{
             f'{col}_diff': float(team1_stats[col]) - float(team2_stats[col])
@@ -217,89 +424,70 @@ def prepare_game_data():
     return results_df
 
 def get_all_stats(browser):
-    """Get comprehensive stats from KenPom"""
-    # Get different stat categories
-    efficiency_stats = summary.get_efficiency(browser)
-    
     try:
-        # Get Four Factors stats
-        factors_stats = summary.get_fourfactors(browser)  # From stats.php
-        print("\nFour Factors columns:")
-        print(factors_stats.columns.tolist())
-        
-        # Get Point Distribution stats
-        pointdist_stats = summary.get_pointdist(browser)  # From pointdist.php
-        print("\nPoint Distribution columns:")
-        print(pointdist_stats.columns.tolist())
-        
-        # Get Height/Experience stats
-        height_stats = summary.get_height(browser)  # From height.php
-        print("\nHeight/Experience columns:")
-        print(height_stats.columns.tolist())
-        
-        # Get Team Stats (both offensive and defensive)
-        team_stats = summary.get_teamstats(browser, defense=False)  # From teamstats.php
-        team_def_stats = summary.get_teamstats(browser, defense=True)
-        print("\nTeam Stats columns:")
-        print(team_stats.columns.tolist())
-        
+        # Get different stat categories
+        efficiency_stats = summary.get_efficiency(browser)
+        factors_stats = summary.get_fourfactors(browser).drop(columns=['Conference'])
+        pointdist_stats = summary.get_pointdist(browser).drop(columns=['Conference'])
+        height_stats = summary.get_height(browser).drop(columns=['Conference'])
+        team_stats = summary.get_teamstats(browser, defense=False).drop(columns=['Conference'])
+        team_def_stats = summary.get_teamstats(browser, defense=True).drop(columns=['Conference'])
+        # Convert relevant columns to numeric
+        numeric_columns = [
+            'Tempo-Adj', 'Off. Efficiency-Adj', 'Def. Efficiency-Adj',
+            'Avg. Poss Length-Offense', 'Avg. Poss Length-Defense'
+        ]
+        for df in [efficiency_stats, factors_stats, pointdist_stats, height_stats, team_stats, team_def_stats]:
+            for col in numeric_columns:
+                if col in df.columns:
+                    df[col] = pd.to_numeric(df[col], errors='coerce')
         # Merge all stats
         all_stats = efficiency_stats.merge(factors_stats, on='Team', how='left')\
-                                  .merge(pointdist_stats, on='Team', how='left')\
-                                  .merge(height_stats, on='Team', how='left')\
-                                  .merge(team_stats, on='Team', how='left')\
-                                  .merge(team_def_stats, on='Team', how='left')
+                                    .merge(pointdist_stats, on='Team', how='left')\
+                                    .merge(height_stats, on='Team', how='left')\
+                                    .merge(team_stats, on='Team', how='left')\
+                                    .merge(team_def_stats, on='Team', how='left')
         
         return all_stats
         
     except Exception as e:
         print(f"\nError loading additional stats: {str(e)}")
-        return efficiency_stats
+        raise
 
 def main():
-    """
-    Main function to train and evaluate the model
-    """
-    try:
-        # Prepare the game data first
-        # prepare_game_data()  # Commented out since data is already prepared
-        
-        # Load and split training data
+    try:        # Load and split training data
         X, y = load_training_data()
+
+        # Feature selection
+        feature_scores = univariate_feature_selection(X, y, method='f_regression', k=10)
+        print("Univariate feature selection completed.")
+
+        '''
+        # Split data into training and validation sets
+        X_train, X_val, y_train, y_val = train_test_split(X, y, test_size=0.2, random_state=42)
         
-        X_train, X_test, y_train, y_test = train_test_split(
-            X, y, test_size=0.2, random_state=42
-        )
-        
-        # Initialize and train model
+        # Initialize and train the model
         predictor = BasketballPredictor()
-        predictor.train(X_train, y_train, X_test, y_test)  # Added validation data
+        predictor.train(X_train, y_train)
         
-        # Evaluate model
-        y_pred = predictor.predict(X_test)
-        mse = mean_squared_error(y_test, y_pred)
-        mae = mean_absolute_error(y_test, y_pred)
+        print("Target Variable (y) Statistics:")
+        print(y.describe())
+        # Evaluate the model
+        print("\nEvaluating the model on the validation set...")
+        predictor.evaluate(X_val, y_val)
         
-        print("\nModel Evaluation:")
-        print(f"Mean Squared Error: {mse:.2f}")
-        print(f"Mean Absolute Error: {mae:.2f}")
-        print(f"Average Prediction Error: ±{mae:.1f} points")
+        # Test run with two teams
+        print("\nRunning a test prediction...")
+        team1 = "wake forest"  # Replace with the name of the first team
+        team2 = "virginia"  # Replace with the name of the second team
+        home_team = "team1"  # Set to "team1", "team2", or None for neutral site
         
-        # Example prediction
-        print("\nExample Prediction:")
-        prediction = predict_game(
-            team1="Michigan St.",
-            team2="Michigan",
-            home_team="team1"
-        )
-        print(f"Predicted margin: {prediction:.1f} points")
-        
-    except FileNotFoundError:
-        print("Error: Could not find season_results.csv. Please ensure the file exists.")
-    except ValueError as e:
-        print(f"Error: {str(e)}")
+        prediction = predict_game(team1, team2, home_team)
+        print(f"\nPrediction for {team1} vs {team2}: {prediction:.2f}")
+        '''
+
     except Exception as e:
-        print(f"An unexpected error occurred: {str(e)}")
+        print(f"An error occurred: {e}")
 
 if __name__ == "__main__":
-    main() 
+    main()
