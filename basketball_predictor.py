@@ -1,5 +1,5 @@
 import pandas as pd
-from sklearn.model_selection import train_test_split
+from sklearn.model_selection import train_test_split, cross_val_score
 from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score
 import numpy as np
@@ -8,12 +8,7 @@ from kenpompy.utils import login
 from kenpompy import summary
 # Ensure the feature_selection module is correctly implemented or replace with actual imports
 from feature_selection import (
-    exploratory_analysis,
-    univariate_feature_selection,
-    recursive_feature_elimination,
-    tree_based_feature_importance,
-    time_aware_cross_validation,
-    stability_check
+    univariate_feature_selection
 )
 
 
@@ -28,7 +23,9 @@ class BasketballPredictor:
             reg_alpha=0,
             reg_lambda=0
         )
+        
         self.scaler = StandardScaler()
+    
     
     def train(self, X_train, y_train, X_val=None, y_val=None):
         """Train with fixed parameters"""
@@ -41,6 +38,11 @@ class BasketballPredictor:
         importance_dict = dict(zip(X_train.columns, importance))
         for col, imp in sorted(importance_dict.items(), key=lambda x: x[1], reverse=True):
             print(f"{col}: {imp:.3f}")
+        
+        # Cross-validation
+        scores = cross_val_score(self.model, X_train, y_train, cv=5, scoring='neg_mean_squared_error')
+        rmse_scores = (-scores) ** 0.5
+        print(f"Cross-Validation RMSE: {rmse_scores.mean():.3f}")
     
     def evaluate(self, X, y):
         """
@@ -53,34 +55,25 @@ class BasketballPredictor:
             
             # Calculate R²
             r2 = r2_score(y, y_pred)
-            print(f"R²: {r2:.3f}")
             
             # Calculate Adjusted R²
             n = len(y)  # Number of observations
             p = X.shape[1]  # Number of predictors
             if n <= p + 1:
                 raise ValueError("Number of observations is too small for the number of predictors.")
-            adjusted_r2 = 1 - ((1 - r2) * (n - 1)) / (n - p - 1)
             
             # Calculate RSS (Residual Sum of Squares)
             rss = np.sum((y - y_pred) ** 2)
-            print(f"RSS: {rss:.3f}")
             
             # Calculate AIC
             aic = n * np.log(rss / n) + 2 * p
-            print(f"AIC: {aic:.3f}")
             
             # Calculate BIC
             bic = n * np.log(rss / n) + p * np.log(n)
-            print(f"BIC: {bic:.3f}")
             
             # Calculate additional metrics
             mae = mean_absolute_error(y, y_pred)
             rmse = np.sqrt(mean_squared_error(y, y_pred))
-            
-            # Print additional metrics
-            print(f"Mean Absolute Error (MAE): {mae:.3f}")
-            print(f"Root Mean Squared Error (RMSE): {rmse:.3f}")
             
         
         except Exception as e:
@@ -95,6 +88,24 @@ class BasketballPredictor:
         """
         X_scaled = self.scaler.transform(X)
         return self.model.predict(X_scaled)
+
+def sym_predict(model, x1, x2):
+    """
+    Symmetrize predictions to enforce antisymmetry.
+    f_anti(x1, x2) = 0.5 * [f(x1, x2) - f(x2, x1)]
+    """
+    # Predict for (team1, team2)
+    y_ab = model.predict(x1)
+    if len(y_ab) != 1:
+        raise ValueError(f"Expected a single prediction for x1, but got {len(y_ab)} predictions.")
+    
+    # Predict for (team2, team1)
+    y_ba = model.predict(x2)
+    if len(y_ba) != 1:
+        raise ValueError(f"Expected a single prediction for x2, but got {len(y_ba)} predictions.")
+    
+    # Return the antisymmetric part
+    return 0.5 * (y_ab[0] - y_ba[0])
 
 def load_training_data():
     try:
@@ -268,23 +279,23 @@ def load_training_data():
         )
         
         # Feature selection
-        # Print the column names of the merged dataset
-        print("Columns in the merged dataset:")
-        print(merged.columns.tolist())
 
         # Use the actual column names from the data
         numeric_columns = [
-            'Tempo-Adj',
-            'Off. Efficiency-Adj',
-            'Def. Efficiency-Adj',
-            'Avg. Poss Length-Offense',
-            'Avg. Poss Length-Defense',
-            'Off-eFG%',
-            '3P%_x',
-            '3P%_y',
-            'Off-TO%',
-            'Stl%_x',
-            'Stl%_y'
+            'Off. Efficiency-Adj',        # Overall offensive efficiency (adjusted)
+            'Def. Efficiency-Adj',        # Overall defensive efficiency (adjusted)
+            'Off. Efficiency-Adj.Rank',   # Ranking perspective on offensive efficiency
+            'Def. Efficiency-Adj.Rank',   # Ranking perspective on defensive efficiency
+            'Experience',                 # Team experience
+            'Def-eFG%',                   # Effective field goal percentage allowed by the defense
+            'Off-eFG%',                   # Effective field goal percentage for the offense
+            '2P%_y',                      # Two-point shooting percentage for the opponent
+            'Blk%_y',                     # Block percentage for the opponent
+            'Off-TO%',                    # Turnover percentage for the offense
+            'Avg. Poss Length-Defense',   # Average possession length for the defense
+            'Continuity',                 # Team continuity
+            'Stl%_x',                     # Steal percentage for the offense
+            'EffHgt'                      # Effective height     
         ]
         
         for col in numeric_columns:
@@ -297,12 +308,9 @@ def load_training_data():
         # Calculate feature differences
         for col in numeric_columns:
             merged[f'{col}_diff'] = merged[f'{col}_home'] - merged[f'{col}_away']
-            
-        # Add home court advantage
-        merged['home_court_advantage'] = merged['neutral'].map({0: 1, 1: 0})
         
         # Select features and target
-        feature_columns = [f'{col}_diff' for col in numeric_columns] + ['home_court_advantage']
+        feature_columns = [f'{col}_diff' for col in numeric_columns]
         X = merged[feature_columns]
         y = merged['home_score'] - merged['away_score']
         
@@ -315,7 +323,7 @@ def load_training_data():
 
 def predict_game(team1, team2, home_team):
     """
-    Predict the outcome of a game between two teams.
+    Predict the outcome of a game between two teams using the symmetrizer.
     """
     try:
         browser = login('willkimball8@gmail.com', 'dkzTrGWm1G')
@@ -338,61 +346,93 @@ def predict_game(team1, team2, home_team):
         
         # Define numeric_columns with correct column names
         numeric_columns = [
-            'Tempo-Adj',
-            'Off. Efficiency-Adj',
-            'Def. Efficiency-Adj',
-            'Avg. Poss Length-Offense',
-            'Avg. Poss Length-Defense',
-            'Off-eFG%',
-            '3P%_x',
-            '3P%_y',
-            'Off-TO%',
-            'Stl%_x',
-            'Stl%_y'
+            'Off. Efficiency-Adj',        # Overall offensive efficiency (adjusted)
+            'Def. Efficiency-Adj',        # Overall defensive efficiency (adjusted)
+            'Off. Efficiency-Adj.Rank',   # Ranking perspective on offensive efficiency
+            'Def. Efficiency-Adj.Rank',   # Ranking perspective on defensive efficiency
+            'Experience',                 # Team experience
+            'Def-eFG%',                   # Effective field goal percentage allowed by the defense
+            'Off-eFG%',                   # Effective field goal percentage for the offense
+            '2P%_y',                      # Two-point shooting percentage for the opponent
+            'Blk%_y',                     # Block percentage for the opponent
+            'Off-TO%',                    # Turnover percentage for the offense
+            'Avg. Poss Length-Defense',   # Average possession length for the defense
+            'Continuity',                 # Team continuity
+            'Stl%_x',                     # Steal percentage for the offense
+            'EffHgt'                      # Effective height
         ]
-        # Create features DataFrame
-        features = pd.DataFrame([{
+        
+        # Create features for (team1, team2)
+        features_1 = pd.DataFrame([{
             f'{col}_diff': float(team1_stats[col]) - float(team2_stats[col])
             for col in numeric_columns
         }])
         
-        # Add home court advantage
-        if home_team is None:  # Neutral site
-            features['home_court_advantage'] = 0
-            venue_type = "neutral"
-        elif home_team == "team1":
-            features['home_court_advantage'] = 1
-            venue_type = "team1_home"
-        else:
-            features['home_court_advantage'] = -1
-            venue_type = "team2_home"
+        # Create features for (team2, team1)
+        features_2 = pd.DataFrame([{
+            f'{col}_diff': float(team2_stats[col]) - float(team1_stats[col])
+            for col in numeric_columns
+        }])
         
-        # Make prediction
-        predictor = BasketballPredictor()
+        # Load training data and train the model
         X, y = load_training_data()
+        predictor = BasketballPredictor()
         predictor.train(X, y)
-        prediction = predictor.predict(features)[0]
         
-        # Show who's favored
-        print(f"\nModel Prediction:")
-        if prediction > 0:
-            favored_team = team1
-            line = prediction
-        else:
-            favored_team = team2
-            line = -prediction
+        # Use the symmetrizer to make predictions
+        prediction = sym_predict(predictor, features_1, features_2)
+        
+        # Apply home court boost
+        home_court_boost = 3  # Example fixed value for home court advantage
+        if home_team == "team1":
+            prediction += home_court_boost
+        elif home_team == "team2":
+            prediction -= home_court_boost
             
-        print(f"{favored_team} favored by {line:.1f} points")
-        
-        # Show betting line (from perspective of favored team)
-        venue_text = "(neutral)" if venue_type == "neutral" else ""
-        print(f"Betting line {venue_text}: {favored_team} -{line:.1f}")
-        
         return prediction
         
     except Exception as e:
         print(f"Error during prediction: {str(e)}")
         raise
+
+def get_prediction(team1, team2, venue):
+    """
+    Get the prediction result for a game between two teams.
+    """
+    try:
+        # Map venue to home_team
+        home_team_map = {
+            "Team 1 Home": "team1",
+            "Team 2 Home": "team2",
+            "Neutral Site": None
+        }
+        home_team = home_team_map[venue]
+        
+        # Load training data and train the model
+        X, y = load_training_data()
+        predictor = BasketballPredictor()
+        predictor.train(X, y)
+        
+        # Make prediction
+        prediction = predict_game(team1, team2, home_team=home_team)
+        
+        # Determine favored team and line
+        if prediction > 0:
+            favored_team = team1
+            line = prediction
+        else:
+            favored_team = team2
+            line = -prediction  # Make positive for display
+        
+        # Return the result
+        return {
+            "favored_team": favored_team,
+            "line": line,
+            "venue": venue
+        }
+    
+    except Exception as e:
+        raise RuntimeError(f"Error during prediction: {e}")
 
 def prepare_game_data():
     """
@@ -419,7 +459,6 @@ def prepare_game_data():
     
     # Save the processed data
     results_df.to_csv('2024_season_results.csv', index=False)
-    print(f"Processed {len(results_df)} games")
     
     return results_df
 
@@ -455,39 +494,72 @@ def get_all_stats(browser):
         raise
 
 def main():
-    try:        # Load and split training data
+    try:
+        # Load and split training data
+        print("Loading training data...")
         X, y = load_training_data()
-
+        
         # Feature selection
+        print("\nPerforming feature selection...")
         feature_scores = univariate_feature_selection(X, y, method='f_regression', k=10)
         print("Univariate feature selection completed.")
-
-        '''
+        
         # Split data into training and validation sets
+        print("\nSplitting data into training and validation sets...")
         X_train, X_val, y_train, y_val = train_test_split(X, y, test_size=0.2, random_state=42)
         
         # Initialize and train the model
+        print("\nInitializing and training the model...")
         predictor = BasketballPredictor()
         predictor.train(X_train, y_train)
         
-        print("Target Variable (y) Statistics:")
-        print(y.describe())
-        # Evaluate the model
-        print("\nEvaluating the model on the validation set...")
-        predictor.evaluate(X_val, y_val)
+        # Test predictions
+        print("\nRunning test predictions...")
+        team1 = "alabama"  # Replace with a valid team name
+        team2 = "auburn"  # Replace with a valid team name
         
-        # Test run with two teams
-        print("\nRunning a test prediction...")
-        team1 = "wake forest"  # Replace with the name of the first team
-        team2 = "virginia"  # Replace with the name of the second team
-        home_team = "team1"  # Set to "team1", "team2", or None for neutral site
+        # Test team1 home
+        print("\nTesting Team1 Home...")
+        prediction_team1_home = predict_game(team1, team2, home_team="team1")
+        favored_team1_home = team1 if prediction_team1_home > 0 else team2
+        print(f"Prediction (Team1 Home): {prediction_team1_home:.2f} - Favored Team: {favored_team1_home}")
         
-        prediction = predict_game(team1, team2, home_team)
-        print(f"\nPrediction for {team1} vs {team2}: {prediction:.2f}")
-        '''
-
+        # Test team2 home
+        print("\nTesting Team2 Home...")
+        prediction_team2_home = predict_game(team1, team2, home_team="team2")
+        favored_team2_home = team1 if prediction_team2_home > 0 else team2
+        print(f"Prediction (Team2 Home): {prediction_team2_home:.2f} - Favored Team: {favored_team2_home}")
+        
+        # Test neutral site
+        print("\nTesting Neutral Site...")
+        prediction_neutral = predict_game(team1, team2, home_team=None)
+        favored_neutral = team1 if prediction_neutral > 0 else team2
+        print(f"Prediction (Neutral Site): {prediction_neutral:.2f} - Favored Team: {favored_neutral}")
+        
+        # Calculate and print MSE on validation set
+        
+        y_pred = predictor.predict(X_val)  # Get predictions for validation set
+        mse = mean_squared_error(y_val, y_pred)  # Calculate MSE
+        mae = mean_absolute_error(y_val, y_pred)
+        rmse = np.sqrt(mse)
+        r2 = r2_score(y_val, y_pred)
+        
+        # Calculate Adjusted R²
+        n = len(y_val)  # Number of observations
+        p = X_val.shape[1]  # Number of predictors
+        adjusted_r2 = 1 - ((1 - r2) * (n - 1)) / (n - p - 1)
+        
+        # Print performance metrics
+        print("\nPerformance Metrics:")
+        print(f"Mean Squared Error (MSE): {mse:.2f}")
+        print(f"Mean Absolute Error (MAE): {mae:.2f}")
+        print(f"Root Mean Squared Error (RMSE): {rmse:.2f}")
+        print(f"R-Squared (R²): {r2:.2f}")
+        print(f"Adjusted R-Squared: {adjusted_r2:.2f}")
+        
     except Exception as e:
         print(f"An error occurred: {e}")
 
 if __name__ == "__main__":
     main()
+

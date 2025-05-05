@@ -45,8 +45,8 @@ def univariate_feature_selection(X, y, method='f_regression', k=10):
         'Score': scores
     }).sort_values(by='Score', ascending=False)
     
-    print("\nUnivariate Feature Selection:")
-    print(feature_scores)
+    print("\nTop 15 Features by Importance:")
+    print(feature_scores.head(45))
     
     return feature_scores
 
