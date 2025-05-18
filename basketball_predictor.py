@@ -6,6 +6,7 @@ import numpy as np
 from xgboost import XGBRegressor
 from kenpompy.utils import login
 from kenpompy import summary
+import matplotlib.pyplot as plt
 # Ensure the feature_selection module is correctly implemented or replace with actual imports
 from feature_selection import (
     univariate_feature_selection
@@ -33,16 +34,15 @@ class BasketballPredictor:
         self.model.fit(X_scaled, y_train)
         
         # Print feature importance
-        print("\nFeature Importance:")
-        importance = self.model.feature_importances_
-        importance_dict = dict(zip(X_train.columns, importance))
-        for col, imp in sorted(importance_dict.items(), key=lambda x: x[1], reverse=True):
-            print(f"{col}: {imp:.3f}")
+        # print("\nFeature Importance:")
+        # importance_dict = dict(zip(X_train.columns, importance))
+        # for col, imp in sorted(importance_dict.items(), key=lambda x: x[1], reverse=True):
+        #     print(f"{col}: {imp:.3f}")
         
         # Cross-validation
         scores = cross_val_score(self.model, X_train, y_train, cv=5, scoring='neg_mean_squared_error')
         rmse_scores = (-scores) ** 0.5
-        print(f"Cross-Validation RMSE: {rmse_scores.mean():.3f}")
+        # print(f"Cross-Validation RMSE: {rmse_scores.mean():.3f}")
     
     def evaluate(self, X, y):
         """
@@ -277,8 +277,6 @@ def load_training_data():
             how='left',
             suffixes=('_home', '_away')
         )
-        
-        # Feature selection
 
         # Use the actual column names from the data
         numeric_columns = [
@@ -556,6 +554,15 @@ def main():
         print(f"Root Mean Squared Error (RMSE): {rmse:.2f}")
         print(f"R-Squared (R²): {r2:.2f}")
         print(f"Adjusted R-Squared: {adjusted_r2:.2f}")
+        
+        # Residual analysis
+        residuals = y_val - y_pred
+        plt.scatter(y_val, residuals)
+        plt.axhline(0, color='red', linestyle='--')
+        plt.xlabel('Actual Spread')
+        plt.ylabel('Residuals')
+        plt.title('Residual Analysis')
+        plt.show()
         
     except Exception as e:
         print(f"An error occurred: {e}")
